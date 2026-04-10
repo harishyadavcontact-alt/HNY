@@ -1,0 +1,1 @@
+**:** A form of pleiotropy (wherein one gene has effects on multiple traits) in which the fitness effects run counter to one another. Regarding senescence, one effect is beneficial early in life, while another is detrimental late in life.

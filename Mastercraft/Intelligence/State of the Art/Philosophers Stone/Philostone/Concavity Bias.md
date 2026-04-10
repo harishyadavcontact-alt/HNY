@@ -1,0 +1,1 @@
+    The difference is called the “negative convexity bias” (or, if you are a stickler,“concavity bias”). The hidden harm of fragility is that you need to be much, much better than random in your prediction and knowing where you are going, just to offset the negative effect.

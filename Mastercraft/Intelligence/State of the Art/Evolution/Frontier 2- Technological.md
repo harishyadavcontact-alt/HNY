@@ -1,0 +1,5 @@
+Technological frontiers
+
+are moments when innovation allows a human population to make more, or do more, or grow more, than they did before the innovation occurred. Every human culture that has terraced hillsides, decreasing runoff and increasing crop production, was confronting technological frontiers—from the Inca in the Andes to the Malagasy on the haut plateau of Madagascar. The first farmers in China, Mesopotamia, and Mesoamerica were doing so, and the first ceramicists—who dug clay, formed it into useful shapes, and fired it in coals—were doing so as well.
+
+Technological frontiers are the creation of resource through human ingenuity. Technological frontiers are temporarily non-zero-sum—specifically, positive-sum—and this can appear to be a permanent state. But there are physical limits: a single electron is the theoretical minimum needed to flip from one state to another in a transistor, for instance.

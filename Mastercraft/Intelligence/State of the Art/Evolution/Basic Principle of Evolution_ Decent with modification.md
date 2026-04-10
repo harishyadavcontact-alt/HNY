@@ -1,0 +1,4 @@
+﻿	- Decent with modification, like begets like, but with modification, not all that changes over time has evolved, each begeting includes modifications, for example son is like father, but not identical, change over thime is insufficientm because ocean, lake shoreline, hurricanes, rain showers,sun moon change not evolve, theses are abiotic - no ancestors.
+	- Evolution requires, Biotic(living) things, Lineage(ancestary, decent), modifications(across generations), infomolecue DNA is our case
+	- **Specificity to life:** Applies only to biotic (living) things, Not abiotic phenomena, Life elsewhere in universe would have different informational molecule, Same process, different particulars
+- Like begets like begets like, but with each begetting there are small changes.

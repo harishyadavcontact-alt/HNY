@@ -1,0 +1,5 @@
+- Inter Dependencies
+        - **Coupling**: Tight coupling can propagate failures
+        - **Redundancy**: Provides resilience by duplicating critical components
+        - **Buffers**: Absorb shocks and prevent cascading failure
+        - Feedback loops: (positive: amplifying; negative: stabilizing).

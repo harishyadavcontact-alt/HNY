@@ -1,0 +1,1 @@
+Only in a definite future is money a means to an end, not the end itself.

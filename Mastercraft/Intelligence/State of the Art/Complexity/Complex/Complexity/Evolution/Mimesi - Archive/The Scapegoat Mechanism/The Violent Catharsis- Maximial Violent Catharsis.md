@@ -1,0 +1,3 @@
+**This victim will be expelled, often murdered very brutally, as the group gains a cathartic release and peace is restored.**
+
+To truly establish a peaceful society in a time of turmoil, this murder must be maximally cathartic and as a result has to be maximally violent and deceitful – often blaming a singular victim for the entirety of the society’s problems. And Girard thinks that this murder is wrong, that it is based on a lie, that it is regrettable, that it should not be done – but it worked and it was the only thing that worked which kept early human societies alive.

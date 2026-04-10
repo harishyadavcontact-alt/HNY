@@ -1,0 +1,7 @@
+#### Our system is fragile
+
+As we move up the technological curve, any perturbation may entail more pronounced cascade effects. Our system is currently not set up to have the resilience to deal with these culminations.
+
+One hundred fifty years ago, shutting down the power grid would not have had much impact. However, because we are so reliant on the system, an agent's capacity to shut down the power grid could result in a catastrophe. Centralization and connectedness introduce a fragility, whereby several different ways to shut down the power grid like an EMP, cyber warfare, or even a distributed drone swarm are imaginable. Experts predict that a Carrington flare, a solar geomagnetic storm, would cause widespread electrical disruption, blackouts, and damage to the electrical grid. To make a point, the solar storm of 2012 missed earth's orbit by nine days.
+
+Natural disasters could also compound this issue. An example is the 2010 eruptions of Iceland's volcano. Although in a remote location and relatively small for a volcanic eruption, air traffic was disrupted by the ash plumes for an entire week. Overall, 10 million travelers were affected. If the flights had been disrupted for more weeks, it could have affected global supply chains.

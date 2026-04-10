@@ -1,0 +1,1 @@
+I have called “Platonicity” the love of some crisp abstract forms, the theoretical forms and universals that make us blind to the mess of reality and cause Black Swan effects. Then I realized that there was an asymmetry. I truly believe in Platonic ideas when they come in reverse, like negative universals.

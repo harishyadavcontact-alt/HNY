@@ -1,0 +1,7 @@
+- [[Expidious]] is things in [[Emergency]] where you put your [[Soul in the Game]] [Execution](https://www.notion.so/Execution-756584d26ad44af185d1b97344d4f333?pvs=21) is done via [Surgical Execution](https://www.notion.so/Surgical-Execution-027f9aa51d9e47aa9777b5c6366991cd?pvs=21).
+
+- The Expedious Man is [[Experimental]], [[Trial & Error]], [[Tinkering]], [[Forging]], [[Honing]], [[Wielding]] in the Right Tail, he is at the [[The Edge- No middle Grounds]] the [[Library(anti)/State of the Art(Lib)/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Masculine Perogative/The Edge No middle Grounds/@Frontier]] & [[Library(anti)/State of the Art(Lib)/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Masculine Perogative/The Edge No middle Grounds/Frontlines]].
+
+- The is Hunting & Harventing [[Right Tail]]
+
+- Future [[Progress]], more importantly [[Vertical (Intencive) Progress]] comes from [[Experimental]], [[Trial & Error]] & [[Build]] with [[Tinkering]], [[Forging]], [[Honing]], [[Wielding]] on the [[Library(anti)/State of the Art(Lib)/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Masculine Perogative/The Edge No middle Grounds/Frontlines]] & [[Library(anti)/State of the Art(Lib)/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Masculine Perogative/The Edge No middle Grounds/@Frontier]].

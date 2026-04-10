@@ -1,0 +1,1 @@
+- , direct attacks you are in danger. turn the crab around with a stick to reveal its tender underside and the creature is rendered helpless, it is by turning the nemy by attacking his flank that battles are won, attack where they are least able to defent, force sten is in the front, attcing the flan hit where the defence is weak

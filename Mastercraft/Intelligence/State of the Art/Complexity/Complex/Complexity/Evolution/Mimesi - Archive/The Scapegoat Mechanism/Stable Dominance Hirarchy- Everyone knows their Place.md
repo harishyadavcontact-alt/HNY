@@ -1,0 +1,3 @@
+As early humans evolved to be more and more mimetic, the simple dominance hierarchies that were able to contain animal groups started breaking down. The idea goes something like this: dominance hierarchies where there is a clear chain of alpha to beta to gamma all the way to omega works fine if there is little mimesis.
+
+**In so far as the beta doesn’t desire what the alpha has and the gamma doesn’t desire what the beta has, then all is well.**

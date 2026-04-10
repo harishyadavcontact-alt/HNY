@@ -1,0 +1,1 @@
+Further, errors and their consequences are information; for small children, pain is the only risk management information, as their logical faculties are not very developed. For complex systems are, well, all about information. And there are many more conveyors of information around us than meet the eye.

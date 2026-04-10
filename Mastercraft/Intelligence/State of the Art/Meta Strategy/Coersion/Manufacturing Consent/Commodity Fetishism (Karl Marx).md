@@ -1,0 +1,3 @@
+- In _Das Kapital_, Marx describes _commodity fetishism_ as the way in which commodities are imbued with social power, obscuring the labor and social relations behind them. 
+
+- In capitalism, the value of goods becomes disconnected from the labor that produces them, and commodities seem to take on a life of their own, creating a mystifying effect that obscures the exploitation of workers.

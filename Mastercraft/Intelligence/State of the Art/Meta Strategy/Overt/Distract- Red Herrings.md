@@ -1,0 +1,3 @@
+**USE DECOYED OBJECTS OF DESIRE AND RED HERRINGS TO THROW PEOPLE OFF THE SCENT**
+
+If at any point in the deception you practice people have the slightest suspicion as to your intentions, all is lost. Do not give them the chance to sense what you are up to: Throw them off the scent by dragging red herrings across the path. Use false sincerity, send ambiguous signals, set up misleading objects of desire. Unable to distinguish the genuine from the false, they cannot pick out your real goal.

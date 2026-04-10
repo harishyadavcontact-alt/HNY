@@ -1,0 +1,1 @@
+- The _labour theory of value_ holds that the value of a commodity is determined by the amount of socially necessary labor time required for its production. Marx argues that under capitalism, labor is exploited because workers receive only a portion of the value they create in the form of wages, while the capitalist appropriates the rest as surplus value (profit).

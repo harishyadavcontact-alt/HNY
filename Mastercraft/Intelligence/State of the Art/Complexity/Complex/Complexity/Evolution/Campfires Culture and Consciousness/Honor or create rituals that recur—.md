@@ -1,0 +1,1 @@
+annually, seasonally, weekly, or even daily. They might be ancient and religious in origin (e.g., honoring the Sabbath or Lent—a time for both selective privation and community), astronomical (e.g., recognizing and celebrating the solstices and equinoxes), or entirely new with you and yours.

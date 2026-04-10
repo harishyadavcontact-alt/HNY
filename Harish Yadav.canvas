@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"29217c4a277e25a2","type":"text","text":"what I am","x":-160,"y":-674,"width":250,"height":60},
+		{"id":"9dbc8e6752ac58f1","type":"text","text":"Who I am","x":-480,"y":-674,"width":250,"height":60},
+		{"id":"0685a1b65e59363b","type":"text","text":"- The Edge\n\t- Frontlines & Frontiers\n\t\t- I will suffer, pain face fear the darkness, on the frontlines & frontiers \n\t- Everything is boring, not to entertain to a Man, except Love and war\n\t- Everything is fair in love and war\n- Defeat \n\t- no rest, defeat, capitulate, retreat or surrender.\n\t- There is no rest for you in this world, perhaps in the next\n- ","x":-488,"y":-467,"width":308,"height":467},
+		{"id":"b9b1c8c5c6a2e2a3","type":"text","text":"- Kill the boy\n\t- Honor\n\t\t- Death before dishonor\n\t\t- Its about how to die\n\t\t\t- if death is scarier that honor, you are already dead\n\t\t\t- a honourable existence or die trying\n\t\t\t- live for love\n\t\t\t- Die for love\n\t\t\t- kill for love\n\t\t\t- War for love\n\t- War & Love\n\t\t- love for war\n\t\t- war for love\n\t- Stages of boy to Man\n\t\t- Ready to Die\n\t\t\t- be in the grave, \n\t\t\t- Do it or die trying.\n\t\t- Ready to eat unlimited pain and fear\n\t\t- Monster\n\t\t\t- be a warrior in garden, only warriors can be in gardens\n\t\t- Dangerous\n\t\t\t- its a race to the bottom and the last man standing wins.\n\t\t- Enemies\n\t\t\t- try me, never why me, \n\t\t\t- Pity fragility, vulnerability \n\t\t- Respect\n\t\t\t- respect from enemies, undeniability, credits, credentials, historic change\n\t- Predators\n\t\t- Love and War\n\t\t\t- Man up\n\t\t- Outside\n\t\t\t- Killers, sharks, \n\t\t\t- Cold, calculated\n\t\t\t- \n\t\t- Inside\n\t\t\t- Cool calm and collected\n\t\t- Stake\n\t\t- Risk\n\t\t\t- Risk Death, get rich or die trying\n\t\t- Odds\n\t\t\t- Attention is the coin of the in girl world\n\t\t\t- Pain is the coin in the realm of men, All growth is \n\t- Play\n\t\t- Play to win\n\t- Climb the to of the food chain\n\t- ","x":-160,"y":-467,"width":420,"height":567},
+		{"id":"9ca865ff62b19839","type":"text","text":"- Mastery\n\t- Craft, Wield, Forge, hone\n\t- Train, Practice, ","x":-489,"y":80,"width":310,"height":157},
+		{"id":"677039790e2beab1","type":"text","text":"- Stop listenign to children, women and bit ass men for starte\n- stop listening to men who lie, hide the truth\n- ","x":-78,"y":234,"width":250,"height":246}
+	],
+	"edges":[
+		{"id":"d4d6009db4718dd0","fromNode":"29217c4a277e25a2","fromSide":"bottom","toNode":"b9b1c8c5c6a2e2a3","toSide":"top"},
+		{"id":"10fb2c3ef43d2403","fromNode":"9dbc8e6752ac58f1","fromSide":"bottom","toNode":"29217c4a277e25a2","toSide":"top"},
+		{"id":"b76df7e11a69476f","fromNode":"0685a1b65e59363b","fromSide":"bottom","toNode":"9ca865ff62b19839","toSide":"top"},
+		{"id":"d2daaef986e91a6c","fromNode":"b9b1c8c5c6a2e2a3","fromSide":"bottom","toNode":"677039790e2beab1","toSide":"top"}
+	]
+}

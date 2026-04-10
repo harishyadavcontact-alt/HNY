@@ -1,0 +1,14 @@
+interpopulation transfer of Resources
+
+Finally, there are transfer of resource frontiers.
+
+Unlike geographic and technological frontiers, transfer of resource frontiers are inherently a form of theft. When people from the Old World came across the Atlantic and landed in the New World, they may have at first imagined that they had stumbled upon a vast geographic frontier, but they hadn’t. In 1491, the New World is estimated to have had between fifty million and one hundred million people in it, with uncountable distinct cultures and languages. Some people were living in city-states, among astronomers, craftsmen, and scribes; others as hunter-gatherers.1 To Francisco Pizarro, the Inca Empire was a transfer of resource frontier. To the instigators of the rubber boom in western Amazonia at the end of the 19th century, the Zaparo territory was a transfer of resource frontier—and once the Zaparos were thus weakened, their longtime competitors, the Huaorani, moved in as well.2 In modern times, transfer of resource frontiers are everywhere: oil drilling, fracking, and logging in ancestral lands; predatory lending, as with subprime mortgages and much student debt; the Holocaust. One symptom of transfer of resource frontiers is tyranny.
+
+Transfer of resource frontiers are theft of resource from other human populations. Like all frontiers, transfer of resource frontiers are ultimately zero-sum. Theft has its limits; even thieves must obey physical laws.
+interpopulation transfer of Resources
+
+Finally, there are transfer of resource frontiers.
+
+Unlike geographic and technological frontiers, transfer of resource frontiers are inherently a form of theft. When people from the Old World came across the Atlantic and landed in the New World, they may have at first imagined that they had stumbled upon a vast geographic frontier, but they hadn’t. In 1491, the New World is estimated to have had between fifty million and one hundred million people in it, with uncountable distinct cultures and languages. Some people were living in city-states, among astronomers, craftsmen, and scribes; others as hunter-gatherers.1 To Francisco Pizarro, the Inca Empire was a transfer of resource frontier. To the instigators of the rubber boom in western Amazonia at the end of the 19th century, the Zaparo territory was a transfer of resource frontier—and once the Zaparos were thus weakened, their longtime competitors, the Huaorani, moved in as well.2 In modern times, transfer of resource frontiers are everywhere: oil drilling, fracking, and logging in ancestral lands; predatory lending, as with subprime mortgages and much student debt; the Holocaust. One symptom of transfer of resource frontiers is tyranny.
+
+Transfer of resource frontiers are theft of resource from other human populations. Like all frontiers, transfer of resource frontiers are ultimately zero-sum. Theft has its limits; even thieves must obey physical laws.

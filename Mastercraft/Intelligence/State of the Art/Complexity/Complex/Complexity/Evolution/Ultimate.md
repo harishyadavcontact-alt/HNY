@@ -1,0 +1,2 @@
+**:** An evolutionary level of explanation, addressing _why_ a given structure or process is the way that it is. Compare with _proximate_.
+- **Ultimate explanations answer "why" questions** (evolutionary history). They look into deep time to explain the reason a trait persisted. Explaining _why_ two sexes evolved to exist in the first place, rather than three or zero, is an ultimate explanation.

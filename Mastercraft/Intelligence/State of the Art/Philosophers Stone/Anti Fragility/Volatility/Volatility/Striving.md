@@ -1,0 +1,1 @@
+Adapation is the moment, matter becomes striving, a salmon flows uphill, a sea ottr breaks into clams, they strive toward objective they dont understand.

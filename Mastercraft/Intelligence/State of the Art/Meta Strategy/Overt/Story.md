@@ -1,0 +1,1 @@
+Every accusation is a confession

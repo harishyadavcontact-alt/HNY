@@ -1,0 +1,11 @@
+- Mild Randomness Tames 
+	- Annealing: gently strike the barometer, then get a reading for his homemade weather forecast. The stress on the barometer got the needle unstuck and allowed it to find its true equilibrium position.
+- simulated annealing
+	- mathematicians use a method of computer simulation called _simulated annealing_ to bring more general optimal solutions to problems and situations, solutions that only randomness can deliver.
+- Random Search
+	- Randomness works well in search—sometimes better than humans. Nathan Myhrvold brought to my attention a controversial 1975 paper published in _Science_ showing that random drilling was superior to whatever search method was being employed at the time.
+- Chaos is cured by Randomness
+	- And, ironically, the so-called chaotic systems, those experiencing a brand of variations called _chaos,_ can be stabilized by adding randomness to them. I watched an eerie demonstration of the effects, presented by a doctoral student who first got balls to jump chaotically on a table in response to steady vibrations on the surface. These steady shocks made the balls jump in a jumbled and inelegant manner. Then, as by magic, he moved a switch and the jumps became orderly and smooth. The magic is that such change of regime, from chaos to order, did not take place by removing chaos, but by adding random, completely random but low-intensity shocks. I came out of the beautiful experiment with so much enthusiasm that I wanted to inform strangers on the street, “I love randomness!”
+- Illusion- You cannot Eliminate volatility by Eliminating volatility
+	- > This is the central illusion in life: that randomness is risky, that it is a bad thing—and that eliminating randomness is done by eliminating randomness.
+- - Natural randomness presents itself more like George’s income: smaller role for very large shocks, but daily variability. Further, such variability helps improve the system (hence the antifragility). A week with declining earnings for a taxi driver or a prostitute provides information concerning the environment and intimates the need to find a new part of town where clients hang around; a month or so without earnings drives them to revise their skills.``

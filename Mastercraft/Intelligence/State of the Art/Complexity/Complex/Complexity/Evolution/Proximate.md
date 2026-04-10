@@ -1,0 +1,4 @@
+A mechanistic level of explanation, addressing how a given structure or process functions. Compare with _ultimate_.
+
+- **Proximate explanations answer "how" questions** (functional mechanics). They look at the immediate mechanism of how something works right now. For example, explaining _how_ specific hormones and chromosomes physically trigger male or female development in a fetus is a proximate explanation.
+- **Ultimate explanations answer "why" questions** (evolutionary history). They look into deep time to explain the reason a trait persisted. Explaining _why_ two sexes evolved to exist in the first place, rather than three or zero, is an ultimate explanation

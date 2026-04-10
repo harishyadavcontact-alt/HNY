@@ -1,0 +1,5 @@
+Consider farmers in highland Guatemala who have a long-standing tradition to both plant and harvest crops only when the moon is full. This, they say, allows the plants to grow stronger and resist insect damage. What possible protective capacity could the phase of the moon have on crop health? Presumably none. But the phase of the moon _can_ synchronize the farmers. A full
+
+moon is effectively a giant sky clock, a keeper of time that everyone in the region can see. If all farmers in the region believe that a full moon has salutary effects on their individual crops, they will likely restrict planting and harvesting to the full moon—and this will, in fact, benefit everyone’s crops, just not for the reason the farmers believe. A belief in the power of the moon to directly affect crops effectively satiates predators,6 by concentrating the harvest into brief periods, during which time crop predators cannot eat all of everyone’s crops.
+
+It is easy to dismiss many myths and beliefs of old, precisely because they are literally false. Indeed, doing so is almost a sport among some hardheaded people.

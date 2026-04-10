@@ -1,0 +1,2 @@
+ small units and aggregate small units is > large anything
+	- Small is beautiful in so many other ways. Take for now that the small (in the aggregate, that is, a collection of small units) is more antifragile than the large—in fact the large is doomed to breaking, a mathematical property we will explain later, that, sadly, seems universal as it applies to large corporations, very large mammals, and large administrations.

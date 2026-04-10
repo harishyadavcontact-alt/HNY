@@ -1,0 +1,3 @@
+Minnimization
+
+Maximization

@@ -1,0 +1,1 @@
+(when contrasted with culture, for the purposes of the model in this book): The fraction of cognition that is packaged for exchange between individuals (e.g., thoughts that can be communicated).Consciousness is valuable for problem-solving, but it isn’t so good for execution.

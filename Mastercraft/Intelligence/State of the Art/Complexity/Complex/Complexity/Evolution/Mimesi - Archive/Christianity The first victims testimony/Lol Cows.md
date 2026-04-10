@@ -1,0 +1,5 @@
+“Lolcow” is internet slang that refers to a person or group of people who are repeatedly mocked or ridiculed online, often because of their behavior, statements, or actions. The term is a combination of “lol,” which stands for “laugh out loud,” and “cow,” which is used metaphorically to denote someone who is a source of amusement or ridicule.
+
+Lolcows often exhibit behavior that is seen as bizarre, attention-seeking, or outlandish, which attracts online ridicule and mockery from others. They may be individuals who consistently make controversial or inflammatory statements, engage in attention-seeking behavior, or display a lack of self-awareness.
+
+It’s important to note that while lolcow culture is a common phenomenon on the internet, it can also lead to cyberbullying and harassment, which is not condoned. It’s always important to treat others with respect, even if you disagree with or find their behavior amusing.

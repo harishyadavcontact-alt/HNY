@@ -1,0 +1,2 @@
+- Legal Precedents are set on the sheer basis of repetition, repeat it long enough and it becomes legal Precedent.
+- 

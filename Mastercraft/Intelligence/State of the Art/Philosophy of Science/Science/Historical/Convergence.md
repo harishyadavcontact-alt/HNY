@@ -1,0 +1,1 @@
+Instead, evidence must come from multiple independent lines. Strength comes from convergence: when molecular evidence, fossil evidence, morphological evidence, and developmental evidence all point toward the same conclusion, this convergence provides strong support.

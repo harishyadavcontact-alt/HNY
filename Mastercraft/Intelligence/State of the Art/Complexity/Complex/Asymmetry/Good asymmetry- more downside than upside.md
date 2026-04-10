@@ -1,0 +1,1 @@
+Let me rephrase it in modern terms. Take the situation in which you have a lot to lose and little to gain. If an additional quantity of wealth, say, a thousand Phoenician shekels, would not benefit you, but you would feel great harm from the loss of an equivalent amount, you have an asymmetry. And it is not a good asymmetry: you are fragile.

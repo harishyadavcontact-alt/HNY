@@ -1,0 +1,5 @@
+This idea of one-sidedness can help us debunk a few more misconceptions. How do books get banned? Certainly not because they offend the average person—most persons are passive and don’t really care, or don’t care enough to request the banning. From past episodes, it looks like all it takes is a few (motivated) activists for the banning of some books, or the blacklisting of some people. The great philosopher and logician Bertrand Russell lost his job at the City University of New York owing to a letter by an angry—and stubborn—mother who did not wish to have her daughter in the same room as the fellow with a dissolute lifestyle and unruly ideas.
+
+The same seems to apply to prohibitions—at least to the prohibition of alcohol in the United States, which led to interesting mafia stories.
+
+Let us conjecture that the formation of moral values in society doesn’t come from the evolution of the consensus. No, it is the most intolerant person who imposes virtue on others precisely because of that intolerance. The same can apply to civil rights.

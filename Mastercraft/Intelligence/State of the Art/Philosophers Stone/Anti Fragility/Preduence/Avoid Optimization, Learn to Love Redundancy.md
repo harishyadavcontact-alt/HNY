@@ -1,0 +1,9 @@
+Psychologists tell us that getting rich does not bring happiness—if you spend it. But if you hide it under the mattress, you are less vulnerable to a black swan. Only fools (such as Banks) optimize, not realizing that a simple model error can blow through their capital (as it just did). In one day in August 2007, Goldman Sachs experienced 24 x the average daily transaction volume—would 29 times have blown up the system? The only weak point I know of financial markets is their ability to drive people & companies to “efficiency” (to please a stock analyst’s earnings target) against risks of extreme events.
+
+Indeed some systems tend to optimize—therefore become more fragile. Electricity grids for example optimize to the point of not coping with unexpected surges—Albert-Lazlo Barabasi warned us of the possibility of a NYC blackout like the one we had in August 2003. Quite prophetic, the fellow. Yet energy supply kept getting more and more efficient since. Commodity prices can double on a short burst in demand (oil, copper, wheat) —we no longer have any slack. Almost everyone who talks about “flat earth” does not realize that it is overoptimized to the point of maximal vulnerability.
+
+Biological systems—those that survived millions of years—include huge redundancies. Just consider why we like sexual encounters (so redundant to do it so often!). Historically populations tended to produced around 4-12 children to get to the historical average of ~2 survivors to adulthood.
+
+Option-theoretic analysis: redundancy is like long an option. You certainly pay for it, but it may be necessary for survival.
+
+[[Premature optimization is the root of all evil]]

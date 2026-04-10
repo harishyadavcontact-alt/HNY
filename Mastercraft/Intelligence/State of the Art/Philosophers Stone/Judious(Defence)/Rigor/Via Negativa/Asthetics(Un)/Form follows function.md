@@ -1,0 +1,1 @@
+- focus on the function the payoff no the form

@@ -1,0 +1,1 @@
+[[Take advantage of the Volatility, or it takes advantage of you]]

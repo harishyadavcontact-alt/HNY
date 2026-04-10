@@ -1,0 +1,1 @@
+- The critical blind spot in this vision, as revealed after 9/11, was its failure to account for the parts of the world that never made this "agreement to disagree."

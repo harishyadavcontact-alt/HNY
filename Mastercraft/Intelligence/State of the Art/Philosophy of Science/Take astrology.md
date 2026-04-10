@@ -1,0 +1,14 @@
+
+It is clearly beyond reason to imagine that the stars that we see, many of which are thousands of light-years away, are having a direct impact on human behavior. Similarly, it is beyond reason to believe that a passel of angry gods is the reason for tsunamis, yet among the Moken, those who believe in those gods survive at higher rates than those who don’t. And it is surely beyond reason to believe that a full moon is protective of crop health, yet among Guatemalan farmers, precisely that belief results in more productive farming.
+
+In each case, the belief is literally false, but metaphorically true.
+
+This means that the cover story isn’t true, but when people behave as if it were, they prosper. This is how religion and other belief structures spread. Even if such things are not literally true, acting as if they are benefits people; sometimes it even benefits the biodiversity and sustainability of the land on which they live.
+
+In its modern, tabloid form, astrology is bunk. But astrology has probably not been so everywhere and for all time. _If_—and this is a big _if_—you control for where a person was born, might not the time of year that they were born have effects on how they develop, and therefore who they become? And aren’t astrological signs just an ancient way of keeping track of the months, more or less? If we look at astrology this way, rather than as a modern indulgence that is too free of context and history to have meaning, it begins to look promising. Is a newborn in a Minnesota winter exposed to the same pathogens and activities as a newborn in a Minnesota summer? Surely not.
+
+And sure enough, there has been work done to bear out this idea: culling data from over 1.75 _million_ records at New York-Presbyterian/Columbia University Medical Center, for people born between 1900 and 2000, researchers found clear correlations between birth month and lifetime disease risk for more than fifty-five different conditions.8 With affected systems ranging from cardiovascular to respiratory, from neurological to sensory, the sheer number and breadth of medical conditions that vary in lifetime risk by birth month should be enough to make a thoughtful person rethink a wholesale rejection of careful astrological thinking.
+
+For if there are demonstrable differences in disease risk by birth month, why should we imagine that there are no differences in personality?
+
+As an aside: One prediction of this approach to astrology is that, if you include both birth place and date, astrology will have less power to predict lifetime disease risk the closer you get to the equator, where seasonality is much reduced from that in the temperate zones. Another prediction is that, the more a person moves around as a child, the less predictive astrology will be for them. (And if you don’t include birth place, astrology should have no predictive power at all.)

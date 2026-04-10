@@ -1,0 +1,3 @@
+- We know more than we think we do, a lot more than we can articulate. If our formal systems of thought denigrate the natural, and in fact we don’t have a name for anti-fragility, and fight the concept whenever we use our brains, it does not mean that our actions neglect it.
+
+- **Our perceptions and intuitions, as expressed in deeds, can be superior to what we know and tabulate, discuss in words, and teach in a classroom.**

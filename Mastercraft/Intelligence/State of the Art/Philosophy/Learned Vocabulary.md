@@ -1,0 +1,1 @@
+there is a small literature but it is not advertised outside a narrow discipline. We hear about the more lurid post-traumatic disorder, not post-traumatic growth, in the intellectual and so-called learned vocabulary.

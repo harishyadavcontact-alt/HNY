@@ -1,0 +1,1 @@
+> Those differences are the results of interactions between multiple layers of evolutionary forces. Furthermore, humans have the ability to directly plug in to one another and alter our culture, for both better and worse.

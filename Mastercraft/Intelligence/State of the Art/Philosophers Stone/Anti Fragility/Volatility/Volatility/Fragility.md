@@ -1,0 +1,2 @@
+lack of volatility = fragility
+	The difference between the two volatilities in income applies to political systems—and, as we will see in the next two chapters, to about everything in life. **Man-made smoothing of randomness produces the equivalent of John’s income: smooth, steady, but fragile.** Such income is more vulnerable to large shocks that can make it go to zero (plus some unemployment benefits if he resides in one of the few welfare states).

@@ -1,0 +1,13 @@
+You are in the post office about to send a gift, a package full of champagne glasses, to a cousin in Central Siberia. As the package can be damaged during transportation, you would stamp “fragile,” “breakable,” or “handle with care” on it (in red). Now what is the exact opposite of such situation, the exact opposite of “fragile”?
+
+Almost all people answer that the opposite of “fragile” is “robust,” “resilient,”“solid,” or something of the sort. But the resilient, robust (and company) are items that neither break nor improve, so you would not need to write anything on them—have you ever seen a package with “robust” in thick green letters stamped on it? Logically, the exact opposite of a “fragile” parcel would be a package on which one has written“please mishandle” or “please handle carelessly.” Its contents would not just be unbreakable, but would benefit from shocks and a wide array of trauma. The fragile is the package that would be _at best_ unharmed, the robust would be _at best_ and _at worst_ unharmed. And the opposite of fragile is therefore what is _at worst_ unharmed.
+
+We gave the appellation “antifragile” to such a package; a neologism was necessary as there is no simple, noncompound word in the _Oxford English Dictionary_ that expresses the point of reverse fragility. For the idea of antifragility is not part of our consciousness—but, luckily, it is part of our ancestral behavior, our biological apparatus, and a ubiquitous property of every system that has survived.
+
+To see how alien the concept is to our minds, repeat the experiment and ask around at the next gathering, picnic, or pre-riot congregation what’s the antonym of fragile (and
+
+specify insistently that you mean the _exact reverse,_ something that has opposite properties and payoff). The likely answers will be, aside from robust: unbreakable, solid, well-built, resilient, strong, something-proof (say, waterproof, windproof, rustproof)—unless they’ve heard of this book. Wrong—and it is not just individuals but branches of knowledge that are confused by it; this is a mistake made in every dictionary of synonyms and antonyms I’ve found.
+
+This blind spot seems universal. There is no word for “antifragility” in the main known languages, modern, ancient, colloquial, or slang. Even Russian (Soviet version) and Standard Brooklyn English don’t seem to have a designation for antifragility, conflating it with robustness.2
+
+Half of life—the interesting half of life—we don’t have a name for.

@@ -1,0 +1,1 @@
+Stastical & applied probabilistic knowledge is the core of knowledge, stastics is what tells you if something is true, false, or merely anecdotal, it is the instrument of risk taking, it applied tools of [[Epistemology]], but it means nothing in the Complex domain

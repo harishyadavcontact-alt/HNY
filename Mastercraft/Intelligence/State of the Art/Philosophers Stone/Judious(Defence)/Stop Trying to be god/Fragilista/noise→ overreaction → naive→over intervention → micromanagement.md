@@ -1,0 +1,3 @@
+If you want to accelerate someone’s death, give him a personal doctor. I don’t mean provide him with a bad doctor: just pay for him to choose his own. Any doctor will do.
+
+Likewise, those in corporations or in policy making (like Fragilista Greenspan) who are endowed with a sophisticated data-gathering department and are therefore getting a lot of “timely” statistics are capable of overreacting and mistaking noise for information—Greenspan kept an eye on such fluctuations as the sales of vacuum cleaners in Cleveland to, as they say, “get a precise idea about where the economy is going,” and of course he micromanaged us into chaos.

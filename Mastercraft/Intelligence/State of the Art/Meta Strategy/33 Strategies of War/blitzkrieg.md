@@ -1,0 +1,1 @@
+the mind mus be force to be judiou with brute force and Blitskrige

@@ -1,0 +1,1 @@
+An ancestral species and all of its descendants. Synonymous with a monophyletic group; ideally synonymous with taxon. Examples include birds, mammals, vertebrates, primates, and whales (which includes dolphins).

@@ -1,0 +1,3 @@
+Use a standing rule like this:
+
+“For every code change in this repo, act as if you own quality end to end. Add or update the narrowest correct tests, run the full validation ladder relevant to the change, check for security and regression risk, and do not stop at green unit tests if integration or workflow risk exists. If a validation layer is missing, create it. If you make an assumption, state it. If you cannot validate something, say exactly what remains unvalidated.”

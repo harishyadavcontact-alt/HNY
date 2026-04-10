@@ -1,0 +1,3 @@
+**(Antonio Gramsci)**:
+
+- Gramsci, an Italian Marxist theorist, developed the idea of _cultural hegemony_, which refers to the domination of a culturally diverse society by the ruling class, who manipulate culture to maintain their power. This is done by normalizing their worldview as "common sense," making it difficult for the working class to develop a counter-narrative. Hegemony is maintained through institutions like schools, media, and religion, which subtly reinforce the status quo.

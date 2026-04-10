@@ -1,0 +1,7 @@
+But we can even dial this one up a notch. Going from recognition to prestige and pushing it even higher, all the way to the sacred. Think about a sacred person, a sacred place, or a sacred object -- like the relics of a saint that have **infinite normative value**, Girard believes that this is nothing but turning up the dial of mimesis.  
+  
+**If the prestigious object has a disproportionately large amount of value relative to its intrinsic value, then the sacred object has an infinite amount of value compared to its intrinsic value.**  
+  
+Think about it like this: How much value does the relics of a saint hold to a disbeliever? Nothing. Zero, right? It's nothing more than a pile of bones. But for someone living in a society where everyone else treats the relics as holy, then they would appear indeed to take on that infinite degree of value. Girard's point is that this infinite value really comes from others and not the objects themselves.  
+  
+So, even the sacred, even the fundamental building blocks of gods are created by unanimity, bolstered through mimesis. What gives gods their infinite value and power for Girard is none other than unanimous belief in their infinite value and power. I think this is easy to see with religions that no one believes anymore -- everyone today would agree that for the Egyptian gods, not only was their normative status bolstered, but their very existence is propped up by unanimity.

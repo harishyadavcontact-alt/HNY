@@ -1,0 +1,1 @@
+A system is what converts inputs into outputs

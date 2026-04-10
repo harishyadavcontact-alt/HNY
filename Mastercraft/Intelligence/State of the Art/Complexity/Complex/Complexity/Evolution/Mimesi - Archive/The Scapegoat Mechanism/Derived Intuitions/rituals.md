@@ -1,0 +1,3 @@
+: generate catharsis by replaying the founding murder
+
+Now, when prohibitions fail, another set of institutions must be used. And these are rituals. Rituals aim to enact the founding murder in a constrained way to generate a similar level of catharsis as the founding murder did. Ritual incest, debaucherous festivals, human sacrifice – however cruel, these institutions also served a crucial function in Pagan society: to generate catharsis in order to keep the peace. They are a release valve.

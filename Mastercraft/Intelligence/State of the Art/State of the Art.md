@@ -1,0 +1,4 @@
+- State of the Art Understanding begins with the Understanding of
+	- [[The Map- 4th Quadrant]] 
+	- [[Philosophers Stone]] 
+	- [[Philosophy of Science]]

@@ -1,0 +1,1 @@
+[[Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Individual]]

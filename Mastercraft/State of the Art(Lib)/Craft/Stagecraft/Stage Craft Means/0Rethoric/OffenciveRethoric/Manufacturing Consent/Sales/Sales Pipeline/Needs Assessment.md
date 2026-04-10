@@ -1,0 +1,1 @@
+Once contact is made, the next step is to understand the prospect’s specific needs or pain points. This involves asking open-ended questions to identify how your product or service can solve their problem.

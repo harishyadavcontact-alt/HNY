@@ -1,0 +1,1 @@
+The state of having both male and female reproductive organs in the same individual. _Simultaneous hermaphrodites_ are male and female at the same time; _sequential hermaphrodites_ become one sex after being the other.

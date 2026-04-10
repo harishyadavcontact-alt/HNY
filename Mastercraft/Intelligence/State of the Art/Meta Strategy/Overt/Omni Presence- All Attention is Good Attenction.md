@@ -1,0 +1,5 @@
+COURT ATTENTION AT ALL COST
+
+JUDGMENT
+
+_Everything is judged by its appearance; what is unseen counts for nothing. Never let yourself get lost in the crowd, then, or buried in oblivion. Stand out. Be conspicuous, at all cost. Make yourself a magnet of attention by appearing larger, more colorful, more mysterious than the bland and timid masses._

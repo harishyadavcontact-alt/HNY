@@ -1,0 +1,1 @@
+(_**sensu lato**_, as employed by early biologists and as used in this book): The ability of information to be passed between individuals or lineages. (Heritable, _sensu stricto_, restricts the meaning to vertical transmission of genetic information.)

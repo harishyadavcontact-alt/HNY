@@ -1,0 +1,1 @@
+, if there is anything in you that is curious. They are now legal in some places. But consider engaging them as the powerful cognitive tools that they are, not as a form of recreation. That doesn’t mean you can’t have fun.

@@ -1,0 +1,5 @@
+Christianity takes humanity out of cyclical time, demarcated by these relativistic moral paradigm shifts, and accelerates us towards a linear trajectory. The direction of this linearity is defined by four key forces that Christ lets loose on human history: love, truth, innovation, and surprisingly, Girard thinks, violence.
+
+- 4 Forces and motivations
+    
+    As with all things Girard, even his analysis on the worldly effects of Christianity are deeply ambivalent. Within this Pandora’s box of forces that Christ has just let loose on human history we have the good – love, truth, innovation – but also the apocalyptic – violence. They are both growing and have broken free all at the same time. What’s more, even within these individual forces, Girard’s analysis is deeply ambivalent: love often manifests as hypocrisy, truth becomes dogma, innovation degenerates into fashion. And even in violence, Girard sees a key motivational force that has brought forth the most enviable living conditions of man when channeled productively through capitalism. Let’s examine each of these forces in turn.

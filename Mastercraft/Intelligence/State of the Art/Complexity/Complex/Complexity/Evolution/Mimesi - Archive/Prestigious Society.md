@@ -1,0 +1,5 @@
+In many parts of culture, children are led along a path of prestige, where they’re told to ace their tests no matter how tedious so they can attend an elite university no matter how incompatible, in order to work a prestigious job no matter how trivial.
+
+Prestige sometimes provides the necessary motivational force to achieve our goals, but even when doing so, often pulls us towards the wrong goals – dating the “right” person who is wrong for us, living in a fancy neighborhood that’s beyond our means, befriending influential people who we don’t actually like – and it’s no coincidence, I think, that the Latin word for prestige translates to “illusion” or “mirage”.
+
+Girard helps us see the extraordinary extent to which society is motivated by prestige. It’s like the arrow in the FedEx logo that you might have learned about as a kid. One second, you don’t see it. The next, it’s with you for eternity, and you wonder how you went blind for so long.

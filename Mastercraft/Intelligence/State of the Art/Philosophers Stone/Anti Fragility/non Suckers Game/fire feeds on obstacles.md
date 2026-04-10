@@ -1,0 +1,3 @@
+We all learn early on in life that books and ideas are antifragile and get nourishment from attacks—to borrow from the Roman emperor Marcus Aurelius (one of the doer-Stoic authors), “fire feeds on obstacles.”
+
+There is the attraction of banned books, their antifragility to interdicts. The first book I read, during my childhood, of Graham Greene’s was _The Power and the Glory,_ selected for no other reason than its having been put on the _Index_ (that is, banned) by the Vatican. Likewise, as a teenager, I gorged on the books of the American expatriate Henry Miller—his major book sold a million copies in one year thanks to having been banned in twenty-three states. The same with _Madame Bovary_ or _Lady Chatterley’s Lover._

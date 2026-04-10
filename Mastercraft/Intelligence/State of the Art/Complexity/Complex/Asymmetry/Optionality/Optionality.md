@@ -1,0 +1,1 @@
+have pats, dont get trapped, keep the upside open

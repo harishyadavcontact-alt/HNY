@@ -1,0 +1,1 @@
+_**For Girard, we aren’t rational agents interested in a systematic analysis and nuanced solution but social, spirited creatures needing a cathartic release against a radical evil. In moments of extreme turbulence, we aren’t interested in truth but a grand lie and founding murder that can grant us catharsis.**_

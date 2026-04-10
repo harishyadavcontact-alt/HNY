@@ -1,0 +1,1 @@
+- every correct answer is necessarily a secret: something important and unknown, something hard to do but doable, if there are any secrets left behind there a world changing compaline yet to be started, hard not impossible, force ourslef to look for them.

@@ -1,0 +1,7 @@
+1. **Concavity and Accelerating Harm:** Fragility resides in the nonlinear. If you double exposure to something, and you more than double the harm, “then this is a situation of fhhragility”. Fragility involves accelerating damage (concavity). For instance, if traffic increases by 10,000 cars, and travel time grows by 10 minutes, but 10,000 more cars increase travel time by an _extra_ 30 minutes, this shows “acceleration of traffic time” and means traffic is fragile.
+
+2. **The Turkey Problem:** Naive optimization leads to the “Great Turkey Problem,” where one is fooled by past data. A system that appears safe due to suppressed volatility is actually “highly unpredictable and moves mostly by jumps” (Extremistan). The fundamental mistake is “mistaking absence of evidence (of harm) for evidence of absence”.
+
+3. **The Failure of Scale:** In centralized, optimized systems, size is a major source of fragility. “The centralized nation-state is on the far left of the Triad, squarely in the fragile category”. The larger a system is, the more complex it becomes, and the risks of accidents and negative outcomes “increase disproportionally (that is, nonlinearly) with speed” and size.
+
+4. **Project Overruns:** “The unexpected almost always pushes in a single direction: higher costs and a longer time to completion”. This planning problem exists even without incentives to underestimate, because planners neglect external uncertainty, the “unknown unknown”.

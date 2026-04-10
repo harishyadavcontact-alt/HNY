@@ -1,0 +1,1 @@
+- the world is not flat: homogenoiu competitive talent pool

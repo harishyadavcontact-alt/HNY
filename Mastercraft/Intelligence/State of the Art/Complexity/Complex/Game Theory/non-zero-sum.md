@@ -1,0 +1,1 @@
+An opportunity in which a benefit for one individual does not necessarily come with a cost to conspecifics. Compare with _zero-sum_.

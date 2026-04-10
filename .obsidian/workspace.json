@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "51a266f87f791d6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "47fffe9d08802bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0247949a7f60e83",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mastercraft/Master.canvas",
+                "viewState": {
+                  "x": -8290.479271249913,
+                  "y": 137.4797726003944,
+                  "zoom": 0.07706229098636438
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Master"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63bbda4a9fba3926",
+    "type": "split",
+    "children": [
+      {
+        "id": "4450cdd03a329145",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ce8c604cc757431",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5bc238e2ac359c5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4993ef8ca09e068f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "74df687b2b334b7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0543bbba6b0b6c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e657b9ea3ac0de80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mastercraft/Master.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Master"
+            }
+          },
+          {
+            "id": "e16a47aa545cf623",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a919cce31b4ef1a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2184a1627d27ad3e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1f4e00cae4834514",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a0247949a7f60e83",
+  "lastOpenFiles": [
+    "Mastercraft/Intelligence/pages/contents.md.crswap",
+    "Mastercraft/Intelligence/logseq/custom.css",
+    "Mastercraft/Intelligence/pages/contents.md",
+    "Mastercraft/Intelligence/pages",
+    "Mastercraft/Intelligence/logseq/config.edn.crswap",
+    "Mastercraft/Intelligence/logseq/config.edn",
+    "Mastercraft/Intelligence/journals",
+    "Mastercraft/Intelligence/logseq",
+    "Sources/Heather Heying, Bret Weinstein.md",
+    "Mastercraft/Intelligence/State of the Art/Philosophy/Sanatana Dharma/Maya.md",
+    "Sources/lecture 2.md",
+    "Sources/lectur 1.md",
+    "Mastercraft/Master.canvas",
+    "Claude Wiki/05 - Hyper-Novelty/Modern Life Domains/Food — Evolutionary View.md",
+    "Claude Wiki/05 - Hyper-Novelty/The Bee in the House — Analogy.md",
+    "Claude Wiki/05 - Hyper-Novelty/Mismatch — Designed for an Environment We No Longer Live In.md",
+    "Claude Wiki/05 - Hyper-Novelty/Hyper-Novelty.md",
+    "Claude Wiki/05 - Hyper-Novelty/Modern Life Domains/Sleep — Evolutionary View.md",
+    "Claude Wiki/05 - Hyper-Novelty/Modern Life Domains/Medicine — Evolutionary View.md",
+    "Claude Wiki/07 - Sentient Life/Long Childhood → Plasticity.md",
+    "Claude Wiki/07 - Sentient Life/Properties of Sentient Life.md",
+    "Claude Wiki/07 - Sentient Life/The Usual Suspects — Overview.md",
+    "Claude Wiki/07 - Sentient Life/Theory of Mind.md",
+    "Claude Wiki/07 - Sentient Life/08 - Sources/Hunter-Gatherer's Guide (Heying & Weinstein).md",
+    "Claude Wiki/07 - Sentient Life/08 - Sources/Sophia Lectures (Ralston College).md",
+    "Harish Yadav.canvas",
+    "Mastercraft/Intelligence/Universe.md",
+    "Lecture_1_Atoms_Flow.canvas",
+    "Master_Wiki_Flow.canvas",
+    "Parsimony.md",
+    "Parsimony - Simple.md",
+    "Wiki_Flow.canvas",
+    "Mastercraft/State of the Art(Lib)/Craft/Mastercraft/Dialectic/Dialectic Positions/Democracy.md",
+    "Mastercraft/State of the Art(Lib)/Craft/Mastercraft/Dialectic/Dialectic Positions/Christian Ethics.md",
+    "Claude Wiki/00 - Index/MOC - Biotic vs Abiotic.md",
+    "logseq",
+    "Claude Wiki/Overview.canvas",
+    "Wiki/Atoms/Heather Heying Bret Weinstein/087 - About the Author.md",
+    "Wiki/Atoms/Heather Heying Bret Weinstein/086 - Index.md",
+    "Wiki/Atoms/Heather Heying Bret Weinstein",
+    "Wiki/Atoms/lecture 4",
+    "Wiki/Atoms/lecture 3",
+    "Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Ethic/Ethics.canvas",
+    "Mastercraft/Intelligence/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a 4.jpg",
+    "Mastercraft/Intelligence/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a 3.jpg",
+    "Mastercraft/Intelligence/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a.png",
+    "Mastercraft/Intelligence/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a.jpg",
+    "Mastercraft/Intelligence/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a 2.jpg",
+    "Mastercraft/Intelligence/State of the Art/Meta Strategy/Overt/Overtstrat/image2 2.png",
+    "Mastercraft/Intelligence/State of the Art/Complexity/Complex/GameB/Pasted image 20260113145237.png",
+    "Mastercraft/Intelligence/State of the Art/Complexity/Complex/GameB/Pasted image 20260113143414.png",
+    "Mastercraft/Intelligence/State of the Art/Complexity/Complex/GameB/Pasted image 20260113143319.png",
+    "Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine.canvas",
+    "Mastercraft/Intelligence/State of the Art/Philosophers Stone/Philostone/Philosophers Stone.canvas",
+    "Tradecraft/Tradecraft.canvas",
+    "Mastercraft/Intelegence/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a.jpg"
+  ]
+}

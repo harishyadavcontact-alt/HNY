@@ -1,0 +1,1 @@
+We will have ample discussions of the point particularly with the potent notion of the _apophatic_ (what cannot be explicitly said, or directly described, in our current vocabulary); so for now, take this curious phenomenon.

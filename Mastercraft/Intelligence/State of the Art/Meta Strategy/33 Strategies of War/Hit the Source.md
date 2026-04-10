@@ -1,0 +1,13 @@
+In the larger context of Offensive Warfare, the primary goal is to seize the initiative, attack the enemy's vulnerabilities, and dictate the circumstances of the conflict before unpredictable events—known as "friction"—can ruin your plans. Within this framework, the **Center-of-Gravity Strategy** dictates that you should rarely attack an enemy head-on or match strength with strength. Instead, you must locate and strike the foundational source of their power—the "hub of all power and movement, on which everything depends".
+
+**The Boxer Analogy** The sources illustrate this concept using the analogy of a boxer: when facing a powerful fighter, people mistakenly focus all their attention on avoiding his punch. A superior strategist, however, targets the boxer's legs. Because the punch depends entirely on the balance and support of the legs, weakening the legs causes the boxer to stagger; his punches lose their force, and he eventually collapses.
+
+**Identifying and Attacking the Center of Gravity** Every structure, group, or individual has a center of gravity, and "there is no reversal to this principle". To execute this strategy, you must look beneath the enemy's intimidating exterior (their army, wealth, or aggressive front) and locate their hidden "pillars of support". Hitting these pillars inflicts disproportionate pain and can end a conflict quickly and economically.
+
+The location of this center depends entirely on the enemy's structure:
+
+- **Centralized Power:** If power revolves around a single leader or governing body, capturing or isolating that leader causes instant collapse. For example, Hernán Cortés conquered the Aztec Empire with a tiny force simply by capturing its center of gravity: the Emperor Moctezuma.
+- **Decentralized Power:** If an enemy is highly dispersed, their center of gravity is often their network of communication. By cutting off the links between the parts, as General Douglas MacArthur did by isolating Japanese-held islands in the Pacific, you induce total chaos.
+- **Abstract Power:** A center of gravity can be an abstract strength, such as public goodwill, reputation, or political alliances. During the Vietnam War, General Vo Nguyen Giap realized that the American military's center of gravity was the political support of its citizens back home; by launching the Tet Offensive to undermine that support, he crippled their ability to prosecute the war.
+
+**Integration into Your Vault Architecture** To maintain your "System of Systems" framework, you should split the Center-of-Gravity strategy across your Barbell architecture:

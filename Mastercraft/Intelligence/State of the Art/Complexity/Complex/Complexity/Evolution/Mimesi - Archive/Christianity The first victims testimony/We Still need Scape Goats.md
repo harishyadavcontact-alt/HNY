@@ -1,0 +1,5 @@
+The metaphor, then, that best captures this radical break as well as stubborn continuity is a just-launched rocket struggling to reach escape velocity. Such a rocket is clearly a radical break from when it was stationary, but it is also in a continuity because it is still governed by the pull of gravity.
+
+The same perhaps can be said for the point of history that we are in now. There is a clear radical break between our culture that protects victims and all the ones that have come before which made them into scapegoats.
+
+**But the stubborn gravitational pull of the human condition remains the same – we still need to persecute and find victims to blame.** It is this tension between cultural advancement and the constancy of human nature that plagues modernity for Girard. Our rocket ship of modernity is already in trouble but the fourth and final force of Christianity will send it crashing towards the ground: violence.

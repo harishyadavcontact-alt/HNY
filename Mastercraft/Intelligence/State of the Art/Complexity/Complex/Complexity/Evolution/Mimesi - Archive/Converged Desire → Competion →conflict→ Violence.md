@@ -1,0 +1,1 @@
+It’s fine and dandy when what mimesis transmits is accents or cultural codes, but when mimesis converges the desires of people – **well that invites them into competition, conflict, and often violence.**

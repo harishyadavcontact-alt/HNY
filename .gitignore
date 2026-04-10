@@ -1,0 +1,7 @@
+﻿# Obsidian Portable Data (to keep repo clean and portable)
+ObsidianPortable/data/
+ObsidianPortable/locales/
+ObsidianPortable/*.pak
+ObsidianPortable/*.bin
+ObsidianPortable/*.dat
+ObsidianPortable/*.dll

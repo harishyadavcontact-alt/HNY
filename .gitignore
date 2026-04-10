@@ -5,3 +5,12 @@ ObsidianPortable/*.pak
 ObsidianPortable/*.bin
 ObsidianPortable/*.dat
 ObsidianPortable/*.dll
+# Obsidian Portable Large Binaries (Avoid Git bloating)
+ObsidianPortable/*.exe
+ObsidianPortable/*.dll
+ObsidianPortable/*.pak
+ObsidianPortable/*.bin
+ObsidianPortable/*.dat
+ObsidianPortable/resources/
+ObsidianPortable/locales/
+ObsidianPortable/data/

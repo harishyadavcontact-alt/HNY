@@ -1,0 +1,11 @@
+{
+  "editor:delete-paragraph": [],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ]
+}

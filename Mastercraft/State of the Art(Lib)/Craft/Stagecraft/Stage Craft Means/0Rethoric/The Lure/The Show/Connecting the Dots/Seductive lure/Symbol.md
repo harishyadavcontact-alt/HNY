@@ -1,5 +1,0 @@
-# Symbol
-
-[[Symbols]]
-
-[[Symbols]]

@@ -1,0 +1,10 @@
+- Question  
+	- Taboo: if you have zero fear of society or judgmet what would you do..  
+	- Secret: biggest win of life you never told any one about
+	- Cold call script  
+	- name?  
+	- Am i catching you in a wrong time, this is a cold call on sat, so you can cut the call right now, or i can give 30s cUSE I HAVE SOMETHING SPECIAL  
+	- ASWOME  
+	- INTRODUCE: BIGGEST,  
+	- WHATS AN OFFER YOU COULD NOT REFFUSE
+	- Great news for you: all cash, asap.. how much cani make the broekr would make 2.5%: you want me to take all tis tmme for 80k come onnnn

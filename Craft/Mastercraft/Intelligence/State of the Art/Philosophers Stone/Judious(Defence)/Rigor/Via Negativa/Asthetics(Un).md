@@ -1,0 +1,1 @@
+[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa/Asthetics(Un)/Form follows function]]

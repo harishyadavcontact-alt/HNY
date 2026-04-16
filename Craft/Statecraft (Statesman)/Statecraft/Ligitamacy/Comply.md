@@ -1,0 +1,1 @@
+Compilinance to a [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Standards]] either [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Convention]]al or

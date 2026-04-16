@@ -1,0 +1,1 @@
+most fortunate inherit their fortunes and are fortunate enough to make more fortunes, but the one who cannot inherit, only can

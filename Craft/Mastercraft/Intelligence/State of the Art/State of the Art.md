@@ -1,0 +1,4 @@
+- State of the Art Understanding begins with the Understanding of
+	- [[The Map- 4th Quadrant]] 
+	- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Philosophers Stone]] 
+	- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy of Science/Philosophy of Science]]

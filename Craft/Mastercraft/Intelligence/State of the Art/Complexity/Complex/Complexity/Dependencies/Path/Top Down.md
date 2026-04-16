@@ -1,0 +1,1 @@
+[[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Dependencies/Path/Top Down/soviet hardward delusions]]

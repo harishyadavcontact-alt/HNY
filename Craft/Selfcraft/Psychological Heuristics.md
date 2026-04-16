@@ -1,0 +1,17 @@
+- **Philosopher's Stone**
+    - Listen to your body's signals.
+    - Drink only when thirsty; same for all functions.
+    - Ignoring signals = moron.
+	- [[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Evolution/Nature/instincts]]
+		- [[Pain]]
+		- [[Environment Design]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Evolution/Nature/Impulse]]
+			- [[Curiosity]]
+			- [[Focus- DeepWork]]
+			- [[Emotions]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Evolution/Nature/Intution]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Evolution/Nature/instincts]]
+			- [[Pain]]
+			- [[Fear]]
+			- [[Stress]]
+			- [[procrastination]]

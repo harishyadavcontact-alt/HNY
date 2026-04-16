@@ -1,0 +1,48 @@
+- [ ] [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Philostone/AI Era]]
+- [ ] Arhiciture
+- [ ] Structure
+- [ ] Systems
+- [ ] Network
+- [ ] Infrastructure
+- [ ] KHAL
+	- [ ] I need to get the decision Archiciture right
+		- [ ] Basic Hierarchy
+			- [ ] War Gaming
+				- [ ] War Room
+					- [ ] War Game: State of the Art
+					- [ ] War Game: State of Affairs
+						- [ ] War Game Volatility
+						- [ ] War Game Domains
+						- [ ] War Game Philosophers stone
+							- [ ] War Game Asymmetry
+								- [ ] Stakes
+									- [ ] Lineages: Costs, Prises, stakes, how structural, systematic, or at what level the threat is
+								- [ ] Risks
+									- [ ] The Events that you are suscipitiable to.
+									- [ ] 
+									- [ ] Ergodicity Principle: Never Risk Ruin
+							- [ ] War Game Non Linearity
+								- [ ] Fragility (Short Volatility)(Concavity)
+								- [ ] Vulnerability
+								- [ ] Robustness 
+								- [ ] Anti-Fragility(Long Volatility) (Convexity)
+							- [ ] war game  ends
+							- [ ] war game means
+								- [ ] Heurristics
+								- [ ] War game Crafts
+									- [ ] technologie
+									- [ ] Methodoloie
+									- [ ] techniquies
+									- [ ] infrastructure
+									- [ ] network
+									- [ ] systems
+									- [ ] archiciture ectect
+									- [ ] heaps frameworks, models pipline funnels, ectect, 
+							- [ ] War game State of  affairs
+								- [ ] War game Affairs
+									- [ ] relate paln prepe, ends mean orks, kpis ectct
+								- [ ] War game intrests
+									- [ ] war gam inte is more like gmabilie, its  abet, the plan are supode ot be optmisits and definitie, , more plannng and pre dominane
+						- [ ] War Game Missions
+							- [ ] this is wher you war game the Mission
+						- [ ] 

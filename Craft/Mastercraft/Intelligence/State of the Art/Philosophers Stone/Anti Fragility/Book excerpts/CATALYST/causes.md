@@ -1,0 +1,9 @@
+as Causec
+
+Most explanations that are offered for episodes of turmoil follow the catalysts-as-causes confusion.
+
+Take the “Arab Spring” of 2011. The riots in Tunisia and Egypt were initially attributed to rising commodity prices, not to stifling and unpopular dictatorships. But Bahrain and Libya were wealthy countries that could afford to import grain and other commodities. Further, we had had considerably higher commodity prices a few years earlier without any uprising at all. Again, the focus is wrong even if the logic is comforting. It is the system and its fragility, not events, that must be studied—what physicists call “percolation theory,” in which the properties of the randomness of the terrain are studied, rather than those of a single element of the terrain.
+
+As Mark Abdollahian of Sentia Group, one of the contractors who sell predictive analytics to the U.S. government (those that failed to warn), noted regarding Egypt,
+
+policy makers should “think of this like Las Vegas. In blackjack, if you can do four percent better than the average, you’re making real money.” But the analogy is spurious—pretty much everything I stand against. There is no “four percent better” on Egypt. This was not just money wasted but the construction of a false confidence based on an erroneous focus. It is telling that the intelligence analysts made the same mistake as the risk-management systems that failed to predict the economic crisis—and offered the exact same excuses when they failed. Political and economic “tail events” are unpredictable, and their probabilities are not scientifically measurable. No matter how many dollars are spent on research, predicting revolutions is not the same as counting cards; humans will never be able to turn politics and economics into the tractable randomness of blackjack.

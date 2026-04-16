@@ -1,0 +1,7 @@
+What we saw in the renormalization group was the “veto” effect, as a person in a group can steer choices. The advertising executive (and extremely bon vivant) Rory Sutherland suggested to me that this explains why some fast-food chains, such as McDonald’s, thrive. It’s not because they offer a great product, but because they are not vetoed in a certain socio-economic group—and by a small proportion of people in that group at that. **fn1**
+
+When there are few choices, McDonald’s appears to be a safe bet. It is also a safe bet in shady places with few regulars where the food variance from expectation can be consequential—I am writing these lines in the Milan train station and, as offensive as it can be to someone who spent all this money to go to Italy, McDonald’s is one of the few restaurants there. And it is packed. Shockingly, Italians are seeking refuge there from a risky meal. They may hate McDonald’s, but they certainly hate uncertainty even more.
+
+Pizza is the same story: it is a commonly accepted food, and, outside a gathering of pseudo-leftist caviar eaters, nobody will be blamed for ordering it.
+
+Rory wrote to me about the beer-wine asymmetry and the choices made for parties: “Once you have 10 percent or more women at a party, you cannot serve only beer. But most men will drink wine. So you only need one set of glasses if you serve only wine—the universal donor, to use the language of blood groups.”

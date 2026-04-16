@@ -1,0 +1,1 @@
+It is easier to predict how an ice cube would melt into a puddle than, looking at a puddle, to guess the shape of the ice cube that may have caused it. This “inverse problem” makes narrative disciplines and accounts (such as histories) suspicious.

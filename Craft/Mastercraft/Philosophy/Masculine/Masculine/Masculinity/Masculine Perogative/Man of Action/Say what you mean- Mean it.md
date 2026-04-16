@@ -1,0 +1,1 @@
+[[Craft/Mastercraft/Philosophy/Masculine/Masculine/Masculinity/Masculine Perogative/Man of Action/Say what you mean Mean it/Never complain never explain, do what you cannot explain]]

@@ -1,0 +1,51 @@
+{
+	"nodes":[
+		{"id":"17713851591a370b","type":"group","x":-398,"y":-400,"width":758,"height":600,"color":"4","label":"Tradecraft: Money = Time & Energy"},
+		{"id":"5cfff0928144218c","type":"group","x":-1080,"y":-170,"width":596,"height":370,"color":"6","label":"Master Craft"},
+		{"id":"fc628a68468d9a22","type":"group","x":-1280,"y":80,"width":1720,"height":120,"color":"1","label":"Stakes Craft"},
+		{"id":"66adc510fad06cbd","type":"text","text":"[[Defense]]","x":-625,"y":793,"width":250,"height":60},
+		{"id":"28c1151213ddcdae","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Offense/Offense]]","x":-254,"y":787,"width":250,"height":60},
+		{"id":"712832ccd3427488","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Philostone/Foundational Barbell]]","x":396,"y":430,"width":250,"height":60},
+		{"id":"16652b6e1411bfff","type":"text","text":"[[Rhetoric Barbell]]","x":-380,"y":-920,"width":250,"height":60},
+		{"id":"8c91bbf0a9feea91","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Fame]]","x":-560,"y":-1260,"width":250,"height":60},
+		{"id":"3c39f8b4b1b39050","type":"text","text":"[[Popularity]]","x":-220,"y":-1260,"width":250,"height":60},
+		{"id":"fc4f75503cbb1ee0","type":"text","text":"[[Time Defence]]","x":-378,"y":-280,"width":250,"height":60},
+		{"id":"b049dbf38531b262","type":"text","text":"[[Political Offence]]","x":-754,"y":-150,"width":250,"height":60,"color":"#000000"},
+		{"id":"62f87b5d0ce58798","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Philostone/Dialectic Barbell]]","x":-935,"y":-920,"width":250,"height":60},
+		{"id":"f12af24a7092d31d","type":"text","text":"[[Time Offence]]","x":90,"y":-280,"width":250,"height":60},
+		{"id":"350867165414b156","type":"text","text":"[[Political Barbell]]","x":-935,"y":-40,"width":250,"height":55},
+		{"id":"8c240c2ca25315da","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Preduence/Time]]","x":-128,"y":120,"width":250,"height":60},
+		{"id":"279856fec37f5b08","type":"text","text":"[[Death]]","x":-935,"y":120,"width":250,"height":60,"color":"#000000"},
+		{"id":"14b997fd27124639","type":"text","text":"[[Political Defence]]","x":-1060,"y":-150,"width":250,"height":60,"color":"#000000"},
+		{"id":"5078199b39f1f02d","type":"text","text":"[[Stake Barbell]]","x":-446,"y":240,"width":250,"height":60},
+		{"id":"b746502f858d5de2","type":"text","text":"High Stakes Low Risk, Low Risk High Stake","x":-629,"y":430,"width":578,"height":60},
+		{"id":"f5b97907b5a85c88","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Stake]]","x":-571,"y":560,"width":250,"height":60},
+		{"id":"5cd104a30dd81b95","type":"text","text":"[[Risk]]","x":-196,"y":560,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"4582262c56610ced","fromNode":"279856fec37f5b08","fromSide":"right","toNode":"8c240c2ca25315da","toSide":"left"},
+		{"id":"6144eefbfc68bddc","fromNode":"f5b97907b5a85c88","fromSide":"right","toNode":"5cd104a30dd81b95","toSide":"left"},
+		{"id":"ba3c8c80a321f274","fromNode":"f5b97907b5a85c88","fromSide":"left","toNode":"279856fec37f5b08","toSide":"bottom"},
+		{"id":"f37fe6cd855dbf68","fromNode":"712832ccd3427488","fromSide":"top","toNode":"5078199b39f1f02d","toSide":"bottom"},
+		{"id":"fb1ab6dededf5538","fromNode":"8c240c2ca25315da","fromSide":"top","toNode":"fc4f75503cbb1ee0","toSide":"bottom"},
+		{"id":"772941376d2f9e39","fromNode":"8c240c2ca25315da","fromSide":"top","toNode":"f12af24a7092d31d","toSide":"bottom"},
+		{"id":"25b85d8f0aad361e","fromNode":"14b997fd27124639","fromSide":"right","toNode":"b049dbf38531b262","toSide":"left"},
+		{"id":"0cba9925dd905d8b","fromNode":"fc4f75503cbb1ee0","fromSide":"right","toNode":"f12af24a7092d31d","toSide":"left"},
+		{"id":"d030849c933022ef","fromNode":"b746502f858d5de2","fromSide":"right","toNode":"712832ccd3427488","toSide":"left"},
+		{"id":"93fd59da419a50e9","fromNode":"66adc510fad06cbd","fromSide":"right","toNode":"28c1151213ddcdae","toSide":"left"},
+		{"id":"24dc866a8ad085b4","fromNode":"62f87b5d0ce58798","fromSide":"right","toNode":"16652b6e1411bfff","toSide":"left"},
+		{"id":"dc04bac8e2e8ad86","fromNode":"16652b6e1411bfff","fromSide":"top","toNode":"8c91bbf0a9feea91","toSide":"bottom"},
+		{"id":"8c3a35b7e2b0b21e","fromNode":"16652b6e1411bfff","fromSide":"top","toNode":"3c39f8b4b1b39050","toSide":"bottom"},
+		{"id":"543b0890066bf0d8","toFloating":false,"fromNode":"62f87b5d0ce58798","fromSide":"bottom","toNode":"5cfff0928144218c","toSide":"top"},
+		{"id":"13ab2fe51cb04e15","fromNode":"62f87b5d0ce58798","fromSide":"bottom","toNode":"17713851591a370b","toSide":"top"},
+		{"id":"747f586ed7682e31","fromNode":"279856fec37f5b08","fromSide":"top","toNode":"350867165414b156","toSide":"bottom"},
+		{"id":"461bd67685e4a4a8","fromNode":"350867165414b156","fromSide":"left","toNode":"14b997fd27124639","toSide":"bottom"},
+		{"id":"9f1c62bf0a07f276","fromNode":"350867165414b156","fromSide":"right","toNode":"b049dbf38531b262","toSide":"bottom"},
+		{"id":"71d04266c7ac23ea","fromNode":"5078199b39f1f02d","fromSide":"left","toNode":"5cfff0928144218c","toSide":"bottom"},
+		{"id":"c867e8f48301c9b7","fromNode":"5078199b39f1f02d","fromSide":"right","toNode":"8c240c2ca25315da","toSide":"bottom"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

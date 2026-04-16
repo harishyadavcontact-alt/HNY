@@ -1,9 +1,0 @@
-  
-
-[[Global]]
-
-[[Local]]
-
-[[@cascade]]
-
-[[@Contagion]]

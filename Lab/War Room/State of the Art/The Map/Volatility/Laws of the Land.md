@@ -1,0 +1,92 @@
+Politics	"Propoganda
+    - - Win Hearts & Minds World wide, build brand Equity, My impacting Lifes, Win Hearts & Minds, most people live lifes with no skin in the game, they are just specataor, waiting to ge their slave programing, the will take your prescriptsion as descriptiosn, like the law of physics, and plausable denability eith the guies of Good - Evil, the slave Morality.
+    - Everything is a battle for this, the more people believe in your propogand the mor you scapegoating it enables.
+    - First Line of Attack is Propaganda they try to Cancel you, ostrasit you socially,
+- Lawfare
+    - Law all laws in human law, grow day by day, and the end of all govs is communism, the goal is not to control everyone, that impossible but to weaponize it against enemies, descendants.
+    - Because the law only enforces first what is a matter of public and financial importance to them first.
+    - Trillions of do
+- 
+    - Political & Financial immunity World Wide
+
+- 
+1. Thesis
+            1. barbel2.1: death
+            Life or Death
+                - [[Craft/Statecraft (Statesman)/Politics/Politics]] is the Bloodspot of Life or Death, hence why Aristotle called the Mastercraft.
+                - Politics: lifer or Death: bloodspot, fight to death, hence this is a mater of life & heath hence why Aristotle called it th Master Art, be Lawfull/lay abiding on paper, until you can decide the laws, regulatiosn, or be insulated from it, once you cna make laws& rules you win, also, your policy must be suckt o put you as the strongest nation in human history alleas ont hat path, you want to die at your own terms and kill on your own terms, raise up the dominance hirarchy, be above the law until you make the law.
+                - Pure Politics is clarity on what people will[[[For what to Kill or Get Killed]]]
+                    - End goal of all politics is Communism, more lways get passed everyday and noe gets take back, and the more laws the more freedom they take, its just steal
+                - Peak Politics are [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Soul in the Game/Kill or Get Killed]].
+                - Position
+                    - Thresholds
+                        - Subject to Violence
+                        - Subject to Legislation: Rules of the Game
+                            - Frugalists:
+                                - Politications, Legislators, Parliaments, Lobbies, burracrats
+                            - Fragility: The Game is Rigged:
+                                - if the Legislation is not set by me, its not for me.
+                            - Hedge: 
+                                - Phase 1:
+                                    - buy being Law abiding on Paper, Off the grid(Multiple Grids), trusts, insulate your self.
+                                - Phase 2: 
+                                    - Make the laws.
+                                    - 
+                        - Subject to Litigation
+                            - Fragilitas: 
+                                - Judges, Courts, Judiciary etc.
+                            - Fragility
+                                - 
+                            - Vulnerability
+                            - Antifragility - Barbell
+                                - Hedge: Global Minima
+                                    - Be ready to file lawsuits at all time, to make money on fragile lawsuits.
+                                - Edge: take car of local minima, 
+                                    - Litigation Financing
+                                    - Set Legislation so you by Default are on the winning side of litigation
+                - Heuristics:
+                - Sources of Volatility
+                - the Law of the lad in notuin but FOrce, and rights are how we allocate force, you only hav etht right you can enforce, and all laws are just convention based on concesus, and that it.
+                - Modernity is the Ultimate fragilista, globalization, democracy secularism, will lead to a system of system collapse, these thing are hindg fragilities in plain sight.
+                    - Pure Politics is a matter of what Humans will kill or get killed for
+                    - Peak Politic is when Humans will Kill or get Killed
+                    - all laws of the lad are subject ot Laws of the juncle, - Corporate Law
+                    - Tax Law
+                    - Corporate Law
+                - Long Political Volatility: Convex Positioning
+                    - Barbell Strategies
+                        - Barbell your Self, to Gain from this Volatility, figure out convex barbell strategies, & heurists to Cap the downside, and not cap the up side and see what emerges, prep for known black swans.
+                        - Network stake, private netwroks , cults
+                    - Heuristics
+                    - - [[Craft/Statecraft (Statesman)/Politics/Politics]] is the Bloodspot of Life or Death, hence why Aristotle called the Mastercraft.
+                - Politics: lifer or Death: bloodspot, fight to death, hence this is a mater of life & heath hence why Aristotle called it th Master Art, be Lawfull/lay abiding on paper, until you can decide the laws, regulatiosn, or be insulated from it, once you cna make laws& rules you win, also, your policy must be suckt o put you as the strongest nation in human history alleas ont hat path, you want to die at your own terms and kill on your own terms, raise up the dominance hirarchy, be above the law until you make the law.
+                - Pure Politics is clarity on what people will[[[For what to Kill or Get Killed]]]
+                    - End goal of all politics is Communism, more lways get passed everyday and noe gets take back, and the more laws the more freedom they take, its just steal
+                - Peak Politics are [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Soul in the Game/Kill or Get Killed]].
+                - Position
+                    - Thresholds
+                        - Subject to Violence
+                        - Subject to Legislation: Rules of the Game
+                            - Frugalists:
+                                - Politization, Legislators, Parliaments, Lobbies, bureaucrats
+                            - Fragility: The Game is Rigged:
+                                - if the Legislation is not set by me, its not for me.
+                            - Hedge: 
+                                - Phase 1:
+                                    - buy being Law abiding on Paper, Off the grid(Multiple Grids), trusts, insulate your self.
+                                - Phase 2: 
+                                    - Make the laws
+                        - Subject to Litigation
+                            - Fragilitas: 
+                                - Judges, Courts, Judiciary etc.
+                            - Fragility
+                                - 
+                            - Vulnerability
+                            - Antifragility - Barbell
+                                - Hedge: Global Minima
+                                    - Be ready to file lawsuits at all time, to make money on fragile lawsuits.
+                                - Edge: take car of local minima, 
+                                    - Litigation Financing
+                                    - Set Legislation so you by Default are on the winning side of litigation
+                            - Heuristics:
+                            - "					

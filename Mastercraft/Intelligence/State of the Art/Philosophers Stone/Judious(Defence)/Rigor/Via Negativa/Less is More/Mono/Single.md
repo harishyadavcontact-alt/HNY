@@ -1,1 +1,0 @@
-[[Golden rule of Reason]]

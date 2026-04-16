@@ -1,0 +1,1 @@
+(for the purposes of the model in this book): A non-zero-sum opportunity for a population. Three established types: geographical, technological, interpopulation transfer.

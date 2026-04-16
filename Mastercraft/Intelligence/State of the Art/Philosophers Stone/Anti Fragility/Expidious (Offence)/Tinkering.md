@@ -1,5 +1,0 @@
-[[Forging]]
-
-[[Honing]]
-
-[[Wielding]]

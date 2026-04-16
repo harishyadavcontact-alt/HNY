@@ -1,1 +1,0 @@
-[[Never complain never explain, do what you cannot explain]]

@@ -1,0 +1,3 @@
+But alas, unlike Adam Smith, Plato did not quite get it. Promoting the well-known metaphor of the _ship of state,_ he likens a state to a naval vessel, which, of course, requires the monitoring of a captain.
+
+He ultimately argues that the only men fit to be captain of this ship are philosopher kings, benevolent men with absolute power who have access to the Form of the Good. And once in a while one hears shouts of “who is governing us?” as if the world needs someone to govern it.

@@ -1,0 +1,1 @@
+[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Book excerpts/Buy Volitility/Take advantage of the Volatility, or it takes advantage of you]]

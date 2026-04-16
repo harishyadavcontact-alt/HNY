@@ -1,0 +1,1 @@
+All activists have a cause, what matters is the case , not the cause, the are expident, and the people of the cause are sacrifing for the cause, end up making worthy cases, hence focus on the case not that cause.

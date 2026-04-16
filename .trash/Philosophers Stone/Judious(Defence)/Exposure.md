@@ -1,0 +1,29 @@
+For any Given x the non therotic, non narrative, non philosophical out look is to look is f(x): the Pay off function.
+
+When you look in terms of, loss, gain, upside down side, Profit, loss, stressors, in reaction to volitility, then you know what needs to be done.
+
+F(X)
+
+New Worth = [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure/Assets]] - [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure/Liabilities]]
+
+[[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure/Assets]] = [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure/Apreciating]] [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure/Assets]] - [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure/Depercating]] [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure/Assets]]
+
+  
+
+[[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure/Assets]]
+
+[[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure/Liabilities]]
+
+[[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure/Apreciating]]
+
+[[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure/Depercating]]
+
+[[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure/Tanglible]]
+
+[[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure/Intangiable]]
+
+  
+
+  
+
+[[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure]]

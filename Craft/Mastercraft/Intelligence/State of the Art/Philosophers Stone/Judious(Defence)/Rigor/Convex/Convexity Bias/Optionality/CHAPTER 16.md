@@ -1,0 +1,166 @@
+![[/image55.png|image55.png]]
+
+**A Lesson In Disorder**
+
+**Where is the next street fight?—How to decommoditize, detouristify—**
+
+**The intelligent student (also in reverse)—Flâneur as options**
+
+![[/image3 2.png|image3 2.png]]
+
+Let us continue with teleology and disorder—in private life and individual education.
+
+Then an autobiographical vignette.
+
+> [!important]
+> 
+> **THE ECOLOGICAL AND THE LUDIC**
+> 
+> - Domains: Ecological & The Lucid
+>     
+>     As we saw with the fellow making the common but false analogy to blackjack in Chapter 7, there are two domains, the ludic, which is set up like a game, with its rules supplied in advance in an explicit way,
+>     
+>     and the ecological, where we don’t know the rules and cannot isolate variables, as in real life.
+>     
+>     Seeing the nontransferability of skills from one domain to the other led me to skepticism in general about whatever skills are acquired in a classroom, anything in a non-ecological way, as compared to street fights and real-life situations.
+>     
+> 
+> - The Lucid skills are nontransferable in the ecological
+>     
+>     It is not well advertised that there is no evidence that abilities in chess lead to better reasoning off the chessboard—even those who play blind chess games with an entire cohort can’t remember things outside the board better than a regular person.
+>     
+> 
+> - Games are domain specific do not train for life, kids count worse after learning math
+>     
+>     We accept the domain-specificity of games, the fact that they do not really train you for life, that there are severe losses in translation. But we find it hard to apply this lesson to technical skills acquired in schools, that is, to accept the crucial fact that what is picked up in the classroom _stays_ largely in the classroom.
+>     
+>     Worse even, the classroom can bring some detectable harm, a measure of iatrogenics hardly ever discussed: Laura Martignon showed me results from her doctoral student Birgit Ulmer demonstrating that children’s ability to _count_ degrades right after they are taught arithmetic.
+>     
+>     When you ask children how many intervals there are between fifteen poles, those who don’t know arithmetic figure out that there are fourteen of them. Those who studied arithmetic get confused and often make the mistake that there are fifteen.
+>     
+
+**The Touristification of the Soccer Mom**
+
+The biologist and intellectual E. O. Wilson was once asked what represented the most hindrance to the development of children; his answer was the soccer mom. He did not use the notion of the Procrustean bed, but he outlined it perfectly. His argument is that they repress children’s natural biophilia, their love of living things. But the problem is more general; soccer moms try to eliminate the trial and error, the antifragility, from children’s lives, move them away from the ecological and transform them into nerds working on preexisting (soccer-mom-compatible) maps of reality. Good students, but nerds—that is, they are like computers except slower.
+
+Personal Library over classrooms
+
+Further, they are now totally untrained to handle ambiguity. As a child of civil war, I disbelieve in structured learning—actually I believe that one can be an intellectual without being a nerd, provided one has a private library instead of a classroom, and spends time as an aimless (but rational) flâneur benefiting from what randomness can give us inside and outside the library.
+
+Right Randomness, nothing that kills you, for kids and CEOs
+
+Provided we have the right type of rigor, we need randomness, mess, adventures, uncertainty, self-discovery, near-traumatic episodes, **all these things that make life worth living, c**ompared to the structured, fake, and ineffective life of an empty-suit CEO with a preset schedule and an alarm clock.
+
+Even their leisure is subjected to a clock, squash between four and five, as their life is sandwiched between appointments. It is as if the mission of modernity was to squeeze every drop of variability and randomness out of life—with (as we saw in Chapter 5) the ironic result of making the world a lot more unpredictable, as if the goddesses of chance wanted to have the last word.
+
+  
+
+Only the autodidacts are free, de-commoditize, de-touristify
+
+And not just in school matters—those who decommoditize, detouristify their lives. Sports try to put randomness in a box like the ones sold in aisle six next to canned tuna—a form of alienation.
+
+“We study [here] for life, not for the lecture hall.”
+
+If you want to understand how vapid are the current modernistic arguments (and understand your existential priorities), consider the difference between lions in the wild and those in captivity. Lions in captivity live longer; they are technically richer, and they are guaranteed job security for life, if these are the criteria you are focusing on …
+
+As usual, an ancient, here Seneca, detected the problem (and the difference) with his saying “We do not study for life, but only for the lecture room,” _non vitae, sed scolae discimus,_ which to my great horror has been corrupted and self-servingly changed to fit the motto of many colleges in the United States, with _non scolae, sed vitae discimus_ as their motto, meaning that
+
+Most of the tension in life will take place when the one who reduces and fragilizes (say the policy maker) invokes rationality.
+
+**AN ANTIFRAGILE (BARBELL) EDUCATION**
+
+- pure autodidact are the best anti student, follow cuorisity
+    
+    Something cured me of the effect of education, and made me very skeptical of the very notion of standardized learning.
+    
+    For I am a pure autodidact, in spite of acquiring degrees.
+    
+    My father was known in Lebanon as the “Intelligent Student Student Intelligent,” a play on words, as the Arabic phrase for “intelligent student” (or scholar) is _taleb nagib_ and his name was Nagib Taleb. That was the way the newspaper published his name for having the highest grade on the Lebanese high school exit exam. He was a national valedictorian of sorts, and the main newspaper announced his passing in 2002 with a front-page headline with a pun on his predestined name, THE INTELLIGENT STUDENT STUDENT INTELLIGENT IS NO LONGER. His school education was harrowing, though, as he attended the elite Jesuit school. The Jesuits’ mission was to produce the mandarins who ran the place, by filtering and filtering students after every year. They were successful beyond their aim, as in addition to having one of the highest success rates in the world in the French baccalaureate (in spite of the war), their school had a world-class roster of former students. The Jesuits also deprived pupils of free time, so many gave up voluntarily. So one can surmise that having a father as national valedictorian would definitely have provided me with a cure against school, and it did. My father himself did not seem to overvalue school education, since he did not put me in the Jesuit school—to spare me what he went through. But this clearly left me to seek ego fulfillment elsewhere.
+    
+    Observing my father close up made me realize what being a valedictorian meant, what being an _Intelligent Student_ meant, mostly in the negative: they were things that intelligent students were unable to understand. Some blindness came with the package.
+    
+    When I was about ten I realized that good grades weren’t as good outside school as they were in it, as they carried some side effects. They had to correspond to a sacrifice, an intellectual sacrifice of sorts. Actually my father kept hinting to me the problem of getting good grades himself: the person who was at the exact bottom of his class (and ironically, the father of a classmate at Wharton) turned out to be a self-made merchant, by far the most successful person in his class (he had a huge yacht with his initials prominently displayed on it); another one made a killing buying wood in Africa, retired before forty, then became an amateur historian (mostly in ancient Mediterranean
+    
+    history) and entered politics. In a way my father did not seem to value education, rather culture or money—and he prompted me to go for these two (I initially went for culture). He had a total fascination with erudites and businessmen, people whose position did not depend on credentials.
+    
+    My idea was to be rigorous in the open market. This made me focus on what an intelligent antistudent needed to be: an autodidact—or a person of knowledge compared to the students called “swallowers” in Lebanese dialect, those who“swallow school material” and whose knowledge is only derived from the curriculum. The edge, I realized, isn’t in the package of what was on the official program of the baccalaureate, which everyone knew with small variations multiplying into large discrepancies in grades, but exactly what lay outside it.
+    
+
+- Hanging Around: I figured out how to select people on their ability to integrate socially with others while sitting around doing nothing and enjoying fuzziness
+    
+    This idea followed me for a long time, as when I worked in trading rooms, where you sit most of the time waiting for things to happen, a situation similar to that of people sitting in bars or mafia men “hanging around.” I figured out how to select people on their ability to integrate socially with others while sitting around doing nothing and enjoying fuzziness. You select people on their ability to hang around, as a filter, and studious people were not good at hanging around: they needed to have a clear task.
+    
+
+- Their strength is extremely domain-specific and their domain doesn’t exist outside of ludic—extremely organized—constructs
+    
+    Some can be more intelligent than others in a structured environment—in fact school has a selection bias as it favors those quicker in such an environment, and like anything competitive, at the expense of performance outside it. Although I was not yet familiar with gyms, my idea of knowledge was as follows. People who build their strength using these modern expensive gym machines can lift extremely large weights, show great numbers and develop impressive-looking muscles, but fail to lift a stone; they get completely hammered in a street fight by someone trained in more disorderly settings. Their strength is extremely domain-specific and their domain doesn’t exist outside of ludic—extremely organized—constructs.
+    
+
+- gangster hit man over a gym rat
+    
+    In fact their strength, as with overspecialized athletes, is the result of a deformity. I thought it was the same with people who were selected for trying to get high grades in a small number of subjects rather than follow their curiosity: try taking them slightly away from what they studied and watch their decomposition, loss of confidence, and denial. (Just like corporate executives are selected for their ability to put up with the boredom of meetings, many of these people were selected for their ability to concentrate on boring material.) I’ve debated many economists who claim to specialize in risk and probability: when one takes them slightly outside their narrow focus, but within the discipline of probability, they fall apart, with the disconsolate face of a gym rat in front of a gangster hit man.
+    
+
+- barbell schooling
+    
+    Again, I wasn’t exactly an autodidact, since I did get degrees; I was rather a barbell autodidact as I studied the exact minimum necessary to pass any exam, overshooting accidentally once in a while, and only getting in trouble a few times by undershooting.
+    
+    In school, I had figured out that when one could write essays with a rich, literary, but precise vocabulary (though not inadequate to the topic at hand), and maintain some coherence throughout, what one writes about becomes secondary and the examiners get a hint about one’s style and rigor from that. And my father gave me a complete break after I got published as a teenager in the local paper—“just don’t flunk” was his condition.
+    
+    It was a barbell—play it safe at school and read on your own, have _zero_
+    
+    expectation from school.
+    
+
+- effort less living
+    
+    But I read voraciously, wholesale, initially in the humanities, later in mathematics and science, and now in history—outside a curriculum, away from the gym machine so to speak. I figured out that whatever I selected myself I could read with more depth and more breadth—there was a match to my curiosity. And I could take advantage of what people later pathologized as Attention Deficit Hyperactive Disorder (ADHD) by using natural stimulation as a main driver to scholarship. The enterprise needed to be totally effortless in order to be worthwhile. The minute I was bored with a book or a subject I
+    
+    moved to another one, instead of giving up on reading altogether—when you are limited to the school material and you get bored, you have a tendency to give up and do nothing or play hooky out of discouragement. The trick is to be bored with a specific book, rather than with the act of reading. So the number of pages absorbed could grow faster than otherwise. And you find gold, so to speak, effortlessly, just as in rational but undirected trial-and-error-based research. It is exactly like options, trial and error, not getting stuck, bifurcating when necessary but keeping a sense of broad freedom and opportunism.
+    
+    My parents had an account with the largest bookstore in Beirut and I would pick up books in what seemed to me unlimited quantities. There was such a difference between the shelves of the library and the narrow school material; so I realized that school was a plot designed to deprive people of erudition by squeezing their knowledge into a narrow set of authors. I started, around the age of thirteen, to keep a log of my reading hours, shooting for between thirty and sixty a week, a practice I’ve kept up for a long time.
+    
+    Trial and error is freedom.
+    
+
+- Avoidance of boredom the worthy way of living
+    
+    (I confess I still use that method at the time of this writing. Avoidance of boredom is the only worthy mode of action. Life otherwise is not worth living.)
+    
+
+- Taleb’s reading
+    
+    **I read the likes of Dostoyevsky, Turgenev, Chekhov, Bishop Bossuet, Stendhal, Dante, Proust, Borges, Calvino, Céline, Schultz, Zweig (didn’t like), Henry Miller, Max Brod, Kafka, Ionesco, the surrealists, Faulkner, Malraux (along with other wild adventurers such as Conrad and Melville; the first book I read in English was** _**Moby-Dick**_**) and similar authors in literature**, many of them obscure, and Hegel, Schopenhauer, Nietzsche, Marx, Jaspers, Husserl, Lévi-Strauss, Levinas, Scholem, Benjamin, and similar ones in philosophy because they had the golden status of not being on the school program, and I managed to read _nothing_ that was prescribed by school so to this day I haven’t read Racine, Corneille, and other bores. One summer I decided to read the twenty novels by Émile Zola in twenty days, one a day, and managed to do so at great expense. Perhaps joining an underground anti-government group motivated me to look into Marxist studies, and I picked up the most about Hegel indirectly, mostly through Alexandre Kojève.
+    
+    When I decided to come to the United States, I repeated, around the age of eighteen, the marathon exercise by buying a few hundred books in English (by authors ranging from Trollope to Burke, Macaulay, and Gibbon, with Anaïs Nin and other then fashionable authors _de scandale_), not showing up to class, and keeping the thirty- to sixty-hour discipline.
+    
+
+- Taleb’s journey to fuck you money stage
+    
+    Later, after I was jailed for assaulting a policeman in a student riot, he acted scared of me and let me do whatever I wanted. When I reached the “f*** you money” stage in my twenties, at the time when it was much, much rarer than today, in spite of a war raging in the home country, my father took credit for it by attributing it to the breadth of the education he allowed me to have and how it differentiated me from others like him with narrow background.
+    
+
+- talesb randomness
+    
+    When, at Wharton, I discovered that I wanted to specialize in a profession linked to probability and rare events, a probability and randomness obsession took control of my mind. I also smelled some flaws with statistical stuff that the professor could not explain, brushing them away—it was what the professor was brushing away that had to be the meat. I realized that there was a fraud somewhere, that “six sigma” events (measures of very rare events) were grossly miscomputed and we had no basis for their computation, but I could not articulate my realization clearly, and was getting humiliated by people who started smoking me with complicated math. I saw the limits of probability in front of me, clear as crystal, but could not find the words to express the point. So I went to the bookstore and ordered (there was no Web at the time) almost every book with “probability” or “stochastic” in its title. I read nothing else for a couple of years, no course material, no newspaper, no literature, nothing. I read them in bed, jumping from one book to the next when stuck with something I did not get immediately or felt ever so slightly bored. And I kept ordering those books. I was hungry to go deeper into the problem of small probabilities.
+    
+
+  
+
+It was effortless. That was my best investment—risk turned out to be the topic I know the best.
+
+non nerdy path, find a problem first and figure out the math later
+
+Five years later I was set for life and now I am making a research career out of various aspects of small probability events. Had I studied the subject by prepackaged means, I would be now brainwashed into thinking that uncertainty was something to be found in a casino, that kind of thing. There is such a thing as nonnerdy applied mathematics: find a problem first, and figure out the math that works for it (just as one acquires language), rather than study in a vacuum through theorems and artificial examples, then change reality to make it look like these examples.
+
+“much of what other people know isn’t worth knowing.”
+
+Barbell reading, the center and extreme away
+
+One day in the 1980s I had dinner with a famous speculator, a hugely successful man. He muttered the hyperbole that hit home: “much of what other people know isn’t worth knowing.”
+
+To this day I still have the instinct that the treasure, what one needs to know for a profession, is necessarily what lies outside the corpus, as far away from the center as possible.
+
+  
+
+But there is something central in following one’s own direction in the selection of readings: what I was given to study in school I have forgotten; what I decided to read on my own, I still remember.

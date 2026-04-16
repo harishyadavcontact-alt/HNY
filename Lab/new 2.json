@@ -1,0 +1,341 @@
+
+1. GetMemberAPI
+{
+
+ GetMemberAPI Request: 
+ 
+ {
+	 
+ }
+	
+GetMemberAPI response:
+
+
+{
+	
+}
+}
+
+
+2. Claim Summary
+
+{
+	
+}
+
+3. Claim Details
+
+{
+}
+
+4. Provider disputeType
+{
+	
+}
+
+
+5. Submit Provider API
+{
+Submit provider request
+{
+import requests
+
+url = "https://scanutexternal.medhokapps.com/medhokws/rest/ProviderDisputeRestServices/submitProviderDispute"
+
+headers = {
+    "Content-Type": "application/json",
+    "MEDHOKUSER": "scanut.ws",
+    "PWD": "your_password",
+"Authorization": "Bearer your_token"
+
+
+
+
+response = requests.post(url, json=payload, headers=headers)
+
+payload = 
+{
+  "requestType": "",
+  "category": "Down Code",
+  "subCategory": "Ambulance",
+
+  "member": {
+    "medhokId": "1609182",
+    "firstName": "AMBER",
+    "lastName": "BAKER",
+    "middleName": "M",
+    "fullName": "BAKER, AMBER M",
+    "age": "68",
+    "dateOfBirth": "1957-06-18T00:00:00-0700",
+    "memberId": "400515151",
+    "externalId": "40051515101",
+    "gender": "Female",
+    "subscriberId": "400515151"
+  },
+
+  "allegation": "Provider disputing contracted rate for out patient services",
+  "dueDate": "2025-03-17T00:00:00-0700",
+  "receivedDate": "2025-02-04T01:19:00-0800",
+  "intakeDate": "2025-01-16T00:00:00-0800",
+  "intakeMode": "Email",
+  "priority": "Standard",
+  "manualReceivedDate": "2025-01-16T00:00:00-0800",
+  "validAppeal": "true",
+
+  "createUser": {
+    "id": "16477",
+    "userId": "GAD_Coordinator_Tst1",
+    "firstName": "GAD Coordinator Generic 1",
+    "lastName": "Test",
+    "title": "GAD Coordinator Generic Testing Account",
+    "email": "choriuchi@scanhealthplan.com",
+    "phone": "562-308-3333",
+    "tollFree": "1-800-559-3500",
+    "tollFreeExt": "888",
+    "fax": "562-555-5555",
+    "terminated": "false",
+    "accountLocked": "false",
+    "comment": "1.0",
+    "siteLocation": "SCAN Health Plan",
+    "lastlogin": "2025-10-29T18:11:03-0700",
+    "clientName": "SCAN Health Plan",
+    "createDateTime": "2021-03-22T17:20:01-0700",
+    "lastUpdateDateTime": "2021-07-23T16:43:16-0700"
+  },
+
+  "product": "Medicare",
+  "disputeType": "Post Payment",
+
+  "wsProvider": {
+    "firstName": "JOHN",
+    "lastName": "OSBORNE",
+    "fullName": "OSBORNE, JOHN",
+    "npi": "1912013194",
+    "providerID": "001934",
+    "address1": "4445 MAGNOLIA AVE",
+    "city": "RIVERSIDE",
+    "state": "CA",
+    "zip": "92501-4135",
+    "phone": "999-999-9999",
+    "fax": "562-285-9840",
+    "licenseNumber": "CAG42163",
+    "providerIPAs": []
+  }
+}
+
+}
+
+
+Submit provider Response
+{
+  "medhokId": "",
+  "caseNumber": "",
+  "allegation": "",
+  "requestType": "",
+  "category": "",
+  "subCategory": "",
+  "validAppeal": true,
+  "member": {
+    "firstName": "AMBER",
+    "middleName": "M",
+    "lastName": "RAHMANY BAKER",
+    "fullName": "BAKER, AMBER M",
+    "age": 68,
+    "dateOfBirth": "1957-06-18",
+    "gender": "Female",
+    "memberId": "400515151",
+    "subscriberId": "400515151",
+    "externalId": "400515151",
+    "medicareNo": "4NXSCC7M65",
+    "pcp": "Unknown",
+    "provider": {
+      "firstName": "MOHAMMAD",
+      "lastName": "RAHMANY",
+      "fullName": "RAHMANY, MOHAMMAD",
+      "address": "4445 MAGNOLIA AVE",
+      "city": "RIVERSIDE",
+      "state": "CA",
+      "zip": "92501-4135",
+      "phone": "999-999-9999",
+      "fax": "562-285-9840",
+      "licenseNumber": "CAG42163",
+      "providerId": "001934",
+      "npi": "1912013194",
+      "federalTaxId": ""
+    },
+    "addresses": [
+      {
+        "medhokId": "2796814",
+        "addressType": "Permanent",
+        "address1": "30190 SANTA CECILIA DR",
+        "city": "TEMECULA",
+        "state": "CA",
+        "zip": "92592",
+        "county": "05430",
+        "effectiveDate": "2024-06-01T00:00:00-0700",
+        "termDate": "2024-12-31T00:00:00-0000",
+        "extId": "40051515101_PR_20220601",
+        "dstAdjust": true,
+        "latitude": 33.489,
+        "longitude": -117.0139
+      },
+      {
+        "medhokId": "3186547",
+        "addressType": "Permanent",
+        "address1": "30190 SANTA CECILIA DR",
+        "city": "TEMECULA",
+        "state": "CA",
+        "zip": "92592",
+        "county": "Riverside",
+        "effectiveDate": "2025-01-01T00:00:00-0000",
+        "extId": "40051515101_PR_20250101",
+        "phone": "951-466-7492",
+        "email": "ambermariebaker59@gmail.com",
+        "dstAdjust": true,
+        "latitude": 33.4989,
+        "longitude": -117.0139
+      },
+      {
+        "medhokId": "3539776",
+        "addressType": "Mailing",
+        "address1": "30190 SANTA CECILIA DR",
+        "city": "TEMECULA",
+        "state": "CA",
+        "zip": "92592-2209",
+        "county": "Riverside",
+        "effectiveDate": "2025-01-14T00:00:00-0000",
+        "dstAdjust": true,
+        "latitude": 33.4989,
+        "longitude": -117.0139
+      }
+    ],
+    "memberExtendedAttributes": [
+      {"attribute": "N"},
+      {"attribute4": "ACTIVE"},
+      {"attribute7": "TEMECULA"},
+      {"attribute8": "92592"}
+    ],
+    "memberEligibilities": [
+      {
+        "medhokId": "2208011",
+        "company": "SCAN MEDICARE",
+        "companyLob": "CALIFORNIA HMO",
+        "eligPlan": "2022 SCAN Venture (HMO)",
+        "riverside": "Riverside",
+        "medicareNo": "4NXSCC7M65",
+        "effectiveDate": "2022-06-01T00:00:00-0700",
+        "termDate": "2022-12-31T00:00:00-0000",
+        "contractNumber": "H5425",
+        "pbpNumber": "085",
+        "extId": "40051515101_20220601"
+      },
+      {
+        "medhokId": "2511913",
+        "company": "SCAN MEDICARE",
+        "companyLob": "CALIFORNIA HMO",
+        "eligPlan": "2024 SCAN Venture (HMO)",
+        "effectiveDate": "2024-01-01T00:00:00-0000",
+        "termDate": "2024-12-31T00:00:00-0000",
+        "contractNumber": "H5425",
+        "pbpNumber": "085",
+        "extId": "40051515101_20240101",
+        "memberEligExtAttribute": {"attribute2": "MAPD"}
+      },
+      {
+        "medhokId": "2859584",
+        "company": "SCAN MEDICARE",
+        "companyLob": "CALIFORNIA HMO",
+        "eligPlan": "2025 SCAN Venture (HMO)",
+        "effectiveDate": "2025-01-01T00:00:00-0000",
+        "termDate": "2025-12-31T00:00:00-0000",
+        "contractNumber": "H5425",
+        "pbpNumber": "085",
+        "extId": "40051515101_20250101",
+        "memberEligExtAttribute": {"attribute2": "C-SNP - Balance"}
+      },
+      {
+        "medhokId": "3224928",
+        "company": "SCAN MEDICARE",
+        "companyLob": "CALIFORNIA HMO",
+        "eligPlan": "2026 SCAN Balance (HMO SNP)",
+        "effectiveDate": "2026-01-01T00:00:00-0000",
+        "termDate": "2026-12-31T00:00:00-0000",
+        "contractNumber": "H5425",
+        "pbpNumber": "104",
+        "extId": "40051515101_20260101",
+        "memberEligExtAttribute": {"attribute2": "C-SNP - Balance"}
+      }
+    ],
+    "memberVitals": [],
+    "memberMedications": []
+  },
+  "dueDate": "",
+  "receivedDate": "",
+  "status": "",
+  "intakeDate": "",
+  "intakeMode": "",
+  "priority": "",
+  "aor": {
+    "type": "Provider",
+    "city": "RIVERSIDE",
+    "state": "CA",
+    "zip": "92501-4135",
+    "firstName": "JOHN",
+    "lastName": "OSBORNE",
+    "email": "choriuchi@scanhealthplan.com",
+    "phone": "562-308-3313",
+    "tollFree": "1-800-559-3500",
+    "fax": "562-555-5555",
+    "title": "GAD Coordinator",
+    "userId": "16477"
+  },
+  "organization": "",
+  "product": "",
+  "appealsStatusReason": "",
+  "disputeType": "",
+  "medicalAuthorization": [],
+  "documents": []
+}
+
+}
+
+
+
+
+6. Fax API
+{
+
+https://scanuatexternal.medhokapps.com/medhokws/rest/DocumentRestServices/incomingFax
+
+Request
+
+Form Data
+
+{
+  "name": "{{name}}",
+  "document": "{{document}}",
+  "receivedDatetime": "{{receivedDatetime}}",
+  "incomingFaxNumber": "{{incomingFaxNumber}}",
+  "numberOfPages": "{{numberOfPages}}",
+  "outgoingFaxNumber": "{{outgoingFaxNumber}}"
+}
+curl -k --tlsv1.2 -X POST \
+  https://scanuatexternal.medhokapps.com/medhokws/rest/DocumentRestServices/incomingFax \
+  -H "Content-Type: multipart/form-data" \
+  -H "Accept: application/json" \
+  -H "MEDHOKUSER: scanuat_ws" \
+  -H "PWD: jpm9uV6x6XeiZF1D" \
+  -H "Authorization: Bearer YOUR_ACCESS_TOKEN_HERE" \
+  -F "document=@C:\Users\a.thomson\Downloads\sample_doc.pdf" \
+  -F "receivedDatetime=2014-09-23T23:03:11Z" \
+  -F "name=ghagdh" \
+  -F "incomingFaxNumber=676-787-878" \
+  -F "medhokID=1771011" \
+  -F "documentType=Incoming Fax" \
+  -F "userId=CM-UM_DualTst1"
+
+{
+"incomingId": 10739,
+"documentId": "TU0vL1dTU2Vydm1jZS8vMjAyNi8vMDIvLzA1Ly820DQ30C8vNC51aW4="
+}
+}

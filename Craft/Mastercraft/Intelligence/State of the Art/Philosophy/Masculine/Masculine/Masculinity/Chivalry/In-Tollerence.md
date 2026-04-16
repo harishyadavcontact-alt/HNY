@@ -1,0 +1,1 @@
+- the most intolerant win, the more you are intolerant to a stressor the more you recoginis it. f you m

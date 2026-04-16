@@ -1,5 +1,0 @@
-- create oppurtunities, take initiative and keep your enemies ont he defencive and n react mode will have a demoralinzing effect.  
-    Shift the Battlefield an enemy naturally wants to fight you on familiar trrain, know their formula and and push them into your turf  
-    Compel mistakes they wat to use the smaolf playbook and formulas insted of being objective, you make a way so their strengths cannot come out, and a leve of frustin to blunder. you do not give them enough iem to do anything you play to their emotional weakness , making them as irritable as possible you bait them into deadly traps, itis less your action that their misstet that you control
-
-- Assume passive control make them think they are in control, they will be less defensive, beliving they re in command, subtly direc them to think they are in coler but fall into my trapcontrol or be controles

@@ -1,0 +1,3 @@
+[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/I Don’t make the Rules/Just because you dont take intrest in politics doe/The Inescapable Reality of Enemy- Kill or Get Killed World]]
+
+[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/I Don’t make the Rules/Just because you dont take intrest in politics doe/When some one fights at the level of die for honor, or kill for pride]]

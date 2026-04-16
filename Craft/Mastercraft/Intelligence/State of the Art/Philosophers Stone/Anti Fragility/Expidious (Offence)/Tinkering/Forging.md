@@ -1,0 +1,1 @@
+- One is not born, but becomes, a man, forged , through trials & tribulations, proveing yourself.

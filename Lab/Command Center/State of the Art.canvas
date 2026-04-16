@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"1c5a7a32ab9c4415","type":"group","x":-840,"y":-1660,"width":1660,"height":840,"label":"State of the Art"},
+		{"id":"5c22b975040efb4a","type":"text","text":"[[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/State of the Art|State of the Art]]","x":-816,"y":-1580,"width":288,"height":80,"color":"1"},
+		{"id":"7f4e6823143093c5","type":"text","text":"[[The Map- 4th Quadrant]]","x":-816,"y":-1460,"width":288,"height":80,"color":"1"},
+		{"id":"9dc650a216a60afa","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Philosophers Stone]] ","x":-816,"y":-1270,"width":288,"height":80,"color":"1"},
+		{"id":"f134f094e357faf5","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy of Science/Philosophy of Science]]","x":-820,"y":-1112,"width":296,"height":80,"color":"1"},
+		{"id":"9e6c2bcd35fb4c01","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Evolution/Mimesi - Archive/Philosophy of history]]","x":-816,"y":-960,"width":288,"height":60,"color":"1"},
+		{"id":"d57fb5420d53cabf","type":"text","text":"[[Law of the Jungle]] - [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/The Game/Might is right]]","x":164,"y":-1138,"width":250,"height":60},
+		{"id":"454a6868a9a28a46","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Philostone/Take it or leave it]]","x":164,"y":-1028,"width":250,"height":60},
+		{"id":"b3b7b8f8488ef2f5","type":"text","text":"[[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Meta Strategy/Coersion/Manufacturing Consent/Propaganda|Propaganda]] = Prescriptive = Descriptive(ought)","x":164,"y":-910,"width":250,"height":60},
+		{"id":"e398c29fb01293b2","type":"text","text":"[[Law]]","x":-420,"y":-1102,"width":121,"height":60},
+		{"id":"8d17a7b4d780f053","type":"text","text":"[[descriptive law]] ","x":-200,"y":-1240,"width":250,"height":52},
+		{"id":"f6eec547af057ef5","type":"text","text":"[[prescriptive law]] - Human Law, Force, Conesus, Convention","x":-200,"y":-975,"width":250,"height":91},
+		{"id":"1d192a2cc3db93de","type":"text","text":"[[Physics]]","x":140,"y":-1240,"width":250,"height":60},
+		{"id":"6597142afa8a1094","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/GameB/Legal Precedent]]","x":540,"y":-959,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"fbea31591482c9d8","fromNode":"5c22b975040efb4a","fromSide":"bottom","toNode":"7f4e6823143093c5","toSide":"top"},
+		{"id":"999fe62395b0aab3","fromNode":"7f4e6823143093c5","fromSide":"bottom","toNode":"9dc650a216a60afa","toSide":"top"},
+		{"id":"199c49c8fb5f80aa","fromNode":"9dc650a216a60afa","fromSide":"bottom","toNode":"f134f094e357faf5","toSide":"top"},
+		{"id":"283558d20c91db34","fromNode":"f134f094e357faf5","fromSide":"bottom","toNode":"9e6c2bcd35fb4c01","toSide":"top"},
+		{"id":"ef3f49a39c91886b","fromNode":"f134f094e357faf5","fromSide":"right","toNode":"e398c29fb01293b2","toSide":"left"},
+		{"id":"4828df894a6b052e","fromNode":"e398c29fb01293b2","fromSide":"right","toNode":"8d17a7b4d780f053","toSide":"left"},
+		{"id":"16c9f8eda2d65167","fromNode":"f6eec547af057ef5","fromSide":"right","toNode":"6597142afa8a1094","toSide":"left"},
+		{"id":"1070ac1f9178790d","fromNode":"8d17a7b4d780f053","fromSide":"right","toNode":"1d192a2cc3db93de","toSide":"left"},
+		{"id":"385cade263bc19e2","fromNode":"e398c29fb01293b2","fromSide":"right","toNode":"f6eec547af057ef5","toSide":"left"},
+		{"id":"f2f8bfba7d127ce9","fromNode":"f6eec547af057ef5","fromSide":"right","toNode":"d57fb5420d53cabf","toSide":"left"},
+		{"id":"3cc7ceed2b06c100","fromNode":"d57fb5420d53cabf","fromSide":"right","toNode":"6597142afa8a1094","toSide":"left"},
+		{"id":"870000091987a417","fromNode":"f6eec547af057ef5","fromSide":"right","toNode":"b3b7b8f8488ef2f5","toSide":"left"},
+		{"id":"2be6ac0532f754f5","fromNode":"d57fb5420d53cabf","fromSide":"bottom","toNode":"454a6868a9a28a46","toSide":"top"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

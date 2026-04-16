@@ -1,0 +1,3 @@
+- Policy Implications and Epistemic Shifts
+	- Domesticate the unknowns: "my new mission is to build methods to turn lack of information... into decisions." In the War Room, this node enforces paranoia toward fragilities—hedge tails, pursue asymmetry. Rigorous application demands quoting sources like Taleb directly, avoiding dilution. For deeper rigor, reference Taleb's "Statistical Consequences of Fat Tails" (2020) for mathematical proofs on tail underestimation, ensuring vigilant, evidence-based analysis of affairs
+-

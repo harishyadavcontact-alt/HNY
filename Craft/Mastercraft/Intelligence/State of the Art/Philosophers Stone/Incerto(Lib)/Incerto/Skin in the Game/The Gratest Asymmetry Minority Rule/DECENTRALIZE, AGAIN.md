@@ -1,0 +1,3 @@
+Another attribute of decentralization, and one that the“intellectuals” opposing an exit of Britain from the European Union (Brexit) don’t get: if one needs, say, a 3 percent threshold
+
+in a political unit for the minority rule to take its effect, and _on average_ the stubborn minority represents 3 percent of the population, with variations around the average, then some states will be subject to the rule, but not others. If, on the other hand, we merge all states in one, then the minority rule will prevail all across. This is the reason the U.S.A. works so well. As I have been repeating to everyone who listens, we are a federation, not a republic. To use the language of _Antifragile,_ decentralization is _convex_ to variations.

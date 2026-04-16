@@ -1,0 +1,6 @@
+- [[law of the Land]]
+- [[Laws of Nature]]
+- [[Laws of Nurture]]
+- [[Laws of the Universe]]
+- [[Laws of Time]]
+- [[Laws of the Jungle]]

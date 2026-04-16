@@ -1,0 +1,138 @@
+
+- War [If you want peace, prepare for war]
+	- Dimensions
+		- Strategy
+			- Intelligence
+                - Research
+	                -   Know who you are dealing with
+	                - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Coersion/DISCOVER EACH MAN’S THUMBSCREW]]
+                    - Know your enemy
+                        - ## State of the Art
+                            
+                            - Strengths & weakness
+                            - Vulnerabilities
+                            - Fragilities
+                            - Skin in the Game
+                            - Asymmetry
+                            - Look for Action not words
+                            - Stakes
+                            - Risks
+                            - Non Linearity
+                            - Vulnarabilities
+                            - The Strog do what they can and the weak suffer what the must
+                            - Fragilities
+                            - Ends
+                            - Means
+                            - Ways
+                        - State of Affairs
+                            - Affairs
+                            - Interests
+				- [[Targeting]]
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Sed/Victims Theory]]
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Epistemology/2nd Person Epistemics|2nd Person Epistemics]]
+			- Plan
+				- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Offense/Grand Strategy]]
+					- [[Total Warfare]]
+				- [[End Game]]
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Offense/Know when to Stop]]
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Offense/Know how to end things- the exit strategy]]
+			- Preparation
+				- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Offense/Concentrate your Forces]]
+				- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Offense/Timing is Everything]]
+				- [[Brute Force Attack]]
+				- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Offense/The Blitzkrieg Strategy]]'
+				- 
+		- Offence
+                - Attack
+	                - [[Invisible Enemy]]
+		                - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Unconventional/Take the line of least expectation]]
+		                - [[Terror Strategy]]
+		                - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Unconventional/Take the line of least expectation]]
+		                - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Unconventional/Deny them targets- the void]]
+                    - Predators
+	                    - [[Attack the Weak when Vulnerable]]
+	                    - [[Hit them where it Hurts]]
+					- [[Prey]]
+	                    - [[Keep them on Defensive]]
+		                    - [[Craft/Stagecraft/Stage Craft Means/0Rethoric/OffenciveRethoric/Manufacturing Consent/Deception|Deception]]
+			                    - [[the decoy attack camouflage]]
+		                    - [[Mauver them into weakness]]
+		                    - [[Indirect Attack make them expose their soft plan and attack it]]
+		                    - [[Brute Force Attack]]
+		                    - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Offense/The Blitzkrieg Strategy]]
+						- [[Demoralise]]
+				- [[Diplomatic War]]
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Offense/Negotiate while advancing- diplomatic war]]
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Allys/Keep friends close and enemies closer]]
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Allys/Allys]]
+						- [[Never Isolate_Vertical & Horizontal Socialisation]]``
+							- 
+                    - Parasites
+	                    - [[Inner Front]]
+		                    - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Unconventional/Take small bites]]
+		                    - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Unconventional/Destroy from within]]
+		                    - [[DOMINATE WHILE SEEMING TO SUBMIT]]
+						- [[Strategic Alliance]]
+					- 
+		- Enemy
+			- [[Declare War on your enemies]]
+			- [[Hit the Source]]
+				- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Coersion/STRIKE THE SHEPHERD AND THE SHEEP WILL SCATTER]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Offense/Defeat them in Detail- Divide and conquer]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Enemy/Annihilate- Crush your enemy Totally]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Enemy/Surrender- Recover and Comeback]]
+		- [[DEFENSIVE WARFARE]]
+			- [[Pick your Battles The Perfect Economy]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Defense/Counter Attack]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Defense/Deterrence]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Defense/Non Engagement Strategy]]
+			- [[Trade space for time]]
+		- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Covert/Covert|Covert]]
+		        - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Covert/Espionage]]
+		        - - [[Psychological War]]
+					- [[Nurture Control Penetrate their minds]]
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Unconventional/Weave a sealess blend of act and fiction]]
+					- [[OCCUPY THE MORAL HIGH GROUND]]
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Unconventional/Narrative Control]]
+		- [[Coercion -  Pull Strings]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Coersion/Bait]]
+			- [[Want Desirable]]
+			- [[Need]]
+			- 
+			- [[Dependence]]
+			- [[Isolate the Victim]]
+			- [[Craft/Stagecraft/Stage Craft Means/0Rethoric/OffenciveRethoric/Manufacturing Consent/Manufacturing Consent|Manufacturing Consent]]
+				- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Coersion/Infantilization- Work on the hearts and Emotions of Others]]
+				-  
+		- Inner War
+	            - [[Self directed War]]
+		            - [[Objective War]]
+			            - [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Judicious]]
+				            - [[Cold & Claculate Cool calm and collected]]
+				            - 
+						- [[System of Systems/Directorial/Expidious]]
+							- [[Be Formless]]
+					- [[Subjective War]]
+						 - [[Declare War on your enemies]]
+			            - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/33 Strategies of War/Emergency]]
+				            - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Offense/Concentrate your Forces]]
+				            - [[Brute force]]
+				            - [[blitzkrieg]]
+				            - [[Fight or Flight]]
+				            - [[Forget the Past - don not fight the last war]]
+		- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Allys/Allys]]
+		- [[Strategic Alliance]]
+		- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Allys/Delegation]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Allys/Avoid Infection]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Allys/Cats Paw- Dirty Work]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Allys/Scape Goats|Scape Goats]]
+		- [[Organisational Strategy]]
+	            - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/org Strategy/Secret Society]]
+		            - 
+	            - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/org Strategy/Command and control]]
+		            - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/org Strategy/Morale- Transform your war into a crusade]]
+	            - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/org Strategy/Chain of Command]]
+		            - [[Subsidiarity]]
+			            - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/org Strategy/Remote control- assert without asserting]] 
+- [[Seduction]]
+	- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Sed/Victims Theory]]

@@ -1,0 +1,5 @@
+Second, the cost structure matters quite a bit. It happens in our first example that making lemonade compliant with kosher laws doesn’t change the price by much—it is a matter of avoiding some standard additives. But if the manufacturing of kosher lemonade costs substantially more, then the rule will be weakened in some nonlinear proportion to the difference in costs. If it costs ten times as much to make kosher food, then the minority rule will not apply, except perhaps in some very rich neighborhoods.
+
+Muslims have kosher laws, so to speak, but these are much narrower and apply only to meat. Muslims and Jews have near-identical slaughter rules (all kosher is halal for most Sunni Muslims, or was so in past centuries, but the reverse is not true). Note that these slaughter rules are skin-in-the-game driven, inherited from the ancient Eastern Mediterranean Greek and Levantine practice of economically burdensome animal sacrifice,
+
+to only worship the Gods if one has skin in the game. The Gods do not like cheap signaling.

@@ -1,0 +1,1 @@
+The goal is to get to the [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa/Less is More/Simplicity is Sophistication]]

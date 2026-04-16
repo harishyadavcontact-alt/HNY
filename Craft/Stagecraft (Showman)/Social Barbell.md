@@ -1,0 +1,12 @@
+- Turf
+- People Everywhere
+- Vertical Socialization
+- Dept: Make m=people Owe you one, quid pro quo.
+- [[Popularity]] - [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Fame]]
+- Turfs + HQs + Private Network + Public Network ()+ network state.
+- Popularity
+- Fame
+- Peacocking
+- [[Library(anti)/Code of Conduct/0Rethoric/Rethoric]]
+- [[Behavior Profiling]]
+- [[Social Capital]]

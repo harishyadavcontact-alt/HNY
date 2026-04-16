@@ -1,0 +1,1 @@
+Where Schmitt calls for a violent and certain affirmation of one's identity, Leo Strauss argues for a much more cautious approach, suggesting that the most important truths are often the most dangerous.

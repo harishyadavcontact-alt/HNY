@@ -1,7 +1,0 @@
-[[Universals]]
-
-[[Particular]]
-
-[[Macro]]
-
-[[Micro]]

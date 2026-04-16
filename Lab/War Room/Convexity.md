@@ -1,0 +1,8 @@
+- Convexity = Affairs thresholds + Intrests Thresholds
+- Hedge = Affairs thresholds completed
+- Edge = Intrests thresholds completed
+- Fragility =
+- Vulnarability =
+- Wargaming
+- [[powerbi]]
+-

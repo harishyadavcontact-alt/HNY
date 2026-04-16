@@ -1,0 +1,1 @@
+[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Book excerpts/The Triad/The Central Triad/The Central Triad- Types of Exposure]]

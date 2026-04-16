@@ -1,0 +1,13 @@
+First order of Business in the war room
+    {
+        War Game Crafts
+            Mastercraft (Forge){
+                - Intelegence: The Mastercraft.canvas -> Metastrategy, 
+                - Directorial:  Extrace insights -> Ends, Means, Ways.
+                - Executive:  Extract insights -> Functions, Operations
+            }
+            Tradecraft (Forge){
+                - Intelegence:  
+                - Directorial: 
+            }
+    }

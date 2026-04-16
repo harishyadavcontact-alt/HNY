@@ -1,0 +1,3 @@
+- Learning through osmosis not textbook: Situational difficulty- error to error
+    
+    Another forgotten property of stressors is in language acquisition—I don’t know anyone who ever learned to speak his mother tongue in a textbook, starting with grammar and, checked by biquarterly exams, systematically fitting words to the acquired rules. You pick up a language best thanks to situational difficulty, from error to error, when you need to communicate under more or less straining circumstances, particularly to express urgent needs (say, physical ones, such those arising in the aftermath of dinner in a tropical location).

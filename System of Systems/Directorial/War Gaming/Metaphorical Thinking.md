@@ -1,0 +1,1 @@
+We reduce metaphors used to fill gaps in knowledge, advances in science happens when some metaphors get replaced by more pricise models, metaphorical thinking remains foundational to inquiry,

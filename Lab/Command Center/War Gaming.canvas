@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"5a8c8513ecafa5b8","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Secrets of nature]]","x":-138,"y":540,"width":250,"height":60},
+		{"id":"99ae0aa573d6cc45","type":"text","text":"[[War Gaming]]","x":-138,"y":-320,"width":250,"height":60},
+		{"id":"fd2f3b400da8f901","type":"text","text":"[[Lab/Command Center/State of Affairs]]","x":-388,"y":-158,"width":250,"height":60},
+		{"id":"9c044285e14cfe45","type":"text","text":"[[State of the Art.canvas|State of the Art]]","x":112,"y":-158,"width":250,"height":60},
+		{"id":"584359ad5edbf586","type":"text","text":"[[Intrests]]","x":-638,"y":341,"width":250,"height":60},
+		{"id":"e2eda77e037b0cfd","type":"text","text":"[[affairs|affairs]]","x":-638,"y":241,"width":250,"height":60},
+		{"id":"970ae4bcbfdbdef8","type":"text","text":"[[Stakes]]","x":-638,"y":89,"width":250,"height":60},
+		{"id":"0bc2ef27ad5e17ba","type":"text","text":"[[situational Awarness]]","x":-638,"y":-43,"width":250,"height":60},
+		{"id":"d2d4e1c0467509e8","type":"text","text":"[[Read the Room]]","x":-138,"y":-43,"width":250,"height":60},
+		{"id":"6b67c843324131ef","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Epistemology/2nd Person Epistemics]]","x":-138,"y":89,"width":250,"height":60},
+		{"id":"b03a3374cf2263c6","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Contrarin Thinking]]","x":-138,"y":240,"width":250,"height":60},
+		{"id":"daa5a8223cf0ae03","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Secrets of Nurture]]","x":-138,"y":340,"width":250,"height":61}
+	],
+	"edges":[
+		{"id":"199134bd4dfbd553","fromNode":"99ae0aa573d6cc45","fromSide":"bottom","toNode":"fd2f3b400da8f901","toSide":"top"},
+		{"id":"2060e48928d21137","fromNode":"fd2f3b400da8f901","fromSide":"bottom","toNode":"0bc2ef27ad5e17ba","toSide":"top"},
+		{"id":"35b66570df50a7e7","fromNode":"0bc2ef27ad5e17ba","fromSide":"bottom","toNode":"e2eda77e037b0cfd","toSide":"top"},
+		{"id":"683a908111045d68","fromNode":"0bc2ef27ad5e17ba","fromSide":"bottom","toNode":"584359ad5edbf586","toSide":"top"},
+		{"id":"ea866ba6a307782c","fromNode":"fd2f3b400da8f901","fromSide":"bottom","toNode":"d2d4e1c0467509e8","toSide":"top"},
+		{"id":"57d34a1072a0862f","fromNode":"d2d4e1c0467509e8","fromSide":"bottom","toNode":"6b67c843324131ef","toSide":"top"},
+		{"id":"c7228b09cc8fe5d6","fromNode":"0bc2ef27ad5e17ba","fromSide":"bottom","toNode":"970ae4bcbfdbdef8","toSide":"top"},
+		{"id":"c49748df8b939403","fromNode":"6b67c843324131ef","fromSide":"bottom","toNode":"b03a3374cf2263c6","toSide":"top"},
+		{"id":"420fa9c5e9eabceb","fromNode":"b03a3374cf2263c6","fromSide":"bottom","toNode":"daa5a8223cf0ae03","toSide":"top"},
+		{"id":"f3bbed61143c3b55","fromNode":"daa5a8223cf0ae03","fromSide":"bottom","toNode":"5a8c8513ecafa5b8","toSide":"top"},
+		{"id":"713febcc98bb8cc7","fromNode":"daa5a8223cf0ae03","fromSide":"left","toNode":"584359ad5edbf586","toSide":"right"},
+		{"id":"11b1e489fa84d86d","fromNode":"99ae0aa573d6cc45","fromSide":"bottom","toNode":"9c044285e14cfe45","toSide":"top"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

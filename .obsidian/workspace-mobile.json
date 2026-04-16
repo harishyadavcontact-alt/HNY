@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "00b08333a43c5b3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fffe80941c8716a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f023873862579dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logseq/pages/Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "f24005ddb12d77c6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "cf83287fda89f699",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5095828c4fe7443e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9a8d37483dd755a6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a7035b9f515a94c0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "53877e12fcbdee4f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "50461777cd0f3b34",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "03adb6b84120e0ee",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "8eed8bef92fb57f7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bec77aad88cba40b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "logseq/pages/Selfcraftarchive.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ca8d6bc0947aa7be",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "BaseVault/ExportBlock-/All in one/Untitled/Dashboard.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d2719f2a22d4437e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "BaseVault/ExportBlock-/All in one/Untitled/Dashboard.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "ad8004e7ef959a8d",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "7c786492cf3fe839",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "cf83287fda89f699",
+  "lastOpenFiles": [
+    "Library(anti)/(Lib) Dashboard.md",
+    "Lab/Command Center/War Room.canvas",
+    "Library(anti)/State of the Art(Lib)/State of the Art/State of the Art.md",
+    "logseq/pages/Selfcraftarchive.md",
+    "logseq/pages/Source of Volatility.md",
+    "logseq/pages/Means.md",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Anti Fragility/PROTO-ANTIFRAGILITY/Hormesis.md",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Anti Fragility/PROTO-ANTIFRAGILITY/Hormesis/Harm form no Harm.md",
+    "logseq/pages/Selfcraft.md",
+    "logseq/pages/Home.md",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/Complexity/Evloution.md",
+    "Library(anti)/State of the Art(Lib)/State of the Art/The Map/Black Swan Problem.md",
+    "logseq/pages/Laws of Nature.md",
+    "logseq/pages/Vol 2-Laws of nature.md",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Anti Fragility/Preduence/Time.md",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Philosophy/Sanatana Dharma/Mantra.md",
+    "Lab/Command Center/State of the Art.canvas",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/Complexity/Evloution/Mimesi - Archive/All kings are living gods.md",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/Complexity/Evloution/Mimesis Blueprint.md",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Anti Fragility/Preduence.md",
+    "Lab/Spiral/Project Barbel/Barbell - Spiral.canvas",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Philostone/Foundational Barbell.md",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Philostone/Dialectic Barbell.md",
+    "Lab/Spiral/Project Barbel/Craft/Stagecraft (Showman)/Popularity.md",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Fame.md",
+    "Rhetoric Barbell.md",
+    "logseq/pages/Esc.md",
+    "Hormetic.md",
+    "BaseVault/ExportBlock-/All in one/Untitled/Dashboard.md",
+    "Master Craft.canvas"
+  ]
+}

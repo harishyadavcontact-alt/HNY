@@ -1,0 +1,1 @@
+[[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Evolution/Mimesi - Archive/Untitled/Divergence mimesis]]

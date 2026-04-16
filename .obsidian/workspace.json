@@ -1,29 +1,27 @@
 {
   "main": {
-    "id": "51a266f87f791d6b",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "47fffe9d08802bc3",
+        "id": "288b62e4119e9ba8",
         "type": "tabs",
         "children": [
           {
-            "id": "a0247949a7f60e83",
+            "id": "eadd008c5a6a7cf3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Mastercraft/Master.canvas",
+                "file": "Craft/Tradecraft/Tradecraft.canvas",
                 "viewState": {
-                  "x": -8290.479271249913,
-                  "y": 137.4797726003944,
-                  "zoom": 0.07706229098636438
+                  "x": 949.5975889791501,
+                  "y": -268.2964815914861,
+                  "zoom": -0.7322346274529539
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
-              "title": "Master"
+              "title": "Tradecraft"
             }
           }
         ]
@@ -32,15 +30,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "63bbda4a9fba3926",
+    "id": "ae9f856fc3b5a180",
     "type": "split",
     "children": [
       {
-        "id": "4450cdd03a329145",
+        "id": "9566664d0c88650a",
         "type": "tabs",
         "children": [
           {
-            "id": "9ce8c604cc757431",
+            "id": "850373326ad71603",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "da1e54a242780243",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,54 +61,45 @@
             }
           },
           {
-            "id": "5bc238e2ac359c5b",
+            "id": "f129b3e0d2b99715",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "surgical",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "4993ef8ca09e068f",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
+    "width": 277.5,
     "collapsed": true
   },
   "right": {
-    "id": "74df687b2b334b7a",
+    "id": "48375f1da2e0fd5e",
     "type": "split",
     "children": [
       {
-        "id": "b0543bbba6b0b6c2",
+        "id": "30de23da705a3866",
         "type": "tabs",
         "children": [
           {
-            "id": "e657b9ea3ac0de80",
+            "id": "23b0e13acf73cd6c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mastercraft/Master.canvas",
+                "file": "Lab/Command Center/State of Affairs.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,24 +109,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Master"
+              "title": "Backlinks for State of Affairs"
             }
           },
           {
-            "id": "e16a47aa545cf623",
+            "id": "75d51971f4c5bcc0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BaseVault/ExportBlock-/All in one/Untitled/Blueprint/Wings/Lifestyle/Family/Polygny.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Polygny"
             }
           },
           {
-            "id": "a919cce31b4ef1a5",
+            "id": "6ba540c0496b9085",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +142,7 @@
             }
           },
           {
-            "id": "2184a1627d27ad3e",
+            "id": "bade55aa5a794963",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,24 +156,46 @@
             }
           },
           {
-            "id": "1f4e00cae4834514",
+            "id": "0b13df62d7bd1eee",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lab/War Room/State of the Art/The Map/[[Stakes-(Risks).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of [[Stakes-(Risks)"
+            }
+          },
+          {
+            "id": "39eb09c64be5793f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "796be3880757b07f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 405.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -181,69 +203,72 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a0247949a7f60e83",
+  "active": "eadd008c5a6a7cf3",
   "lastOpenFiles": [
-    "Mastercraft/Intelligence/pages/contents.md.crswap",
-    "Mastercraft/Intelligence/logseq/custom.css",
-    "Mastercraft/Intelligence/pages/contents.md",
-    "Mastercraft/Intelligence/pages",
-    "Mastercraft/Intelligence/logseq/config.edn.crswap",
-    "Mastercraft/Intelligence/logseq/config.edn",
-    "Mastercraft/Intelligence/journals",
-    "Mastercraft/Intelligence/logseq",
-    "Sources/Heather Heying, Bret Weinstein.md",
-    "Mastercraft/Intelligence/State of the Art/Philosophy/Sanatana Dharma/Maya.md",
-    "Sources/lecture 2.md",
-    "Sources/lectur 1.md",
-    "Mastercraft/Master.canvas",
-    "Claude Wiki/05 - Hyper-Novelty/Modern Life Domains/Food — Evolutionary View.md",
-    "Claude Wiki/05 - Hyper-Novelty/The Bee in the House — Analogy.md",
-    "Claude Wiki/05 - Hyper-Novelty/Mismatch — Designed for an Environment We No Longer Live In.md",
-    "Claude Wiki/05 - Hyper-Novelty/Hyper-Novelty.md",
-    "Claude Wiki/05 - Hyper-Novelty/Modern Life Domains/Sleep — Evolutionary View.md",
-    "Claude Wiki/05 - Hyper-Novelty/Modern Life Domains/Medicine — Evolutionary View.md",
-    "Claude Wiki/07 - Sentient Life/Long Childhood → Plasticity.md",
-    "Claude Wiki/07 - Sentient Life/Properties of Sentient Life.md",
-    "Claude Wiki/07 - Sentient Life/The Usual Suspects — Overview.md",
-    "Claude Wiki/07 - Sentient Life/Theory of Mind.md",
-    "Claude Wiki/07 - Sentient Life/08 - Sources/Hunter-Gatherer's Guide (Heying & Weinstein).md",
-    "Claude Wiki/07 - Sentient Life/08 - Sources/Sophia Lectures (Ralston College).md",
+    "First order of Business in the war room.txt",
+    "Archive/Obsidian-precodex/Canvas/Master Canvas.canvas",
+    "Archive/Obsidian-precodex/Canvas/Dashboard.canvas",
+    "Archive/Obsidian-precodex/Canvas/~$hwaCapmDoc.docx",
+    "Archive/Obsidian-precodex/~$~$Genesis_Antifragility_Dashboard.xlsx",
+    "Archive/Obsidian-precodex/Excalidraw/Drawing 2026-01-23 06.48.13.excalidraw",
+    "Craft/Tradecraft/Tradecraft.canvas",
+    "Archive/Obsidian-precodex/Excalidraw/Drawing 2026-02-22 10.16.49.excalidraw.md",
+    "System of Systems/Untitled 2.md",
+    "Archive/Obsidian-precodex/~$Genesis_Antifragility_Dashboard.xlsx",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/Monopoly.md",
+    "Lab/War Room/Ashwamedha.canvas",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Unconventional Truth Secret Question.md",
+    "Archive/Obsidian-precodex/Untitled 1.canvas",
+    "Archive/Obsidian-precodex/Untitled.md",
+    "Archive/Obsidian-precodex/Untitled.canvas",
+    "Archive/Obsidian-precodex/README.md",
+    "Archive/Obsidian-precodex/PROJECT_MAYA_Volatility_Protocol (2).pdf",
+    "Archive/Obsidian-precodex/Library(anti)/Vault Dashboard.md",
+    "Archive/Obsidian-precodex/Library(anti)/Non Predictive Strategy.md",
+    "Archive/Obsidian-precodex/Library(anti)/Dominance Hierarchy.md",
+    "System of Systems/System of Systems.canvas",
+    "Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Anti Fragility/Progress/Horizontal Extensive Progress.md",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Tradecraft.md",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Tradesman.md",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Tail Hedge Fund.md",
+    "Craft/Tradecraft/Trade Volatility.md",
+    "Craft/Stagecraft (Showman)/Persuation/Milk the Premise.md",
+    "Craft/Tradecraft/THE DISTRIBUTION QUESTION - the world is a labotory.md",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions/THE DURABILITY QUESTIO -The last mover.md",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions/THE TIMING QUESTION.md",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions/THE PEOPLE QUESTION.md",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions/THE MONOPOLY QUESTION-highly attainable over highly competitive.md",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions/Bootstrapping Heuristics.md",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions/THE DISTRIBUTION QUESTION - the world is a labotory.md",
+    "Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/More is less/Hormetic/Get in trouble serious, but not terminal- sophistication is born out of hunger.md",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/THE ENGINEERING QUESTION 10x.md",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/Questions.md",
+    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions",
     "Harish Yadav.canvas",
-    "Mastercraft/Intelligence/Universe.md",
-    "Lecture_1_Atoms_Flow.canvas",
-    "Master_Wiki_Flow.canvas",
-    "Parsimony.md",
-    "Parsimony - Simple.md",
-    "Wiki_Flow.canvas",
-    "Mastercraft/State of the Art(Lib)/Craft/Mastercraft/Dialectic/Dialectic Positions/Democracy.md",
-    "Mastercraft/State of the Art(Lib)/Craft/Mastercraft/Dialectic/Dialectic Positions/Christian Ethics.md",
-    "Claude Wiki/00 - Index/MOC - Biotic vs Abiotic.md",
-    "logseq",
-    "Claude Wiki/Overview.canvas",
-    "Wiki/Atoms/Heather Heying Bret Weinstein/087 - About the Author.md",
-    "Wiki/Atoms/Heather Heying Bret Weinstein/086 - Index.md",
-    "Wiki/Atoms/Heather Heying Bret Weinstein",
-    "Wiki/Atoms/lecture 4",
-    "Wiki/Atoms/lecture 3",
-    "Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Ethic/Ethics.canvas",
-    "Mastercraft/Intelligence/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a 4.jpg",
-    "Mastercraft/Intelligence/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a 3.jpg",
-    "Mastercraft/Intelligence/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a.png",
-    "Mastercraft/Intelligence/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a.jpg",
-    "Mastercraft/Intelligence/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a 2.jpg",
-    "Mastercraft/Intelligence/State of the Art/Meta Strategy/Overt/Overtstrat/image2 2.png",
-    "Mastercraft/Intelligence/State of the Art/Complexity/Complex/GameB/Pasted image 20260113145237.png",
-    "Mastercraft/Intelligence/State of the Art/Complexity/Complex/GameB/Pasted image 20260113143414.png",
-    "Mastercraft/Intelligence/State of the Art/Complexity/Complex/GameB/Pasted image 20260113143319.png",
-    "Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine.canvas",
-    "Mastercraft/Intelligence/State of the Art/Philosophers Stone/Philostone/Philosophers Stone.canvas",
-    "Tradecraft/Tradecraft.canvas",
-    "Mastercraft/Intelegence/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a.jpg"
+    "Craft/Mastercraft/Mastercraft.canvas",
+    "Craft/Mastercraft/Master Craft.canvas",
+    "Archive/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/Complexity/Evloution",
+    "Archive/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/Complexity",
+    "Archive/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex",
+    "Archive/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science",
+    "mission-command/public/vite.svg",
+    "mission-command/src/assets/react.svg",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/GameB/Pasted image 20260113143414.png",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/GameB/Pasted image 20260113143319.png",
+    "Notion/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a 3.jpg",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a.png",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a.jpg",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a 4.jpg",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a 3.jpg",
+    "Library(anti)/State of the Art(Lib)/State of the Art/Meta Strategy/Overt/Overtstrat/Shast-arth_d1dc0fa1ca2644e6a54be5e9618cac87Game_A_55c7d46ce7844218a95ba2b0705ad5ccGame_A_Synthesis_b77873e6b3ed4215a7b073e4a 2.jpg"
   ]
 }

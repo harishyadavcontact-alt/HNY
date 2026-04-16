@@ -1,0 +1,1330 @@
+{
+    "requestTypeIdentification": [
+        {
+            "requestType": "DCR",
+            "logicExpression": "1 AND 2 AND 3",
+            "conditions": {
+                "1": {
+                    "keyName": "claimStatus",
+                    "matchType": "IN",
+                    "values": [
+                        "DENIED EOB SENT"
+                    ]
+                },
+                "2": {
+                    "keyName": "eventCodeList",
+                    "matchType": "IN",
+                    "values": [
+                        "60Y",
+                        "6CS",
+                        "CFH",
+                        "CGR"
+                    ]
+                },
+                "3": {
+                    "keyName": "providerNetwork",
+                    "matchType": "IN",
+                    "values": [
+                        "PAR",
+                        "NONPAR"
+                    ]
+                }
+            }
+        },
+        {
+            "requestType": "PAR Dispute",
+            "logicExpression": "1 AND 2 AND 3",
+            "conditions": {
+                "1": {
+                    "keyName": "claimStatus",
+                    "matchType": "IN",
+                    "values": [
+                        "DENIED EOB SENT"
+                    ]
+                },
+                "2": {
+                    "keyName": "eventCodeList",
+                    "matchType": "IN",
+                    "values": [
+                        "632",
+                        "6C9",
+                        "101",
+                        "102",
+                        "105",
+                        "139",
+                        "6Y5"
+                    ]
+                },
+                "3": {
+                    "keyName": "providerNetwork",
+                    "matchType": "IN",
+                    "values": [
+                        "PAR"
+                    ]
+                }
+            }
+        },
+        {
+            "requestType": "FIRST LEVEL",
+            "logicExpression": "1 AND 2 AND 3",
+            "conditions": {
+                "1": {
+                    "keyName": "claimStatus",
+                    "matchType": "IN",
+                    "values": [
+                        "DENIED EOB SENT",
+                        "PAID"
+                    ]
+                },
+                "2": {
+                    "keyName": "eventCodeList",
+                    "matchType": "EXISTENCE",
+                    "values": ""
+                },
+                "3": {
+                    "keyName": "providerNetwork",
+                    "matchType": "IN",
+                    "values": [
+                        "PAR",
+                        "NONPAR"
+                    ]
+                }
+            }
+        },
+        {
+            "requestType": "PDR",
+            "logicExpression": "1 AND 2 AND 3",
+            "conditions": {
+                "1": {
+                    "keyName": "claimStatus",
+                    "matchType": "IN",
+                    "values": [
+                        "PAID"
+                    ]
+                },
+                "2": {
+                    "keyName": "eventCodeList",
+                    "matchType": "EXISTENCE",
+                    "values": ""
+                },
+                "3": {
+                    "keyName": "providerNetwork",
+                    "matchType": "IN",
+                    "values": [
+                        "NONPAR"
+                    ]
+                }
+            }
+        },
+        {
+            "requestType": "PAR NOT AN APPEAL",
+            "logicExpression": "1 AND 2 AND 3",
+            "conditions": {
+                "1": {
+                    "keyName": "claimStatus",
+                    "matchType": "IN",
+                    "values": [
+                        "DENIED EOB SENT",
+                        "PAID"
+                    ]
+                },
+                "2": {
+                    "keyName": "eventCodeList",
+                    "matchType": "NOT IN",
+                    "values": [
+                        "632",
+                        "6C9",
+                        "101",
+                        "102",
+                        "105",
+                        "139",
+                        "6Y5"
+                    ]
+                },
+                "3": {
+                    "keyName": "providerNetwork",
+                    "matchType": "IN",
+                    "values": [
+                        "PAR"
+                    ]
+                }
+            }
+        },
+        {
+            "requestType": "NON-PAR NOT AN APPEAL",
+            "logicExpression": "1 AND 2 AND 3",
+            "conditions": {
+                "1": {
+                    "keyName": "claimStatus",
+                    "matchType": "IN",
+                    "values": [
+                        "DENIED EOB SENT",
+                        "PAID"
+                    ]
+                },
+                "2": {
+                    "keyName": "eventCodeList",
+                    "matchType": "NOT IN",
+                    "values": [
+                        "101",
+                        "102",
+                        "105",
+                        "6E2",
+                        "6A1",
+                        "6A2",
+                        "6A3",
+                        "6A4",
+                        "6A6",
+                        "6A9",
+                        "6AA",
+                        "6AB",
+                        "139",
+                        "6C9",
+                        "6Y5"
+                    ]
+                },
+                "3": {
+                    "keyName": "providerNetwork",
+                    "matchType": "IN",
+                    "values": [
+                        "NONPAR"
+                    ]
+                }
+            }
+        }
+    ],
+    "disputeTypeIdentification": {
+        "DCR": {
+            "defaultDisputeType": "post payment",
+            "disputeTypes": [
+                {
+                    "disputeType": "post services",
+                    "logicExpression": "1",
+                    "conditions": {
+                        "1": {
+                            "keyName": "non contracted medical necessity denial",
+                            "matchType": "EQUALS",
+                            "values": "checked"
+                        }
+                    }
+                }
+            ]
+        },
+        "PAR Dispute": {
+            "defaultDisputeType": "post service",
+            "disputeTypes": []
+        },
+        "FIRST LEVEL": {
+            "defaultDisputeType": "post payment",
+            "disputeTypes": []
+        },
+        "PDR": {
+            "defaultDisputeType": "post payment",
+            "disputeTypes": []
+        },
+        "PAR NOT AN APPEAL": {
+            "defaultDisputeType": "post payment",
+            "disputeTypes": []
+        },
+        "NON-PAR NOT AN APPEAL": {
+            "defaultDisputeType": "post payment",
+            "disputeTypes": []
+        }
+    },
+    "categoryIdentification": {
+        "DCR": {
+            "post payment": {
+                "defaultCategory": "SCAN Risk Services",
+                "categories": [
+                    {
+                        "category": "Out Of Area",
+                        "logicExpression": "1 OR 2",
+                        "conditions": {
+                            "1": {
+                                "keyName": "contracted risk dispute-out of area",
+                                "matchType": "EQUALS",
+                                "values": "checked"
+                            },
+                            "2": {
+                                "keyName": "non contracted risk dispute-out of area",
+                                "matchType": "EQUALS",
+                                "values": "checked"
+                            }
+                        }
+                    },
+                    {
+                        "category": "SCAN Risk Services",
+                        "logicExpression": "1 OR 2",
+                        "conditions": {
+                            "1": {
+                                "keyName": "contracted risk dispute-health plan risk",
+                                "matchType": "EQUALS",
+                                "values": "checked"
+                            },
+                            "2": {
+                                "keyName": "non contracted risk dispute-health plan risk",
+                                "matchType": "EQUALS",
+                                "values": "checked"
+                            }
+                        }
+                    },
+                    {
+                        "category": "Underpayment",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "other dispute type",
+                                "matchType": "EQUALS",
+                                "values": "checked"
+                            }
+                        }
+                    }
+                ]
+            },
+            "post service": {
+                "defaultCategory": "Medical Necessity Level of Care",
+                "categories": []
+            }
+        },
+        "PAR Dispute": {
+            "post service": {
+                "defaultCategory": "Medical Necessity Level of Care",
+                "categories": []
+            }
+        },
+        "FIRST LEVEL": {
+            "post payment": {
+                "defaultCategory": "Underpayment",
+                "categories": [
+                    {
+                        "category": "Underpayment",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "contracted underpayment",
+                                "matchType": "EQUALS",
+                                "values": "checked"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "PDR": {
+            "post payment": {
+                "defaultCategory": "Underpayment",
+                "categories": []
+            }
+        },
+        "PAR NOT AN APPEAL": {
+            "post payment": {
+                "defaultCategory": "Contract",
+                "categories": [
+                    {
+                        "category": "Inclusive",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "09Z",
+                                    "6B2",
+                                    "218",
+                                    "219",
+                                    "C08",
+                                    "DMI"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Duplicate",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "502",
+                                    "505",
+                                    "952",
+                                    "611"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Untimely",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "59P",
+                                    "539",
+                                    "6YF",
+                                    "545",
+                                    "6YC"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Sequestration",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "315"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Benefits and Cost Sharing",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "474"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Hospice",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "304",
+                                    "104",
+                                    "6D6",
+                                    "6YK",
+                                    "6YE",
+                                    "6YJ"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Ices Edit",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "852",
+                                    "850",
+                                    "859"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Overpayment",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "308",
+                                    "6CS"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Contract",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "contracted underpayment",
+                                "matchType": "EQUALS",
+                                "values": "checked"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "NON-PAR NOT AN APPEAL": {
+            "post payment": {
+                "defaultCategory": "Additional Information",
+                "categories": [
+                    {
+                        "category": "Inclusive",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "09Z",
+                                    "6B2",
+                                    "218",
+                                    "219",
+                                    "C08",
+                                    "DMI"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Duplicate",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "502",
+                                    "505",
+                                    "952",
+                                    "611"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Untimely",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "59P",
+                                    "539",
+                                    "6YF",
+                                    "545",
+                                    "6YC"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Sequestration",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "315"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Benefits and Cost Sharing",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "474"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Hospice",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "304",
+                                    "104",
+                                    "6D6",
+                                    "6YK",
+                                    "6YE",
+                                    "6YJ"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Ices Edit",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "852",
+                                    "850",
+                                    "859"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "category": "Overpayment",
+                        "logicExpression": "1",
+                        "conditions": {
+                            "1": {
+                                "keyName": "eventCodeList",
+                                "matchType": "IN",
+                                "values": [
+                                    "308",
+                                    "6CS"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "subCategoryIdentification": {
+        "PAR Dispute": {
+            "defaultSubCategory": "Outpatient Services Billed as Inpatient",
+            "subCategories": [
+                {
+                    "subCategory": "Outpatient Services Billed as Inpatient",
+                    "logicExpression": "1",
+                    "conditions": {
+                        "1": {
+                            "keyName": "eventCodeList",
+                            "matchType": "EQUALS",
+                            "values": "6C9"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Ambulance Not Medically Necessary",
+                    "logicExpression": "1",
+                    "conditions": {
+                        "1": {
+                            "keyName": "eventCodeList",
+                            "matchType": "EQUALS",
+                            "values": "6A3"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Authorization",
+                    "logicExpression": "1",
+                    "conditions": {
+                        "1": {
+                            "keyName": "eventCodeList",
+                            "matchType": "EQUALS",
+                            "values": "632"
+                        }
+                    }
+                }
+            ]
+        },
+        "FIRST LEVEL": {
+            "defaultSubCategory": "Contract",
+            "subCategories": [
+                {
+                    "subCategory": "Authorization",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimStatus",
+                            "matchType": "EQUALS",
+                            "values": "DENIED EOB SENT"
+                        },
+                        "2": {
+                            "keyName": "eventCodeList",
+                            "matchType": "EQUALS",
+                            "values": "632"
+                        }
+                    }
+                }
+            ]
+        },
+        "PDR": {
+            "defaultSubCategory": "MFS",
+            "subCategories": [
+                {
+                    "subCategory": "DRG",
+                    "logicExpression": "1",
+                    "conditions": {
+                        "1": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "1"
+                        }
+                    }
+                }
+            ]
+        },
+        "PAR NOT AN APPEAL": {
+            "defaultSubCategory": "",
+            "subCategories": [
+                {
+                    "subCategory": "Professional Service",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "procedureCode",
+                            "matchType": "STARTS WITH",
+                            "values": "9"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Inpatient Facility",
+                    "logicExpression": "1 AND (2 OR 3)",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "1"
+                        },
+                        "3": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "2"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Outpatient Facility",
+                    "logicExpression": "1 AND (2 OR 3 OR 4)",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "13"
+                        },
+                        "3": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "8"
+                        },
+                        "4": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "3"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "ESRD",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "7"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Lab",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "81"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "DME",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "12"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Ambulance",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "41"
+                        }
+                    }
+                }
+            ]
+        },
+        "NON-PAR NOT AN APPEAL": {
+            "defaultSubCategory": "",
+            "subCategories": [
+                {
+                    "subCategory": "Professional Service",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "procedureCode",
+                            "matchType": "STARTS WITH",
+                            "values": "9"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Inpatient Facility",
+                    "logicExpression": "1 AND (2 OR 3)",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "1"
+                        },
+                        "3": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "2"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Outpatient Facility",
+                    "logicExpression": "1 AND (2 OR 3 OR 4)",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "13"
+                        },
+                        "3": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "8"
+                        },
+                        "4": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "3"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "ESRD",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "7"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Lab",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "81"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "DME",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "12"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Ambulance",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "41"
+                        }
+                    }
+                }
+            ]
+        },
+        "DCR": {
+            "defaultSubCategory": "Other",
+            "subCategories": [
+                {
+                    "subCategory": "Air Transport",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "41"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Ambulance",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "41"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Dental",
+                    "logicExpression": "1 AND 2 AND 3",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "11"
+                        },
+                        "3": {
+                            "keyName": "procedureCode",
+                            "matchType": "STARTS WITH",
+                            "values": "D"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Diabetic Supplies",
+                    "logicExpression": "1 AND 2 AND 3",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "12"
+                        },
+                        "3": {
+                            "keyName": "procedureCode",
+                            "matchType": "IN",
+                            "values": [
+                                "A4329",
+                                "E2103",
+                                "E2102",
+                                "A4328"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "subCategory": "DME",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "12"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Lab",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "81"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Urgent Care",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "2": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "20"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Skilled Nursing Facility",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "2"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Home Health Care",
+                    "logicExpression": "1 AND 2",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "32"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Inpatient Hospital",
+                    "logicExpression": "(1 AND 2) OR (3 AND 4)",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "1"
+                        },
+                        "3": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "4": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "21"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Clinic Services",
+                    "logicExpression": "1 AND (2 OR 3)",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "13"
+                        },
+                        "3": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "8"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Observation",
+                    "logicExpression": "1 AND 2 AND 3",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "13"
+                        },
+                        "3": {
+                            "keyName": "revenueCode",
+                            "matchType": "EQUALS",
+                            "values": "762"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Outpatient Surgery",
+                    "logicExpression": "(1 AND 2 AND 5) OR (3 AND 4)",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "13"
+                        },
+                        "3": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "4": {
+                            "keyName": "placeOfService",
+                            "matchType": "IN",
+                            "values": [
+                                "22",
+                                "24"
+                            ]
+                        },
+                        "5": {
+                            "keyName": "revenueCode",
+                            "matchType": "EQUALS",
+                            "values": "360"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Phsycial Therapy",
+                    "logicExpression": "((1 AND 2 ) OR (3 AND 4)) AND 5",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "13"
+                        },
+                        "3": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "4": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "22"
+                        },
+                        "5": {
+                            "keyName": "procedureCode",
+                            "matchType": "STARTS WITH",
+                            "values": "97"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Emergency Services",
+                    "logicExpression": "(1 AND 2 AND 5) OR (3 AND 4)",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "13"
+                        },
+                        "3": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "4": {
+                            "keyName": "placeOfService",
+                            "matchType": "EQUALS",
+                            "values": "23"
+                        },
+                        "5": {
+                            "keyName": "revenueCode",
+                            "matchType": "EQUALS",
+                            "values": "450"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Diagnostic Services",
+                    "logicExpression": "((1 AND 2 ) OR (3 AND 4)) AND 5",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "13"
+                        },
+                        "3": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "4": {
+                            "keyName": "placeOfService",
+                            "matchType": "IN",
+                            "values": [
+                                "22",
+                                "23"
+                            ]
+                        },
+                        "5": {
+                            "keyName": "procedureCode",
+                            "matchType": "STARTS WITH",
+                            "values": "7"
+                        }
+                    }
+                },
+                {
+                    "subCategory": "Part B Drugs",
+                    "logicExpression": "((1 AND 2 ) OR (3 AND 4)) AND 5",
+                    "conditions": {
+                        "1": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "UB"
+                        },
+                        "2": {
+                            "keyName": "typeofBill",
+                            "matchType": "STARTS WITH",
+                            "values": "13"
+                        },
+                        "3": {
+                            "keyName": "claimType",
+                            "matchType": "EQUALS",
+                            "values": "HCFA"
+                        },
+                        "4": {
+                            "keyName": "placeOfService",
+                            "matchType": "IN",
+                            "values": [
+                                "11",
+                                "12"
+                            ]
+                        },
+                        "5": {
+                            "keyName": "procedureCode",
+                            "matchType": "STARTS WITH",
+                            "values": "J"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

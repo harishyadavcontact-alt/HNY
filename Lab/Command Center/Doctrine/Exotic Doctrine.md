@@ -1,0 +1,43 @@
+- End of [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/Complexity/Evloution/Mimesi - Archive/Mimesis|Mimesis]]
+	- In the Era of [[Meta-crisis]], in [[Moloch]]ian dynamics
+		- hi [[Kalki]]
+		-
+	- AI brings [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Progress/Horizontal Extensive Progress]] to an End.
+	- Copying i.e. [[Memesis]] is now done.
+	- The era of [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Progress/Horizontal Extensive Progress]], copying best practices, globalization, extended supply chain, commodities come to an end.
+	- The Great Equalization
+		- Eventually all tech will be democratized , of Elon must and i having an IPHONE, similarly i will have the same AI Elon has.
+	- This equalization is [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/Complexity/Evloution/Mimesi - Archive/Mimesis|Mimesis]], and means nothing, it for women and children the [[Exoteric Doctrine]].
+	- Energy emerges as the ultimate limiting factor for AI scaling and development, contrasting who can wield it at scale.
+- [[Genesis]]
+	- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa/Techne- How (Not)]] is [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Progress/Vertical (Intencive) Progress]]
+		- [[Localization]]
+			- Real technology, is not state of the art solutions but state of affairs solutions, context specific, answers to Local problems with non universal solutions
+			- Real Asymmetry is not state of the Art solutions but [[Lab/Command Center/State of Affairs]] solution, some times its high tech, some times low and some times no tech in come locals, no tech might reign supreme over the cutting edge solutions.
+			- The older the technology the more ubiquitous it shall remain, all new tech becomes redundant tech like once a loop hole is exploited it get closed.
+		- [[Craft/Tradecraft/Tradecraft (Tradesman)/Economics/Supply Chain]]-> [[Lab/Spiral/Craft/Tradecraft (Tradesman)/Economic/Economics/Value Chain|Value Chain]]
+			- Ai removes constraint from human labor but does no eliminaete the need for human direction. humans leveraging ai must move up the value chain
+			- Humans leveraging AI move up the value chain, turning mere supply chains in to true value chains as this transition unfolds in an increasingly exotic world, where technology equalizes like the iphone
+			- The limits on individual and collective success shifts decisively to the ability to wield technology, soulfully, solve local problems with exotic non- universal personalized solutions and put real skin in the game
+			- if you do not make it into the history books, you perish
+		- [[Lab/Spiral/Project Barbel/Craft/Tradecraft (Tradesman)/Monopoly/Monopoly|Monopoly]]
+			- Men who intend to get rich must establish, [[Lab/Spiral/Craft/Tradecraft (Tradesman)/Monopoly|Monopoly]], in the exotic era, this means abandoning vanilla scalable, one size fits all models for fully personalized move, distribution sales branding, everything becomes exotic and context bound.
+			- Solving local problems with non-universals solutions long enough will inevitably leads to proprietary technology breakthroughs,
+			- you stumble into  them... inevitably confront an unsolved technical problem.
+		- [[Comparative Adavantages]]
+			- This new land scale demands, localization at every-level, including production, manufacturing and industrialization especially for matters of national security
+			- leaning deeply into comparative advantage. turn supply chain into value chains, with unlimited capacity in niche domain, end of true commodities, either build a unique brand perish, sales and distribution become exotic not vanila ahistorical vertical progress over horizontal copying state of affairs solution over state of the art solution ai deployed everywhere ending horizontal progress once and for All
+		- Lack of Esoteric awareness and [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Contrarin Thinking]],
+		- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/philososoeps]] will now come from [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Progress/Vertical (Intencive) Progress]], 0→1.
+		- Solve [[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Networks/Local]] problems, offering non - [[Craft/Mastercraft/Intelligence/State of the Art/Evolution/Claude Wiki/03 - Universals vs Particulars/Universals]] solutions, [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy of Science/Science/Particular]] solutions, to [[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Networks/Local]] problems.
+		- In other words, the end of [[Craft/Tradecraft/Tradecraft (Tradesman)/Economics/Commodity]], Now the [[Craft/Tradecraft/Tradecraft (Tradesman)/Economics/Supply Chain]] becomes the [[Lab/Spiral/Craft/Tradecraft (Tradesman)/Economic/Economics/Value Chain|Value Chain]].
+		- All [[Vanilla Options]] will turn [[Exotic Options]].
+		- All [[Bureaucracy]] turn into [[Algorithims]].
+		  
+		  [AI](https://www.notion.so/AI-2cc3b349ac2080baa5d6ebe660a90a23?pvs=21).
+-
+- Emergence of [[Network State]]s will [[Decouple]] [[Governance]] from [[Lab/Ashwamedha/Democracy]].
+- New consensus
+    A new consensus must emerge
+- New conventions
+-

@@ -1,5 +1,0 @@
-[[Protect]]
-
-[[Provide]]
-
-[[Lead]]

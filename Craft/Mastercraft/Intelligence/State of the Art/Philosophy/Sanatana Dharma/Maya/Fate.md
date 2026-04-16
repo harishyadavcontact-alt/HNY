@@ -1,0 +1,35 @@
+- Be A philosopher King
+    
+    Lucius Annaeus Seneca was a philosopher who happened to be the wealthiest person in the Roman Empire, partly owing to his trading acumen, partly for having served as the tutor of the colorful Emperor Nero, the one who tried to whack his mother a few chapters ago. Seneca subscribed to, and was a prominent expositor of, the philosophical school of Stoicism, which advanced a certain indifference to fate. His work has seduced people like me and most of the friends to whom I introduced his books, because he speaks to us; he walked the walk, and he focused on the practical aspect of Stoicism, down to how to take a trip, how to handle oneself while committing suicide (which he was ordered to do), or, mostly, how to handle adversity and poverty and, even more critically, wealth.
+    
+    Because Seneca was into practical decision making, he has been described—by academics—as not theoretical or philosophical enough. Yet not a single one of his commentators detected in Seneca the ideas abou**t asymmetry that are central to this book, and to life, the key to robustness and antifragility. Not one.** My point is that wisdom in decision making is vastly more important—not just practically, but philosophically—than knowledge.
+    
+    Other philosophers, when they did things, came to practice from theory. Aristotle, when he attempted to provide practical advice, and a few decades earlier Plato, with his ideas of the state and advice to rulers, particularly the ruler of Syracuse, were
+    
+    either ineffectual or caused debacles. To become a successful philosopher king, it is much better to start as a king than as a philosopher, as illustrated in the following contemporary story.
+    
+    Modern members of the discipline of decision theory, alas, travel a one-way road from theory to practice. They characteristically gravitate to the most complicated but most inapplicable problems, calling the process “doing science.” There is an anecdote about one Professor Triffat (I am changing the name because the story might be apocryphal, though from what I have witnessed, it is very characteristic). He is one of the highly cited academics of the field of decision theory, wrote the main textbook and helped develop something grand and useless called “rational decision making,” loaded with grand and useless axioms and shmaxioms, grand and even more useless probabilities and shmobabilities. Triffat, then at Columbia University, was agonizing over the decision to accept an appointment at Harvard—many people who talk about risk can spend their lives without encountering more difficult risk taking than this type of decision. A colleague suggested he use some of his Very Highly Respected and Grandly Honored and Decorated academic techniques with something like “maximum expected utility,” as, he told him, “you always write about this.” Triffat angrily responded, “Come on, this is serious!”
+    
+    By contrast, Seneca is nothing but “this is serious.” He once survived a shipwreck in which other family members perished, and he wrote letters of practical and less practical advice to his friends. In the end, when he took his own life, he followed excellently and in a dignified way the principles he preached in his writings. So while the Harvard economist is only read by people trying to write papers, who in turn are read by people trying to write papers, and will be (hopefully) swallowed by the inexorable b***t detector of history, Lucius Annaeus, known as Seneca the Younger, is still read by real people two millennia after his passing.
+    
+
+- **Less Downside from Life**
+    
+    We start with the following conflict. We introduced Seneca as the wealthiest person in the Roman Empire. His fortune was three hundred million denarii (for a sense of its equivalence, at about the same period in time, Judas got thirty denarii, the equivalent of a month’s salary, to betray Jesus). Admittedly it is certainly not very convincing to read denigrations of material wealth from a fellow writing the lines on one of his several hundred tables (with ivory legs).
+    
+    The traditional understanding of Stoicism in the literature is of some _==**indifference**==_ ==**to fate**==—among other ideas of harmony with the cosmos that I will skip here. ==**It is about continuously degrading the value of earthly possessions.**== When Zeno of Kition, the
+    
+    founder of the school of Stoicism, suffered a shipwreck (a lot of shipwrecks in ancient texts), he declared himself lucky to be unburdened so he could now do philosophy. And the key phrase reverberating in Seneca’s oeuvre is _nihil perditi,_ “I lost nothing,” after an adverse event. Stoicism makes you desire the challenge of a calamity. And Stoics look down on luxury: about a fellow who led a lavish life, Seneca wrote: **“He is in debt, whether he borrowed from another person or from fortune.**”1
+    
+    Stoicism, seen this way, becomes pure robustness—for the attainment of a state of immunity from one’s external circumstances, good or bad, and an absence of fragility to decisions made by fate, is robustness. Random events won’t affect us either way (we are too strong to lose, and not greedy to enjoy the upside), so we stay in the middle column of the Triad.
+    
+
+- ==**Antifragility from fate, upside from fate not the downside**==
+    
+    What we learn from reading Seneca directly, rather than through the commentators, is a different story. Seneca’s version of that Stoicism i==**s antifragility from fate.**== No downside from Lady Fortuna, plenty of upside.
+    
+    True, Seneca’s aim on paper was philosophical, trying to stick to the Stoic tradition as described above: Stoicism was not supposed to be about gains and benefits, so on paper it was not at the level of antifragility, just about a sense of control over one’s fate and the reduction of psychological fragility. But there is something that commentators have completely missed. If wealth is so much of a burden, while unnecessary, what’s the point of having it? Why did Seneca keep it?
+    
+    As I said concerning the psychologists who in Chapter 2 ignore post-traumatic growth but focus on post-traumatic harm, intellectuals have this thing against antifragility—for them the world tends to stop at robustness. I don’t know what it is, but they don’t like it. **This made them avoid considering that Seneca wanted the upside from fate, and there is nothing wrong with it.**
+    
+    Let us first learn from the great master how he advocated the mitigation of downside, the standard message of the Stoics—robustness, protection against harm from emotions, how to move away from the first column of the Triad, that sort of thing. Second step, we will show how he truly proposed antifragility. And, third step, we will generalize his trick into a general method of detection of antifragility in Chapters 18 and 19.

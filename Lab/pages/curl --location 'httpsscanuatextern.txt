@@ -1,0 +1,19 @@
+curl --location 'https://scanuatexternal.medhokapps.com/medhokws/rest/DocumentRestServices/incomingFax' \
+
+--header 'MEDHOKUSER: ••••••' \
+
+--header 'PWD: ' \
+
+--header 'Authorization: ' \
+
+--form 'name="Provider Disputes Fax Queue"' \
+
+--form 'document=@"/C:/Users/v.ramalingam/OneDrive - SCAN Group/Documents/Test1.pdf"' \
+
+--form 'receivedDatetime="2026-01-01T00:00:00UTC"' \
+
+--form 'incomingFaxNumber=" 626-382-3526"' \
+
+--form 'numberOfPages="1"' \
+
+--form 'outgoingFaxNumber=""'

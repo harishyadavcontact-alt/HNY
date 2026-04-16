@@ -1,0 +1,3 @@
+- cant say if a successful person has skills or skilled succeed, for certainty, the person totally devoid of skills will eventually fail
+    
+    Further, being fooled b` randomness is that in most circumstances fraught with a high degree of randomness, one cannot really tell if a successful person has skills, or if a person with skills will succeed—but we can pretty much predict the negative, that a person totally devoid of skills will eventually fail.

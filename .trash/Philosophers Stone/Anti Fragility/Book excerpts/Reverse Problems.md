@@ -1,0 +1,1 @@
+[[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Anti Fragility/Book excerpts/Reverse Problems/how not to be a turkey- Reverse Turkey]]

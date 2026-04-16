@@ -1,0 +1,3 @@
+ [[The Death Spiral (Concave)]] In a fragile system, a small negative disturbance triggers a cascade where the harm becomes increasingly disproportionate to the cause. This is the "Inverse Philosopher's Stone"—turning your gold (stability/wealth) into mud (total loss) via contagion.
+    
+- [[**The Virtue Spiral (Convex)]]:** In an antifragile system, small "disturbances" or errors don't kill you; they provide information or small wins that feed into a bigger payoff. This is the "Philosopher's Stone"—where the upside is far larger than the cost of the tinkering.C25

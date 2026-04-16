@@ -1,0 +1,1 @@
+small risk, massive up side, never the reverse

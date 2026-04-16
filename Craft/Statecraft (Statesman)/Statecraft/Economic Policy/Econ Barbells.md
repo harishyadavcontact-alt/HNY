@@ -1,0 +1,3 @@
+fiscal conservatism
+	When you hear a corporation or a debt-laden government trying to “reinstill confidence” you know they are fragile, hence doomed. Information is merciless: one press conference “to tranquilize” and the investors will run away, causing a death spiral or a run on the bank.
+	Which explains why I have an obsessive stance against government indebtedness, as a staunch proponent of what is called fiscal conservatism. When you don’t have debt you don’t care about your reputation in economics circles—and somehow it is only when you don’t care about your reputation that you tend to have a good one. Just as in matters of seduction, people lend the most to those who need them the least.

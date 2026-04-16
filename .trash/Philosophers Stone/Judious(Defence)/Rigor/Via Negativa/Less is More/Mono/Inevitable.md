@@ -1,0 +1,6 @@
+- a bad **surgeon** will cause harm and even kill
+    
+    Now, before starting to write this section, I spent some time scouring Popper’s complete works wondering how the great thinker, with his obsessive approach to falsification, completely missed the idea of fragility. His masterpiece, _The Poverty of Historicism,_ in which he presents the limits of forecasting, shows the impossibility of an acceptable representation of the future. But he missed the point that if an incompetent surgeon is operating on a brain, one can safely predict serious damage, even the death of the patient. Yet such subtractive representation of the future is perfectly in line with his idea of disconfirmation, its logical second step. What he calls falsification of a theory should lead, in practice, to the breaking of the object of its application.
+    
+
+[[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa/Less is More/Mono/Inevitable/Inevitiables]]

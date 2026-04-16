@@ -1,4 +1,0 @@
-
-[[Jensens inequality]]
-
-[[Ergodicity]]

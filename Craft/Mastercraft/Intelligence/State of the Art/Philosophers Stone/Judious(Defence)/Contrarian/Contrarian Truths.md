@@ -1,0 +1,1 @@
+- Truth, can be the exact opposite of the concesus, hidden behind a popular dilusional belifes, you find the contrarian truth

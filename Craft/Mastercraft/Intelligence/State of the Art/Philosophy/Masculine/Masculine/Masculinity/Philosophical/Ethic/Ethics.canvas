@@ -1,0 +1,44 @@
+{
+	"nodes":[
+		{"id":"ea83d700d3a5cac4","type":"group","x":-1240,"y":760,"width":1191,"height":1140,"label":"Private Ethics"},
+		{"id":"41974b4f215e6bb1","type":"group","x":-1240,"y":-80,"width":1191,"height":720,"label":"Ethics"},
+		{"id":"d4e66cdaf6998c8c","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Ethic/Private Ethics]]","x":-760,"y":353,"width":250,"height":60},
+		{"id":"e8d93a676e168618","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Ethic/Botoom up Ethics]]","x":-439,"y":353,"width":250,"height":60},
+		{"id":"6ea1a9d415c7d2bd","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Ethic/Principled Ethics]]","x":-660,"y":82,"width":250,"height":60},
+		{"id":"a13fc38bea909ce7","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Ethic/Consequentialist Ethics]]","x":-660,"y":169,"width":250,"height":60},
+		{"id":"6676a6497ac9843b","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Ethic/Public Ethics]]","x":-760,"y":440,"width":250,"height":60},
+		{"id":"6992151b17184e67","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Ethic/Ethical Sacrifice]]","x":-981,"y":0,"width":250,"height":60},
+		{"id":"20bef7de05aa3160","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Ethic/Relational Ethics]]","x":-981,"y":82,"width":250,"height":60},
+		{"id":"0022f1fa7b1f3ba3","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Ethic/Transactional Ethics]]","x":-981,"y":169,"width":250,"height":60},
+		{"id":"e938a1cd71671941","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Ethic/Personal Ethics]]","x":-760,"y":520,"width":250,"height":60},
+		{"id":"6c8708653cc6ac61","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rational/Ethics]]","x":-1220,"y":353,"width":184,"height":60},
+		{"id":"9622d9aecec56a76","type":"text","text":"[[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Dependencies/Path/Private]]","x":-805,"y":780,"width":250,"height":80},
+		{"id":"93fc4687b904b8b3","type":"text","text":"The Principle of Generalisation:\n\nIf your private actions do not generalize, then you cannot have general ideas.","x":-777,"y":1181,"width":250,"height":219},
+		{"id":"8a6d8c65c2628945","type":"text","text":"**Virtue as a Private Act:** Virtue is defined by what you do when nobody is looking; advertising it (virtue signaling) is a vice that combines bullying and cowardic","x":-599,"y":1581,"width":250,"height":239},
+		{"id":"eadec9c2f9e457a4","type":"text","text":"**Family as a Target:** Having a family makes an individual vulnerable to ethical compromise because enemies can hit you where it hurts: the well-being of your progeny.\n\n• **The Celibacy of Saints:** Society traditionally expects moral heroes and saints to be celibate so they can avoid the dilemma of choosing between the collective good and feeding their own children.\n\n• **Marriage and Children:** Marriage is a commitment to children rather than personal happiness; the highest virtue is staving off one's own happiness for the sake of the next generation.\n\n• **The Hierarchy of Survival:** A person is not a single unit; your skin is in a broader set that includes family, tribe, and community. One should be willing to sacrifice their own well-being for the survival of a \"higher layer,\" such as the family or the ecosystem.","x":-464,"y":860,"width":395,"height":595},
+		{"id":"b7bd8eaed2130a67","type":"text","text":"Ethics \n\t• **Ethical Inversion:** It is a modern pathology for people to fit their ethics to their profession (e.g., \"I have a mortgage\") rather than finding a profession that fits their ethics\n- I'm just doing my job\n\t- if your ethics is to favor your family over the nation, then you should find a profession that fits your ethics, if you have a morgague & 2 cats you cant  be a Spy, or a Nation\n\t- ","x":-1220,"y":1496,"width":250,"height":384},
+		{"id":"f3caea82e971bbb4","type":"text","text":"One cannot apply the logic of a \"transactional\" life to the \"relational\" domain of friends and family.\n\n","x":-1210,"y":1051,"width":250,"height":309},
+		{"id":"0c7aa67f4b1cf269","type":"text","text":"Character\n\n**Consistency of Character:** If your private life conflicts with your intellectual opinion, it cancels the intellectual ideas","x":-902,"y":1455,"width":250,"height":205},
+		{"id":"b4c709942ee87d36","type":"text","text":"Consequentilist Ethics is Forbiden in private life, loyalty is private life is the noble sintement, based on moral commitemts & people.","x":-864,"y":996,"width":250,"height":164}
+	],
+	"edges":[
+		{"id":"47da45967d3a4da5","fromNode":"6c8708653cc6ac61","fromSide":"right","toNode":"6676a6497ac9843b","toSide":"left"},
+		{"id":"3e19ec0528d92233","fromNode":"6c8708653cc6ac61","fromSide":"right","toNode":"e938a1cd71671941","toSide":"left"},
+		{"id":"d7ee1c5cd654b209","fromNode":"6c8708653cc6ac61","fromSide":"right","toNode":"6992151b17184e67","toSide":"left"},
+		{"id":"72985332a1ac6389","fromNode":"6c8708653cc6ac61","fromSide":"right","toNode":"d4e66cdaf6998c8c","toSide":"left"},
+		{"id":"fc2af58645405558","fromNode":"6c8708653cc6ac61","fromSide":"right","toNode":"0022f1fa7b1f3ba3","toSide":"left"},
+		{"id":"fa57205134ba3469","fromNode":"6c8708653cc6ac61","fromSide":"right","toNode":"20bef7de05aa3160","toSide":"left"},
+		{"id":"6f755b7130b0125d","fromNode":"20bef7de05aa3160","fromSide":"right","toNode":"6ea1a9d415c7d2bd","toSide":"left"},
+		{"id":"c2b9601cb8e81dbe","fromNode":"0022f1fa7b1f3ba3","fromSide":"right","toNode":"a13fc38bea909ce7","toSide":"left"},
+		{"id":"fbcfd69e6f532cb9","fromNode":"9622d9aecec56a76","fromSide":"bottom","toNode":"b4c709942ee87d36","toSide":"top"},
+		{"id":"1c509751cb534cdd","fromNode":"9622d9aecec56a76","fromSide":"bottom","toNode":"eadec9c2f9e457a4","toSide":"top"},
+		{"id":"c05e4eef0aa45948","fromNode":"93fc4687b904b8b3","fromSide":"bottom","toNode":"0c7aa67f4b1cf269","toSide":"top"},
+		{"id":"c75aae964bea02f7","fromNode":"0c7aa67f4b1cf269","fromSide":"right","toNode":"8a6d8c65c2628945","toSide":"left"},
+		{"id":"26238f7bd3a33131","fromNode":"f3caea82e971bbb4","fromSide":"bottom","toNode":"b7bd8eaed2130a67","toSide":"top"},
+		{"id":"bca78acb3b583d28","fromNode":"b4c709942ee87d36","fromSide":"left","toNode":"f3caea82e971bbb4","toSide":"right"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

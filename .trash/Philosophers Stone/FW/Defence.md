@@ -1,0 +1,25 @@
+- [[Judious Defence]] is [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rational]] (Non-@)& [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor]]ous.
+
+- Focus on [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa/Techne- How (Not)]].
+
+- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rational]] is Survival through [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rational/Organic Selection]] (the best option).
+
+- And [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor]] is achived [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa]], [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Natural Rigor]], [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Time Tested]] & [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Skeptical Empiricism]], Mathematically [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Convex]].
+
+- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa]]
+    
+    - In Life you only have [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa/De-Noice]] with [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa]] rejecting Via-Positiva- [[Craft/Mastercraft/Philosophy/Philosophy]] [[[ExportBlock-38d3bb8b-9033-4b30-bb89-90231ba34702-Part-1/ExportBlock-38d3bb8b-9033-4b30-bb89-90231ba34702-Part-1/All in one/Untitled/Blueprint/Philosophers Stone/Anti Fragility/Judious(Defence)/Rigor/Convex/Convex Transformation[Barbell Strategy]/De - Fragilisation/Stop Trying to be god/Fragilista/Naiveity/Theory|Theory]], [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Meta Strategy/Overt/narrative]] ], [Skin in the Game is necessary to understand the world](https://www.notion.so/Skin-in-the-Game-is-necessary-to-understand-the-world-2b83b349ac20813c9593d89737f066dd?pvs=21), hence judge based on [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa/Less is More/Essence Brings sensational]] with
+    
+    - [Skin in the Game](https://www.notion.so/Skin-in-the-Game-2b83b349ac2081c9ae46cf67dfc239dc?pvs=21) [[[Form follows function]] ]
+        
+        - in [[Maya 2]] has to do with [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure|Exposure]] not of [[Craft/Mastercraft/Philosophy/Philosophy]], [[Craft/Mastercraft/Philosophy/Masculine/Masculine/I Don’t make the Rules/Truth]], [[Formulas]] , [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Stop Trying to be god/Fragilista/Naiveity/Theory|Theory]], [[Narratives]]
+        
+    
+    - [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa/Less is More/Simplicity is Sophistication]] [, [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa/Less is More/Mono/Central]], [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa/Less is More/Mono/Single/Golden rule of Reason]] & [[Lab/Spiral/Spiral/Heuristics Spiral/Heuristics]] ]
+    
+    - [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa/Techne How (Not)/How Not this not That/Seclusion & Solitude]] reduce everything into [[Lab/Spiral/Spiral/Heuristics Spiral/Heuristics]] Focus on [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Exposure|Exposure]] & @Experience
+    
+
+- Mathematic Rigor [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Convex]] , is Having a [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Convex/Convexity Bias]] & [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Convex/Convex Transformation Barbell Strategy]].
+
+- A [[Judious Defence]] man focuses on [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Dicipline]] [[Archive/Obsidian-precodex/Lab/pages/Prudence]], [Definite Pessimism: Prepration](https://www.notion.so/Definite-Pessimism-Prepration-8e8d09bb75f84bab9f1a4ed0925030c2?pvs=21), [[System of Systems/Directorial/Problem Solving]] & [Deligience](https://www.notion.so/Deligience-5b7cf8ee91ae4c71a8645b640ee530e1?pvs=21).

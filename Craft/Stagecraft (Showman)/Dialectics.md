@@ -1,0 +1,15 @@
+
+- Dialectics
+- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Judicious]]: Doctrines, Barbels, Heuristics right
+- [[System of Systems/Directorial/Expidious]]: [[Brute forece]]
+- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Expidious (Offence)/Tinkering]]
+- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Expidious (Offence)/Tinkering/Honing]]
+- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Expidious (Offence)/Tinkering/Wielding]]
+- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Philostone/Taming]]
+- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Expidious (Offence)/Tinkering/Forging]]
+- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Expidious (Offence)/Tinkering/Forging]]: [[Research & Development]]
+- [[Harish Yadav Profile]]
+- Heuristic
+- Become a [[Autodidactic]], [[Polyglot]], [[polymath]],[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Philostone/Erudite]].
+- Rely on [[Exoteric Doctrine]] for [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Meta Strategy/Coersion/Manufacturing Consent/Rhetoric|Rhetoric]]
+- Get your [[Craft/Stagecraft/Dialectic 1/Dialectic]] positions based on [[Esoteric Doctrine]] right.

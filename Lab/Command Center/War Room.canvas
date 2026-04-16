@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"676db79675ce515b","x":-99,"y":-9,"width":250,"height":60,"type":"text","text":"[[War Gaming]]"}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

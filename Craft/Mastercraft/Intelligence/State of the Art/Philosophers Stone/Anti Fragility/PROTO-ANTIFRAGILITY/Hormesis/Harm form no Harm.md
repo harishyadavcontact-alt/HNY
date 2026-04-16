@@ -1,0 +1,1 @@
+But the larger point is that we can now see that depriving systems of stressors, vital stressors, is not necessarily a good thing, and can be downright harmful.

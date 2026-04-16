@@ -1,0 +1,1 @@
+1. Predicting the future by removing what is fragile from it rather than naively adding to it. An application of via negativa.

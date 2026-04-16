@@ -1,0 +1,1 @@
+- Take some time away from modern BS< structue of desks, stay in max solitude or hig optionality crowd

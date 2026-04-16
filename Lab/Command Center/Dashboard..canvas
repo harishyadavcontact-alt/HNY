@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b6b5b1b93b18de12","type":"text","text":"https://gs671-suske.ndc.nasa.gov/","x":-120,"y":-391,"width":250,"height":60},
+		{"id":"7ca8be940ac21bc9","type":"text","text":"https://www.ncei.noaa.gov/maps/historical-declination/","x":-440,"y":-450,"width":250,"height":178}
+	],
+	"edges":[
+		{"id":"bfa9ca6fcb476af7","fromNode":"7ca8be940ac21bc9","fromSide":"right","toNode":"b6b5b1b93b18de12","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,1 @@
+[[Craft/Mastercraft/Philosophy/Masculine/Masculine/I Don’t make the Rules/Founding Questions/God]]

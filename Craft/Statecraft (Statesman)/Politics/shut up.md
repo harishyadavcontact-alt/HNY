@@ -1,0 +1,5 @@
+Condescending
+
+Insulting
+
+Embarrassing

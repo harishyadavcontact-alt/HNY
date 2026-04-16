@@ -1,0 +1,3 @@
+- The Dead is [[complicated]] & [[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Evolution/Abiotic]], [[Craft/Mastercraft/Intelligence/State of the Art/Evolution/Claude Wiki/03 - Universals vs Particulars/Universals]] that get [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Expidious (Offence)/Discovery/Discover]]ed
+
+- It is [[Deterministic]] [[Systems]] where we face [[Craft/Mastercraft/Philosophy/Sanatana Dharma/Maya 2b53-21de/Linear Causality]].

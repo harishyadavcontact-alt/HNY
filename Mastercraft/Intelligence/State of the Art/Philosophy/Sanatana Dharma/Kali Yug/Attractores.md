@@ -1,3 +1,0 @@
-[[Catastrophy]]
-
-[[Authoritarian- Technocratic Communism]]

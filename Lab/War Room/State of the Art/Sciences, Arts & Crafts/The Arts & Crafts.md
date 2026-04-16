@@ -7,12 +7,12 @@
 7. [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Sanatana Dharma/Yantra]]: [[Physiological Heuristics]]
 8. [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Sanatana Dharma/Mantra]]: [[Psychological Heuristics]]
 9. [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Sanatana Dharma/Tantra-]]: [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Sanatana Dharma/Yoga/Yoga Sutra]]
-10. [[Harish Yadav]]
-11. [[Churn]] [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Frames 2d03-1e1b/Peacocking]]: [[Social Capital]] -[[Social proof]] -[[Pres-election]]
+10. [[Craft/Stagecraft/Harish Yadav]]
+11. [[Churn]] [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Frames/Peacocking]]: [[Craft/Stagecraft/Social/Social Capital]] -[[Social proof]] -[[Pres-election]]
 12. [[Family Man]] : [[Exoteric Doctrine]]
 13. [[Family Affairs]]
 14. [[Social Order]]
-15. [[Social Capital]]: [[Exoteric Doctrine]]
+15. [[Craft/Stagecraft/Social/Social Capital]]: [[Exoteric Doctrine]]
 
 
 - Hormetic Growth

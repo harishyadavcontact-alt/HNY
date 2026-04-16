@@ -1,2 +1,0 @@
-**just react to events as they happen and hope things don’t get worse. The indefinite pessimist can’t know whether the inevitable decline will be fast or slow, catastrophic or gradual. Indefinite pessimism works because it’s self-fulfilling. if you’re a slacker with low expectations, they’ll probably be met.  
-Indefinitive Optimist

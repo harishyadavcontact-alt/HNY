@@ -1,1 +1,0 @@
-[https://www.paulgraham.com/greatwork.html](https://www.paulgraham.com/greatwork.html)

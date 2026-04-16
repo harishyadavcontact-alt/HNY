@@ -1,1 +1,0 @@
-Mutually assured destruction

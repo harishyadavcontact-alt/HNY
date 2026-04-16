@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk -F/ '{print $NF}')",
+      "Bash(awk '$1 == 4 {for\\(i=2;i<=NF;i++\\) printf \"%s \", $i; print \"\"}')",
+      "Bash(awk '$1 == 3 {for\\(i=2;i<=NF;i++\\) printf \"%s \", $i; print \"\"}')",
+      "Bash(python3 -c ':*)",
+      "Bash(find . -name \"*.md\" -not -path \"./.git/*\" -exec md5sum {} \\\\;)",
+      "Bash(sort wc:*)",
+      "Bash(awk '{print $1}')",
+      "Bash(awk ' { hash = $1 path = substr\\($0, length\\($1\\)+2\\) if \\(hash != prev_hash\\) { if \\(group_has_trash && group_has_main\\) { for \\(i in trash_files\\) { print trash_files[i] } } delete trash_files group_has_trash = 0 group_has_main = 0 prev_hash = hash } if \\(path ~ /^\\\\.\\\\/.trash\\\\//\\) { trash_files[length\\(trash_files\\)+1] = path group_has_trash = 1 } else { group_has_main = 1 } } END { if \\(group_has_trash && group_has_main\\) { for \\(i in trash_files\\) { print trash_files[i] } } ' wc -l /tmp/trash_dups.txt head -5 /tmp/trash_dups.txt)",
+      "Bash(awk '{hash=$1; path=substr\\($0,length\\($1\\)+2\\); if\\(hash==prev\\){if\\(prev_path~/trash/\\){print prev_path} if\\(path~/trash/\\){print path}} prev=hash; prev_path=path}')",
+      "Bash(sort -u wc -l /tmp/trash_dups.txt)",
+      "Bash(awk '{print $2}' wc -l /tmp/stagecraft_paths.txt)",
+      "Bash(awk '{print $2}' wc -l /tmp/mc_philosophy_paths.txt)",
+      "Bash(awk '$1>1 {total += $1; groups++} END {print \"Total files in duplicate groups: \" total; print \"Duplicate groups: \" groups; print \"Deletable \\(keep one per group\\): \" total - groups}')",
+      "Bash(sort)",
+      "Read(//c/Users/vishr/AppData/Local/Temp/**)",
+      "Bash(find . -type d -empty -not -path \"./.git/*\" -delete)"
+    ]
+  }
+}

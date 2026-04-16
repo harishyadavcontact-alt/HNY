@@ -1,1 +1,0 @@
-Predicate Logic: First Order Logic

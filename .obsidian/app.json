@@ -7,5 +7,6 @@
   "attachmentFolderPath": "./attachments",
   "userIgnoreFilters": null,
   "showUnsupportedFiles": true,
-  "uriCallbacks": true
+  "uriCallbacks": true,
+  "newLinkFormat": "shortest"
 }

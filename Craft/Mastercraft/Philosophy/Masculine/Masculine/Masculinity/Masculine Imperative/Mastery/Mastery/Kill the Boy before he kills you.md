@@ -1,1 +1,0 @@
-- beta thinking: buffers to beoming a man, porn, follow, chase, leagues, LDR, Just be your self or you are a try hard[being sotmethin you are not], oneities, kill the beta before the beta kills you

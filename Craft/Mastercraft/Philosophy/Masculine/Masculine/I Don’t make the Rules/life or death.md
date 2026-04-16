@@ -1,1 +1,0 @@
-[[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Soul in the Game/Kill or Get Killed]]

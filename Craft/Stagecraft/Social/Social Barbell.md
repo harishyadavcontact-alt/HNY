@@ -1,0 +1,4 @@
+- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Popular|Popular]]
+- Peacocking
+- [[Library(anti)/Code of Conduct/0Rethoric/Rethoric]]
+- [[Craft/Stagecraft/Social/Behavior Profiling]]

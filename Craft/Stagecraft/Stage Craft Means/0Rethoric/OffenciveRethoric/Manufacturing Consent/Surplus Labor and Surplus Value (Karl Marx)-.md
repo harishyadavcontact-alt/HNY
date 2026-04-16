@@ -1,1 +1,0 @@
-- Surplus labor refers to the labor performed by workers beyond what is necessary to meet their own needs (subsistence labor). In a capitalist system, the capitalist appropriates this surplus labor in the form of surplus value, which becomes the source of profit. This exploitation of surplus labor is the foundation of capitalist accumulation and wealth disparity.

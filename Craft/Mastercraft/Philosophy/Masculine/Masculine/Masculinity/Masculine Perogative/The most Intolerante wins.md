@@ -1,2 +1,0 @@
-c. Its you vs the world, Raised to be, preparing, what kinda man you what to be, by knowign what kind i down want ot be and its okay to be angry at the world, but underste dislik turn inot hate, the begnn gof tolerating what you should, would, could must not, never tolerate reble, revolt and fight it throug that is life afirmng  
-a.

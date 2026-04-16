@@ -54,7 +54,7 @@
 	                    - [[Hit them where it Hurts]]
 					- [[Prey]]
 	                    - [[Keep them on Defensive]]
-		                    - [[Craft/Stagecraft/Stage Craft Means/0Rethoric/OffenciveRethoric/Manufacturing Consent/Deception|Deception]]
+		                    - [[Craft/Stagecraft/Stagecraft/Stage Craft Means/Rethoric/OffenciveRethoric/Manufacturing Consent/Deception|Deception]]
 			                    - [[the decoy attack camouflage]]
 		                    - [[Mauver them into weakness]]
 		                    - [[Indirect Attack make them expose their soft plan and attack it]]
@@ -101,7 +101,7 @@
 			- 
 			- [[Dependence]]
 			- [[Isolate the Victim]]
-			- [[Craft/Stagecraft/Stage Craft Means/0Rethoric/OffenciveRethoric/Manufacturing Consent/Manufacturing Consent|Manufacturing Consent]]
+			- [[Craft/Stagecraft/Stagecraft/Stage Craft Means/Rethoric/OffenciveRethoric/Manufacturing Consent/Manufacturing Consent|Manufacturing Consent]]
 				- [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Coersion/Infantilization- Work on the hearts and Emotions of Others]]
 				-  
 		- Inner War

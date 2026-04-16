@@ -5,7 +5,7 @@
 
 - Thick tail Domain
     
-    - [[Craft/Tradecraft/Tradecraft (Tradesman)/Finincial/Finincial]]
+    - [[Finincial]]
         
         - Heuristic: Detect Systemic Fragility, by Fragilistias playing God
         

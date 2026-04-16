@@ -1,3 +1,0 @@
-Obama’s mistake illustrates the illusion of local causal chains—that is, confusing catalysts for causes and assuming that one can know which catalyst will produce which effect. The final episode of the upheaval in Egypt was unpredictable for all observers, especially those involved.
-
-As such, blaming the CIA or some other intelligence agency is as injudicious as funding it to forecast such events. Governments are wasting billions of dollars on attempting to predict events that are produced by interdependent systems and are therefore not statistically understandable at the individual level.

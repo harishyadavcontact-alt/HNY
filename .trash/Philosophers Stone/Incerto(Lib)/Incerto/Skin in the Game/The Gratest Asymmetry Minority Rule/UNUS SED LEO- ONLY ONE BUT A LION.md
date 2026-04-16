@@ -1,3 +1,0 @@
-Alexander said that it was preferable to have an army of sheep led by a lion than an army of lions led by a sheep. Alexander (or whoever produced this probably apocryphal saying) understood the value of the active, intolerant, and courageous minority. Hannibal terrorized Rome for a decade and a half with a tiny army of mercenaries, winning twenty-two battles against the Romans, battles in which he was outnumbered each time. He was inspired by a version of this maxim.
-
-For, at the battle of Cannae, he remarked to Gisco, who was concerned that the Carthaginians were outnumbered by the Romans: “There is one thing that’s more wonderful than their numbers … in all that vast number there is not one man called Gisgo.”**fn5**

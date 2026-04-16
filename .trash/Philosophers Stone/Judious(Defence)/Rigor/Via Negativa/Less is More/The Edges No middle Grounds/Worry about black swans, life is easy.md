@@ -1,6 +1,0 @@
-- Extremisthan: winner takes all
-    
-    Some people are aware of the _eighty/twenty_ idea, based on the discovery by Vilfredo Pareto more than a century ago that 20 percent of the people in Italy owned 80 percent of the land, and vice versa. Of these 20 percent, 20 percent (that is, 4 percent) would have owned around 80 percent of the 80 percent (that is, 64 percent). We end up with less than 1 percent representing about 50 percent of the total. These describe winner-take-all Extremistan effects. These effects are very general, from the distribution of wealth to book sales per author.
-    
-
-I realized that the less-is-more heuristic fell squarely into my work in two places. First, extreme effects: there are domains in which the rare event (I repeat, good or bad) plays a disproportionate share and we tend to be blind to it, so focusing on the exploitation of such a rare event, or protection against it, changes a lot, a lot of the risky exposure. Just worry about Black Swan exposures, and life is easy.

@@ -1,1 +1,0 @@
-- You are hier to the most powerfull species, the most important tradition, civilisation, Heritage, Lineage, Last Name.[you are a heir to a great tradition, and you need to Live up to it, protect it and leade it]

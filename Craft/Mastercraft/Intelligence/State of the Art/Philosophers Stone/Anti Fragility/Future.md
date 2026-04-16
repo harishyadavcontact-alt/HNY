@@ -12,4 +12,4 @@ Views of [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/An
 
   
 
-if the Core is [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Progress]] what you really need is [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Progress/Vertical (Intencive) Progress]] & [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Progress/Horizontal Extensive Progress]].
+if the Core is [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Progress]] what you really need is [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Progress/Vertical (Intencive) Progress/Vertical (Intencive) Progress]] & [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Progress/Horizontal Extensive Progress]].

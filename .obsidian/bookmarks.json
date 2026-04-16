@@ -104,7 +104,12 @@
     {
       "type": "file",
       "ctime": 1776232402003,
-      "path": "Craft/Tradecraft/Tradecraft.canvas"
+      "path": "Craft/Tradecraft/Business/Monopoly/Tradecraft.canvas"
+    },
+    {
+      "type": "file",
+      "ctime": 1776246593504,
+      "path": "Craft/Mastercraft/Philosophy/Masculine/Masculine.canvas"
     }
   ]
 }

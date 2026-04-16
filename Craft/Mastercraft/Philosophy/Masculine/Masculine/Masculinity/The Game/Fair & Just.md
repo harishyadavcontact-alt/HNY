@@ -1,1 +1,0 @@
-- Competion is the most fair & just thing on the planet

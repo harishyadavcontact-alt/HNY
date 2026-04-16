@@ -1,3 +1,0 @@
-The same can be seen in the Fukushima nuclear reactor, which experienced a catastrophic failure in 2011 when a tsunami struck. It had been built to withstand the worst past historical earthquake, with the builders not imagining much worse—and not thinking that the worst past event had to be a surprise, as it had no precedent.
-
-Likewise, the former chairman of the Federal Reserve, Fragilista Doctor Alan Greenspan, in his apology to Congress offered the classic “It never happened before.” Well, nature, unlike Fragilista Greenspan, prepares for what has not happened before, _assuming worse harm is possible_.4

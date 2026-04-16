@@ -1,3 +1,0 @@
-“Big Ag” (the large agricultural firms) does not realize that this is the equivalent of entering a game in which one needed to not just win more points than the adversary, but win 97 percent of the total points just to be safe. It is strange to see an industry that spends hundreds of millions of dollars on research-cum-smear-campaigns, with hundreds of these scientists who think of themselves as more intelligent than the rest of us, miss such an elementary point about asymmetric choices.
-
-Another example: do not think that the spread of automatic shifting cars is necessarily due to a majority preference; it could just be because those who can drive manual shifts can always drive automatic, but the reverse is not true.

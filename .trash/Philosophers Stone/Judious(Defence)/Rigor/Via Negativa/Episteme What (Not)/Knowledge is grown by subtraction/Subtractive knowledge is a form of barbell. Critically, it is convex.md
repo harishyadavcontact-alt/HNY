@@ -1,1 +1,0 @@
-- What is wrong is quite robust, what you don’t know is fragile and speculative, but you do not take it seriously so you make sure it does not harm you in case it turns out to be false.

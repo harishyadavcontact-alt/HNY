@@ -1,5 +1,0 @@
-- In high stake decision, if you have more than one reason to do it, ommit it, decison require no more than a single reason
-
-- Single reason, is conviction, more than one is convincing, if its not fuck yes its a no
-    
-    I discovered that I had been intuitively using the less-is-more idea as an aid in decision making (contrary to the method of putting a series of pros and cons side by side on a computer screen). For instance, if you have more than one reason to do something (choose a doctor or veterinarian, hire a gardener or an employee, marry a person, go on a trip), just don’t do it. It does not mean that one reason is better than two, just that by invoking more than one reason you are trying to convince yourself to do something. Obvious decisions (robust to error) _require_ no more than a single reason.

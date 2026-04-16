@@ -1,5 +1,5 @@
 - social, economic and cultural life is black swan domain, physical life much less
-    
+    [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Masculine Imperative/Monopoly/Monopoly/THE IDEOLOGY OF COMPETITION|THE IDEOLOGY OF COMPETITION]]
     Social, economic, and cultural life lie in the Black Swan domain, physical life much less so.
     
     Further, the idea is to separate domains into those in which these Black Swans are both unpredictable and consequential, and

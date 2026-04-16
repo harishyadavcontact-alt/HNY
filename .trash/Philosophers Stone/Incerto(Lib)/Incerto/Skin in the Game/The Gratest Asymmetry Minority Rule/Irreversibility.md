@@ -1,3 +1,0 @@
-Egypt’s Copts suffered from an additional problem: the irreversibility of Islamic conversions. Many Copts during Islamic rule converted to the dominant religion when it was merely an administrative procedure, something that helps one land a job or handle a problem that requires Islamic jurisprudence.
-
-One did not have to really believe in it, since Islam doesn’t conflict markedly with Orthodox Christianity. Little by little a Christian or Jewish family engaging in a Marrano-style conversion becomes truly converted, as, a couple of generations later, the descendants forget the arrangement of their ancestors.

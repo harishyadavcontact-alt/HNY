@@ -13,7 +13,7 @@ Heuristics
 
 - If [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Anti Fragility/Nurture fights the Last war, Nature fights the next]]
 
-- Hence [[nurture]] is to learn the Lessons & Consolidate them that is what it means to nurture
+- Hence [[Craft/Selfcraft/Nurture/Nurture]] is to learn the Lessons & Consolidate them that is what it means to nurture
 
 - Nature makes people stuck in their ways, with their [[Revealed Preference]] & [[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Preference/Stated Preference]]
 

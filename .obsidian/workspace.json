@@ -4,24 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "288b62e4119e9ba8",
+        "id": "debfd0357e4ac271",
         "type": "tabs",
         "children": [
           {
-            "id": "eadd008c5a6a7cf3",
+            "id": "13b2a7c4d0a0ced7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Craft/Stagecraft/Showmanship.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Showmanship"
+            }
+          }
+        ]
+      },
+      {
+        "id": "92c641a9280c1e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09675681021efe89",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Craft/Tradecraft/Tradecraft.canvas",
-                "viewState": {
-                  "x": 949.5975889791501,
-                  "y": -268.2964815914861,
-                  "zoom": -0.7322346274529539
+                "file": "Craft/Selfcraft/Nurture/Nurture.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Tradecraft"
+              "icon": "lucide-file",
+              "title": "Nurture"
             }
           }
         ]
@@ -66,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "surgical",
+                "query": "surgicalmonop",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -82,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 402.5
   },
   "right": {
     "id": "48375f1da2e0fd5e",
@@ -93,25 +122,6 @@
         "id": "30de23da705a3866",
         "type": "tabs",
         "children": [
-          {
-            "id": "23b0e13acf73cd6c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Lab/Command Center/State of Affairs.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for State of Affairs"
-            }
-          },
           {
             "id": "75d51971f4c5bcc0",
             "type": "leaf",
@@ -189,9 +199,28 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "232402457eb3aea6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Craft/Selfcraft/Nurture/Nurture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nurture"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -212,54 +241,53 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "eadd008c5a6a7cf3",
+  "active": "da1e54a242780243",
   "lastOpenFiles": [
-    "First order of Business in the war room.txt",
+    "Craft/Selfcraft/Nurture/Nurture.md",
+    "Craft/Stagecraft/Showmanship.md",
+    "Library(anti)/Code of Conduct/0Rethoric/Rethoric.md",
+    "Lab/War Room/Ashwamedha.canvas",
+    "Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Wisdom of Crowds.md",
+    "Craft/Stagecraft/Rethoric.md",
+    "Lab/Harish Yadav Rethoric.md",
+    "Craft/Stagecraft/Show Structures.md",
+    "Craft/Mastercraft/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Justice/Emergence of Conventions/Causes.md",
+    "Craft/Mastercraft/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Justice/Emergence of Conventions/Causes/Rebelion.md",
+    "Craft/Mastercraft/Philosophy/Masculine/Masculine/Masculinity/Philosophical/Justice/Emergence of Conventions/Causes",
+    "Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Covert/Revolution, Revolt, Rebel Never Disrupt.md",
+    "Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Exoteric Consensus.md",
+    "Craft/Stagecraft/Social/Social Barbell.md",
+    "Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Popular.md",
+    "Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Fame.md",
+    "Library(anti)/Code of Conduct/0Rethoric",
+    "Library(anti)/Code of Conduct",
+    "Library(anti)",
+    "Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Strategy of Strategy.canvas",
+    "Craft/Stagecraft/Social/Social Capital.md",
+    "Craft/Stagecraft/Social/Judious Defence.md",
+    "Craft/Stagecraft/Stagecraft/Stage Craft Means/Rethoric/1Exoteric/Generosity.md",
+    "Craft/Stagecraft/Social/socialCapital/Hospatality.md",
+    "Craft/Stagecraft/Social/socialCapital/Greasing the cogs.md",
+    "Craft/Stagecraft/Social/socialCapital/Courtesy.md",
+    "Craft/Stagecraft/Social/socialCapital/Hospitality.md",
+    "Craft/Tradecraft/Business/Monopoly/Lindy Artisan Professions.md",
+    "Craft/Tradecraft/Tradesminship/Tradsmenship.md",
+    "Craft/Tradecraft/Business/Means/Venture Capital.md",
+    "Craft/Tradecraft/Business/Means/OWNERSHIP, POSSESSION, AND CONTROL.md",
+    "Craft/Tradecraft/Business/Monopoly/Tradecraft.canvas",
+    "Craft/Mastercraft/Mastercraft.canvas",
+    "Craft/Mastercraft/Philosophy/Masculine/Masculine.canvas",
+    "Craft/Tradecraft/Business",
+    "Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Masculine Imperative/Monopoly",
+    "Craft/Tradecraft/Business/Monopoly/Monopoly Deception 1",
+    "Craft/Tradecraft/Monopoly/Monopoly/Monopoly/Monopoly Deception",
+    "Craft/Tradecraft/Monopoly/Monopoly/Monopoly",
+    "Craft/Tradecraft/Monopoly/Monopoly/4 CHARACTERISTICS OF MONOPOLY",
     "Archive/Obsidian-precodex/Canvas/Master Canvas.canvas",
     "Archive/Obsidian-precodex/Canvas/Dashboard.canvas",
-    "Archive/Obsidian-precodex/Canvas/~$hwaCapmDoc.docx",
-    "Archive/Obsidian-precodex/~$~$Genesis_Antifragility_Dashboard.xlsx",
-    "Archive/Obsidian-precodex/Excalidraw/Drawing 2026-01-23 06.48.13.excalidraw",
-    "Craft/Tradecraft/Tradecraft.canvas",
-    "Archive/Obsidian-precodex/Excalidraw/Drawing 2026-02-22 10.16.49.excalidraw.md",
-    "System of Systems/Untitled 2.md",
-    "Archive/Obsidian-precodex/~$Genesis_Antifragility_Dashboard.xlsx",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/Monopoly.md",
-    "Lab/War Room/Ashwamedha.canvas",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Unconventional Truth Secret Question.md",
     "Archive/Obsidian-precodex/Untitled 1.canvas",
-    "Archive/Obsidian-precodex/Untitled.md",
     "Archive/Obsidian-precodex/Untitled.canvas",
-    "Archive/Obsidian-precodex/README.md",
-    "Archive/Obsidian-precodex/PROJECT_MAYA_Volatility_Protocol (2).pdf",
-    "Archive/Obsidian-precodex/Library(anti)/Vault Dashboard.md",
-    "Archive/Obsidian-precodex/Library(anti)/Non Predictive Strategy.md",
-    "Archive/Obsidian-precodex/Library(anti)/Dominance Hierarchy.md",
     "System of Systems/System of Systems.canvas",
-    "Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Anti Fragility/Progress/Horizontal Extensive Progress.md",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Tradecraft.md",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Tradesman.md",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Tail Hedge Fund.md",
-    "Craft/Tradecraft/Trade Volatility.md",
-    "Craft/Stagecraft (Showman)/Persuation/Milk the Premise.md",
-    "Craft/Tradecraft/THE DISTRIBUTION QUESTION - the world is a labotory.md",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions/THE DURABILITY QUESTIO -The last mover.md",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions/THE TIMING QUESTION.md",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions/THE PEOPLE QUESTION.md",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions/THE MONOPOLY QUESTION-highly attainable over highly competitive.md",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions/Bootstrapping Heuristics.md",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions/THE DISTRIBUTION QUESTION - the world is a labotory.md",
-    "Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/More is less/Hormetic/Get in trouble serious, but not terminal- sophistication is born out of hunger.md",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/THE ENGINEERING QUESTION 10x.md",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/Questions.md",
-    "Craft/Tradecraft/Tradecraft (Tradesman)/Monopoly/7 Questions",
-    "Harish Yadav.canvas",
-    "Craft/Mastercraft/Mastercraft.canvas",
-    "Craft/Mastercraft/Master Craft.canvas",
-    "Archive/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/Complexity/Evloution",
-    "Archive/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/Complexity",
-    "Archive/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex",
-    "Archive/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science",
     "mission-command/public/vite.svg",
     "mission-command/src/assets/react.svg",
     "Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/GameB/Pasted image 20260113143414.png",

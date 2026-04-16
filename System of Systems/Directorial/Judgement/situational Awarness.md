@@ -19,9 +19,9 @@ Get on top of things.
 - [[Doctrine 1|Doctrine 1]]
 
 
-- [[Craft/Stagecraft/Dialectic 1/Dialectic Positions]]
+- [[Craft/Stagecraft/Stagecraft/Dialectic/Dialectic Positions 1]]
 
-- [[Craft/Stagecraft/Stage Craft Means/0Rethoric/Rethoric 1|Rethoric 1]]
+- [[Rethoric 1|Rethoric 1]]
 
 - [[Judious Defence]]
     
@@ -36,7 +36,7 @@ Get on top of things.
     
     - [[Family Affairs]]
     
-    - [[Craft/Tradecraft/Tradecraft (Tradesman)/Finincial/Finincial]]
+    - [[Finincial]]
     
 
 - [[Expidious (Offence)]]
@@ -44,8 +44,8 @@ Get on top of things.
 
 [[Lab/Command Center/Options/Options|Options]]
 
-[[Craft/Stagecraft/Dialectic 1/Dialectic]]
+[[Craft/Stagecraft/Stagecraft/Dialectic/Dialectic 1]]
 
-[[Craft/Stagecraft/Stage Craft Means/0Rethoric/Rethoric 1|Rethoric 1]]
+[[Rethoric 1|Rethoric 1]]
 
 [[Lab/Command Center/lifestyle]]

@@ -1,3 +1,0 @@
-As we saw in Chapter 3, there is a distinction between organisms (biological or nonbiological) and machines. People with an engineering-oriented mind will tend to look at everything around as an engineering problem. This is a very good thing in engineering, but when dealing with cats, it is a much better idea to hire veterinarians than circuits engineers—or even better, let your animal heal by itself.
-
-Table 3 provides a glimpse of these attempts to “improve matters” across domains and their effects. Note the obvious: in all cases they correspond to the denial of antifragility.

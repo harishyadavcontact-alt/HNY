@@ -1,1 +1,0 @@
-- Respecting the limits of a particular discipline

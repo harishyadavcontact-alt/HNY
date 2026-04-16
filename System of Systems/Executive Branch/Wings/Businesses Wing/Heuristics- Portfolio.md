@@ -41,15 +41,15 @@ explain long and short in stock markets
 **Usage** Investors combine both strategies to hedge risks or capitalize on market movements[3][7]. Short selling requires experience due to high risk[4].  
 Citations:[1] Long vs Short Positions in Trading - What's the Difference? https://www.religareonline.com/blog/long-and-short-positions/[2] Long Position Vs. Short Position: What's The Difference In Stock ... https://www.bankrate.com/investing/long-and-short-stock-positions/[3] Long Position vs. Short Position: What's the Difference? - Investopedia https://www.investopedia.com/ask/answers/100314/whats-difference-between-long-and-short-position-market.asp[4] Stock Purchases and Sales: Long and Short - Investor.gov https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/stock-purchases-and-sales-long-and[5] Long Position and Short Position: Differences & Examples | 5paisa https://www.5paisa.com/stock-market-guide/stock-share-market/long-and-short-positions[6] Position Definition—Short and Long Positions in Financial Markets https://www.investopedia.com/terms/p/position.asp[7] Long and Short Positions https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/long-and-short-positions/[8] Long vs Short Positions: Understanding Investment Strategies https://www.bajajfinserv.in/long-and-short-positions
 
-[[Ret]]
+[[Craft/Stagecraft/Ret]]
 
-[[Craft/Stagecraft/Dialectic 1/Bloodsport Debate]]
+[[Craft/Stagecraft/Stagecraft/Dialectic/Bloodsport Debate]]
 
 [[Untitled 6]]
 
 [[Private equity]]
 
-[[Venture capital]]
+[[Craft/Tradecraft/Business/Means/Venture Capital]]
 
 Litigations financing
 

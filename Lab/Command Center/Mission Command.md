@@ -152,7 +152,7 @@ HEURISTIC:
 			- Heuristic
 				- Become a [[Autodidactic]], [[Polyglot]], [[polymath]],[[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Philostone/Erudite]].
 			- Rely on [[Exoteric Doctrine]] for [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Meta Strategy/Coersion/Manufacturing Consent/Rhetoric|Rhetoric]]
-			- Get your [[Craft/Stagecraft/Dialectic 1/Dialectic]] positions based on [[Esoteric Doctrine]] right.
+			- Get your [[Craft/Stagecraft/Stagecraft/Dialectic/Dialectic 1]] positions based on [[Esoteric Doctrine]] right.
 
 A man with out a Mission is a Rebel without Cause.
 
@@ -497,8 +497,8 @@ Phase 2: Break the Matrix: Unlock the Official
 		- Be a Multi Millioner ASAP
 	- [[Personal Brand- Harish Yadav]]
 		- The most valuable [[Personal Brand- Harish Yadav]], Globally, Commanding Influence in the largest population in the history of the planet
-	- [[Private Network|Private Network]]
-		- Build the most [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Master Morality The best way to not be in Danger i/Power]]ful [[Competent]][[Private Network]] [[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Networks/Global]]ly, alingned for a comman Cause.
+	- [[Craft/Stagecraft/Private Network|Private Network]]
+		- Build the most [[Craft/Mastercraft/Intelligence/State of the Art/Philosophy/Masculine/Masculine/Masculinity/Master Morality The best way to not be in Danger i/Power]]ful [[Competent]][[Craft/Stagecraft/Private Network]] [[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Networks/Global]]ly, alingned for a comman Cause.
 	- [[children]]
 		- Sire multiple Children
 	- Take your place in Society - The[[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Evolution/Dominance Hirarchy]]
@@ -527,7 +527,7 @@ Phase 2: Break the Matrix: Unlock the Official
 	  You need to save yourself before you save the world.
 - [[Allys 2]]
 	- [[Lab/Spiral/Project Barbel/Craft/Tradecraft (Tradesman)/Finincial/Resources Big Bad Winner/wealth/Untitled/Company]]
-	- [[Private Network]]
+	- [[Craft/Stagecraft/Private Network]]
 	- [[Network State 2]]
 - [[Craft/Mastercraft/Intelligence/State of the Art/Meta Strategy/Offense/Offense]]
   
@@ -574,11 +574,11 @@ Phase 2: Break the Matrix: Unlock the Official
 	  
 	  [[Covert 2]]
 - [CoC](https://www.notion.so/CoC-2bd3b349ac2081e9be06c0c3ab0a3e69?pvs=21)
-	- [[Craft/Stagecraft/Stage Craft Means/0Rethoric/Sales 1|Sales 1]]
+	- [[Craft/Stagecraft/Stagecraft/Stage Craft Means/Rethoric/Sales 1|Sales 1]]
 	- [[Library(anti)/Code of Conduct/0Rethoric/OffenciveRethoric/Manufacturing Consent/Persuasion]]
 	- [[Diplomacy]]
 - #
-    [[Craft/Tradecraft/Tradecraft (Tradesman)/Tail Hedge Fund]]
+    [[Craft/Tradecraft/Business/Means/Tail Hedge Fund]]
   
   [[#1 Start Up/Start Up|1- Start Up]]
   

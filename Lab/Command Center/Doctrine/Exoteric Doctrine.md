@@ -43,7 +43,7 @@
         
         - The Exoteric manifests as [[Archive/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/Complexity/Evloution/Culture|Culture]] that acts as a [[Epigenetics]] regulator, of the [[Macro Evloution]]ary [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/Complexity/Evloution/Lineage]]s of the [[Gene]].
         
-        - [[Archive/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/Complexity/Evloution/Culture|Culture]] shapes the [[Phenotype 1]], it [[nurture]] people for [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Anti Fragility/Nurture fights the Last war, Nature fights the next]].
+        - [[Archive/Library(anti)/State of the Art(Lib)/State of the Art/Philosophy of Science/Complex/Complexity/Evloution/Culture|Culture]] shapes the [[Phenotype 1]], it [[Craft/Selfcraft/Nurture/Nurture]] people for [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Anti Fragility/Nurture fights the Last war, Nature fights the next]].
         
         - In good times [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Culture is King]], vertically transimited [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Time Tested/Lindy]] wisdom, turning it into [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Contrarian/Convention/Social Conventions/Second Nature]].
         
@@ -67,7 +67,7 @@
         
         - Hence to protect their world they must be in the [Exoteric](https://www.notion.so/Exoteric-2d73b349ac20801b95ddce313b815bd3?pvs=21) , to protect their [[Soul]].
         
-        - Hence a culture pushing [[Craft/Stagecraft/Dialectic 1/Dialectic Positions/Feminine Virtue]] & Myth of obedience for children, ensures their survival.
+        - Hence a culture pushing [[Craft/Stagecraft/Stagecraft/Dialectic/Dialectic Positions/Feminine Virtue]] & Myth of obedience for children, ensures their survival.
         
         - Hence why women and children first.
         

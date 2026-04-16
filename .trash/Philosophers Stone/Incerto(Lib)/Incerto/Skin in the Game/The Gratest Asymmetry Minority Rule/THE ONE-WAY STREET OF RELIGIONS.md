@@ -1,3 +1,0 @@
-In the same manner, the spread of Islam in the Near East, where Christianity was heavily entrenched (remember that it was born there), can be attributed to two simple asymmetries. The original Islamic rulers weren’t particularly interested in converting Christians, as these provided them with tax revenues—the proselytism of Islam did not initially address those called “people
-
-of the book,” i.e. individuals of Abrahamic faith. In fact, my ancestors who survived thirteen centuries under Muslim rule saw clear advantages in not being Muslim: mostly in the avoidance of military conscription.

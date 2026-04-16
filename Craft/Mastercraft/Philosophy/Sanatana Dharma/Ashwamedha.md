@@ -75,7 +75,7 @@ The attractors are or by the @anticristanti
     
     - [[Empire]]
         
-        [[Private Network|Private Network]]
+        [[Craft/Stagecraft/Private Network|Private Network]]
         
         [[Network State]]
         
@@ -146,7 +146,7 @@ Plan A
 
 The plan is to operate in a [[Craft/Selfcraft/Nurture/Masculinity]]linity]] Frame, and Follow my [[Craft/Mastercraft/Philosophy/Sanatana Dharma/Ashwamedha]] and go where ever it takes me.
 
-[[Craft/Mastercraft/Philosophy/Sanatana Dharma/Ashwamedha]] top down goals is [[Fuck you money]], [[Private Network|Private Network]] and a [[Network State]].
+[[Craft/Mastercraft/Philosophy/Sanatana Dharma/Ashwamedha]] top down goals is [[Fuck you money]], [[Craft/Stagecraft/Private Network|Private Network]] and a [[Network State]].
 
 [[The Campaign]]
 

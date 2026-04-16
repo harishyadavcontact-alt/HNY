@@ -1,8 +1,0 @@
-- fragility detection over the agent of chaos, fix vulnerabilities over looking for triggers
-    
-    When constrained systems, those hungry for natural disorder, collapse, as they are eventually bound to, since they are fragile, failure is never seen as the result of fragility. Rather, such failure is interpreted as the product of poor forecasting.
-    
-    In 2011, U.S. president Barack Obama blamed an intelligence failure for the government’s not foreseeing the revolution in Egypt that took place that spring (just as former U.S. president Jimmy Carter blamed an intelligence failure for his administration’s not foreseeing the 1979 Islamic Revolution in Iran), missing the point that it is the suppressed risk in the statistical “tails” that matters—not the failure to see the last grain of sand. One analogy to economics: after the inception of the financial crisis in 2007–2008, many people thought that predicting the subprime meltdown (which seemed in their mind to have triggered it) would have helped. It would not have, for Baal’s sake, since it was a symptom of the crisis, not its underlying cause. Likewise, Obama’s blaming “bad intelligence” for his administration’s failure to predict the uprising that took place in Egypt is symptomatic of both the misunderstanding of complex systems and the bad policies involved. And superpowers are plain turkeys in that story.
-    
-
-**It would be unintelligent to attribute the collapse of a fragile bridge to the last truck that crossed it, and even more foolish to try to predict in advance which truck might bring it down. Yet it is done all too often.**

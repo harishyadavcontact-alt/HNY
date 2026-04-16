@@ -8,7 +8,7 @@ First step in thinking cleary is to question wat we think we know about the past
 Confiromity  
 confirm only where it makes sence to you, gain to you
 
-[[Technology-]]
+
 
 - Technology
     

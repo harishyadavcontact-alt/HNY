@@ -1,1 +1,0 @@
-Your body is more imaginative about the future than you are.

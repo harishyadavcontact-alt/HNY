@@ -15,9 +15,9 @@ can you help me gain clarity throug this clarificalo, basicall a man has to choe
 
 [[Archive/Obsidian-precodex/Library(anti)/State of the Art(Lib)/State of the Art/Meta Strategy/Untitled]]
 
-[[Craft/Stagecraft/Stage Craft Means/0Rethoric/1Exoteric/Professional]]
+[[Professional]]
 
-[[Craft/Stagecraft/3Exotic/Distribution]]
+[[Distribution]]
 
 [[BaseVault/ExportBlock-/All in one/Untitled/Blueprint/Code of Conduct/Virtue]]
 
@@ -134,7 +134,7 @@ paid to exist
 
   
 
-[[Craft/Stagecraft/Stage Craft Means/0Rethoric/Langagues]]
+[[Craft/Stagecraft/Stagecraft/Stage Craft Means/Rethoric/Langagues]]
 
 [[Diplomacy 2]]
 
@@ -146,7 +146,7 @@ paid to exist
 > 
 > Offence
 > 
-> [[Craft/Stagecraft/Stage Craft Means/0Rethoric/Sales 1|Sales 1]]
+> [[Craft/Stagecraft/Stagecraft/Stage Craft Means/Rethoric/Sales 1|Sales 1]]
 > 
 > [[Library(anti)/Code of Conduct/0Rethoric/Negotiation]]
 > 
@@ -154,13 +154,13 @@ paid to exist
 > 
 > [[Library(anti)/Code of Conduct/0Rethoric/Debate]]
 > 
-> [[Craft/Stagecraft/Stage Craft Means/0Rethoric/Frame Control 1|Frame Control 1]]
+> [[Craft/Stagecraft/Stagecraft/Stage Craft Means/Rethoric/Frame Control 1|Frame Control 1]]
 
 > [!important]
 > 
 >   
 > 
-> [[Craft/Stagecraft/Stage Craft Means/0Rethoric/Confidentiality]]
+> [[Confidentiality]]
 > 
 > [[Character 2]]
 > 
@@ -172,25 +172,25 @@ paid to exist
 > 
 > [[Diplomacy]]
 > 
-> [[Craft/Stagecraft/Stage Craft Means/0Rethoric/1Exoteric/Generosity]]
+> [[Generosity]]
 > 
-> [[Craft/Stagecraft/Stage Craft Means/0Rethoric/1Exoteric/Hospitality]]
+> [[Hospitality]]
 > 
 > [[Craft/Stagecraft/Stage Craft Means/0Rethoric/1Exoteric/Cordial]]
 
 > [!important]
 > 
-> [[Craft/Stagecraft/Stage Craft Means/0Rethoric/Conversation]]
+> [[Conversation]]
 > 
 > [[BaseVault/ExportBlock-/All in one/Untitled/Blueprint/Code of Conduct/Shame]]
 > 
-> [[Craft/Stagecraft/Stage Craft Means/0Rethoric/Stick- -ve social feed back]]
+> [[Craft/Stagecraft/Stagecraft/Stage Craft Means/Rethoric/Stick- -ve social feed back]]
 > 
 > > [!important]
 > > 
 > > Hedge
 > > 
-> > [[Craft/Stagecraft/Stage Craft Means/0Rethoric/1Exoteric/Courtesy]]
+> > [[Craft/Stagecraft/Stagecraft/Stage Craft Means/Rethoric/1Exoteric/Courtesy]]
 > > 
 > > - **nonchalant**
 > >     
@@ -209,17 +209,17 @@ paid to exist
 
   
 
-[[Craft/Stagecraft/Stage Craft Means/0Rethoric/Comedy]]
+[[Comedy]]
 
-[[Craft/Stagecraft/Stage Craft Means/0Rethoric/ELICITATION]]
+[[ELICITATION]]
 
-[[Craft/Stagecraft/Stage Craft Means/0Rethoric/Hooked]]
+[[Craft/Stagecraft/Stagecraft/Stage Craft Means/Rethoric/Hooked]]
 
 [[Conversation 2]]
 
 [[BaseVault/ExportBlock-/All in one/Untitled/Blueprint/Code of Conduct/Scripts]]
 
-[[Harish Yadav]]
+[[Craft/Stagecraft/Harish Yadav]]
 
 [[Debate 2]]
 
@@ -227,4 +227,4 @@ paid to exist
 
 [[Code of Conduct Blueprint]]
 
-[[Craft/Stagecraft/Stage Craft Means/0Rethoric/Retoric/The Lure]]
+[[The Lure]]

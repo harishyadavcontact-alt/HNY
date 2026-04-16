@@ -1,1 +1,0 @@
-1. Disconfirmation is the hallmark of rigor,

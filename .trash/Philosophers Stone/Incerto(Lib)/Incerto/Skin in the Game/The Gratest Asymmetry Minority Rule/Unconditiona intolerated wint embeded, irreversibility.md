@@ -1,5 +1,0 @@
-So all Islam did was out-stubborn Christianity, which itself won thanks to its own stubbornness. For before Islam, the original spread of Christianity in the Roman empire was largely due to …the blinding intolerance of Christians; their unconditional, aggressive, and recalcitrant proselytizing. Roman pagans were initially tolerant of Christians, as the tradition was to share gods with other members of the empire.
-
-But they wondered why these Nazarenes didn’t want to give and take gods and offer that Jesus fellow to the Roman pantheon in exchange for some other gods. What, our gods aren’t good enough for them? But Christians were intolerant of Roman paganism.
-
-The “persecution” of the Christians had vastly more to do with the intolerance of the Christians for the pantheon of local gods than the reverse. What we read is history written by the Christian side, not the Greco-Roman one.

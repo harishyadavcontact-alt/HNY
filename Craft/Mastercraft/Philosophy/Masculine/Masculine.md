@@ -56,7 +56,7 @@
 
 [[Craft/Mastercraft/Philosophy/Masculine/Masculine/Standards]]
 
-[[Craft/Stagecraft/Stage Craft Means/0Rethoric/1Exoteric/Mystique]]
+[[Mystique]]
 
 [[Craft/Selfcraft/Nurture/Masculinity]]linity]]
 

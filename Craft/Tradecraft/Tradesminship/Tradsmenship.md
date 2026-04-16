@@ -1,0 +1,159 @@
+- [[Tradsmenship]]
+	- [[Progress]]
+		- [[Horizontal Extensive Progress]] Zero Sum
+			- [[Craft/Tradecraft/Business/Monopoly/THE IDEOLOGY OF COMPETITION|THE IDEOLOGY OF COMPETITION]]
+			- [[Philanthropic]]
+			- [[Craft/Mastercraft/Intelligence/State of the Art/Evolution/Frontier 3 - Theft|Frontier 3 - Theft]]
+			- [[Frontiers 1  - Geographical]]
+				- [[Craft/Tradecraft/Tradesminship/Globalization = Substution|Globalization = Substution]]
+		- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Progress/Vertical (Intencive) Progress/Vertical (Intencive) Progress|Vertical (Intencive) Progress]]
+			- [[Craft/Tradecraft/Business/Monopoly/Technology|Technology]]
+				- [[Craft/Mastercraft/Intelligence/State of the Art/Evolution/Frontier 2- Technological|Frontier 2- Technological]]
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Progress/Vertical (Intencive) Progress/Technology = Miracles/Technology = Complement|Technology = Complement]] Fingers - etc, evolutionarily adaptive either genetic or mimetic are Complementarily, finger are no substation for feet.
+					- Real tech is non perishable - Perennial.
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Judious(Defence)/Rigor/Via Negativa/Techne- How (Not)|Techne- How (Not)]] Better at Doing than Thinking.
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Progress/Vertical (Intencive) Progress/Technology = Miracles|Technology = Miracles]] & [[History- Is Black Swan to Black Swan]]
+				- Hunger: 
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/More is less/Hormetic/“necessity really is the mother of invention.”|“necessity really is the mother of invention.”]]
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/More is less/Hormetic/Get in trouble serious, but not terminal- sophistication is born out of hunger|Get in trouble serious, but not terminal- sophistication is born out of hunger]]
+				- Growth
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Growth/Post Traumatic growth|Post Traumatic growth]]
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Anti Fragility/Harm is Dose Dependent|Harm is Dose Dependent]]
+			- [[Craft/Tradecraft/Business/Monopoly/Monopoly|Monopoly]]
+				- No Creative monopoly
+					- Rent Cllectors - seeker
+						- Control market, Jack up Prices, Relative Value is fixed for all time, all you can do is try to buy them up
+				- Creative Monopoly
+					- Create value everyone benefits
+						- The Only
+							- Escape compeit with uniquiness, that coes from solvin hyper local, particular, uniquie probel, truly unique = Historic, solvin it is Monopoy by default
+							- All happ compani are differt all faield compais are the same.
+							- Monopoly is good for everone on inside, iternalise gains,
+							- Externalise Gains 
+					- and Capture Value to sustain your self
+					- Affect
+						- In monopoly your death affects the world, in competion your death affect you, 
+						- Patents: the Monopoly enabli by the state, IP, Copyrights, ect what aviods theft o tradesecre enabel monopolies
+						- Monopoy business is non comoditization.
+						- Brading is about decomotadising your self: Like no other one and only.
+						- Monopoly guaranteesdecade of profits hence incetives inventions and innovations, You need power to run ambious randoised trials -  research expirement for long term, to invent and innove more technologies.  
+				- [[Craft/Tradecraft/Business/Monopoly/4 CHARACTERISTICS OF MONOPOLY/4 CHARACTERISTICS OF MONOPOLY|4 CHARACTERISTICS OF MONOPOLY]]
+					- [[Genesis Proprietary Technology]]
+					- [[Craft/Tradecraft/Business/Monopoly/4 CHARACTERISTICS OF MONOPOLY/Path Dependence- Network Effects|Path Dependence- Network Effects]]
+					- [[Scale Dependenc- Economies of Scale]]
+					- [[Mimetic Foundation - Branding|Mimetic Foundation - Branding]]
+				- [[7 Questions]]
+					1. The Engineering Question
+						Can you create breakthrough technology instead of incremental improvements?		[[THE ENGINEERING QUESTION 10x]]
+					2. The Timing Question
+						Is now the right time to start your particular business? [[THE TIMING QUESTION]]
+					3. The Monopoly Question
+						Are you starting with a big share of a small market? [[THE MONOPOLY QUESTION-highly attainable over highly competitive]]
+					4. The People Question
+						Do you have the right team? [[THE PEOPLE QUESTION]]
+					5. The Distribution Question
+						Do you have a way to not just create but deliver your product?[[Craft/Tradecraft/Business/Monopoly/7 Questions/THE DISTRIBUTION QUESTION - the world is a labotory]]
+					6. The Durability Question
+						Will your market position be defensible 10 and 20 years into the future? [[THE DURABILITY QUESTIO -The last mover]]
+					7. The Secret Question
+						Have you identified a unique opportunity that others don’t see?[[Tradesecret Unconventional Truth Secret Question]]
+				- [[Domination BUILDING A MONOPOLY]]
+					- [[Craft/Mastercraft/Intelligence/State of the Art/Philosophers Stone/Incerto(Lib)/Incerto/Skin in the Game/The Gratest Asymmetry Minority Rule/Minority Rule|Minority Rule]]
+						- [[Origin Dominate Tiny Market]]
+						- [[Adjacent Markets]]
+						- [[Vertically Integrated Monopolies]]
+						- Winner takes all - The Best survive
+							- Competin is relative better evn subjectively better
+							- But Monopoly is absolue better i.e. like no other
+					- Never Disrupt: Disruption = Give more business than you take never take business, Disruption is a lie, only theory.
+				- [[Craft/Tradecraft/Business/Monopoly/LAST MOVER ADVANTAGE - Escape Competition|LAST MOVER ADVANTAGE - Escape Competition]]
+					- Eliminate Competition: eliminate any close substation,
+					- Value
+						- Offence: Growth
+							- The Valuable company is the one that barbell with a the lindy  & Contrarian truths (new trade secrets) that will make the company perennial.
+						- Defence: Perennial - non Perishability
+							- Address all Security, Confidentiality, safety, Authentication first
+							- First do no harm
+							- The goal is peranalilti, Sellers are Historic & Lindy
+							- New tech solving old problems in new ways with unconventional truths.
+							- focusing on near term growth is trading fragility for temp stability.
+							- These fragility compound severely and lead to vulnerabilities that can blow you ups inevitable
+							- Irreversibility
+								- Business is path dependent, and hence choosing small niche dominating and then choosing the 2nd smallest and dominating, will lead to a compounded, exponential where 0-> 1 slow with in -> infinity fast.
+					- Value creation: 
+						- Top-line focus, Growth at All costs, future monopoly profits with pricing power
+					- Valuation: Discounted future cashflows
+					- [[BlitzScaling]]
+				- [[Amazon working Backwords]] - [[Craft/Mastercraft/Intelligence/State of the Art/Complexity/Complex/Complexity/Epistemology/2nd Person Epistemics|2nd Person Epistemics]]
+				- PR: We are a small fish in a Big market [[Craft/Tradecraft/Business/Monopoly/Monopoly Deception/Competitive Lies - disguise as interception of small markets|Competitive Lies - disguise as interception of small markets]]
+				- [[Craft/Tradecraft/Business/Monopoly/COMPLEMENTARY BUSINESSES|COMPLEMENTARY BUSINESSES]]
+				- [[Law of History  Power Law]]
+					- Deploy Time: 
+						- Look at the peranality of thinking you work on Don't Divercify
+						- Is what im doing matter in the future  i.e. Humanhistory , i.e. perniality
+						- Historicty is the edge in a lindy world, if the older the things are the more they will survive, then the more histori the thn the longe it will survive
+						- Ergodicity: if tiem avg = ensembe avg for lindy  shit, then the more historic, and domina(bette than all combineed) the more perenial it is.
+						- .1% of somethng is better that 100% of nothing, deplo on a divircifed portofi of ebts is lottery
+						- Rule 1: 
+							- Time is limited, and Asymmeti bets are prenial, hence remove it all that has no perrenial potential, i.e. make hstory,
+							- if what you do does not make histrory, i.e. dominte all of humanit and history, dont do it, abolue hisotyr, the Greate of all time or just dont do it
+							- if you cat creat hisory, you can win, if you cant beat the current companies creating history, join them
+							- Never start a compay
+							- Join a fast growin company
+						- Rule 2: 
+							- Historicity, History, teche at cuttin edges, and state of the art tech, on the fronier of technoloy allo novel ways to win on the frontlien of geo-politics & Theft(respour inerperson transefer), solve local probel with cutte edge tech or crea cuttting edge tech with local proble solving. Techne
+				- Dominant Path: Power law
+					- One Market is better than all others
+					- One Distribution is better than all others
+					- One thin world class, be the one and only, no one.
+			- Business
+				- [[Craft/Tradecraft/Business/Monopoly/Lindy Artisan Professions|Lindy Artisan Professions]]
+			- Functions
+				- [[Craft/Tradecraft/Business/Means/FOUNDATIONS/FOUNDING MATRIMONY|FOUNDING MATRIMONY]]
+					- Founding Team:
+						- Co- Founder
+							- Complimentary skills & Pre-History, Marriage, Loyalty to each other  mission
+						- Team: 
+							- You Cant do it alone, not big to win a unit, minority rule
+				- [[Craft/Tradecraft/Business/Means/Stake Holders|Stake Holders]]
+					- [[Craft/Tradecraft/Business/Means/Stake Holders/VC/VC|VC]]
+						- [[Craft/Tradecraft/Business/Means/Stake Holders/Fund Raising/Fund Raising|Fund Raising]]
+					- [[Craft/Tradecraft/Business/Means/Stake Holders/Employees/Employees|Employees]]
+					- [[Customers]]
+				- [[Craft/Tradecraft/Business/Means/VESTED INTERESTS|VESTED INTERESTS]]
+					- Equit Allocation
+						- never Equal, Earlie the more they get as they took more risk
+						- Equity aling to create value
+						- Imposibbe to acki perfec fiar in distributing ownersh, hence keepit a sece, 
+						- Equity  = Long temr allys, Cahs = paracitism
+				- [[Craft/Tradecraft/Business/Means/OWNERSHIP, POSSESSION, AND CONTROL|OWNERSHIP, POSSESSION, AND CONTROL]]
+					- Ownership: Investors &  Employees [legal owner]
+					- Possession: Founder & Employees [who runs it ops]
+					- Control: Investors & Founders [govern the affair]
+				- Beurocratic Mis-alignment = ownership with no possession 
+				- Power of possession vs value of ownership
+					- CEO take from power of possession over the value of ownership
+				- Small firms
+					- They have ownership & control to founders
+			- Board
+				- Small and care fully picked
+				- 3 is ideal, never more that 5, in publi the avg is 9
+				- small boar is effecti big is ineffective
+			- On the train or off it
+				- Force stock options + full time + office, no remote, parttime salary seker, they are mis aling, you what them all in and all out
+			- CEO
+				- LEss the ceo take them more aligned he is
+				- Lowest salary set good for moral, but if you can kep the moral up withthe higher salary, it set a ceilin on the cash comensation
+			- Biase towas cash bonuses than a cash salary, bonus incet performance, salasy incetive parsitism
+			- prefer low cash hig equity stock option people.
+			- Mission & Vision over Cash = Aligned Moral - loyalty
+	- [[Craft/Tradecraft/Finincial/Finincial|Finincial]]
+		- Models
+			- Ray Dalio
+			- Safe heaven mark splitznegale
+			- Value investing
+			- Market lanage
+	- Economic
+		- Tabel Approved Econ + Behavioral ...
+		- Sanjeev sayal
+- 

@@ -1,1 +1,0 @@
-- First step in thinking clearly is to question what we think we know about the past, conventional belives only ever come to apper arbitrary and wrong in retrospect, wherever one collapses, we call the old belief a bubble, distori cause by bubbles dont disapper, when they pop,

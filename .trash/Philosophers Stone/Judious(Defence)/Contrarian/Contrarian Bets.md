@@ -1,3 +1,0 @@
-- Outsized returns comes from beting against, convectional wisdom, and conventional wisdom is usually right, given a 10% chance of a 100x payoff, you should take that bet every time, but your still, going to be wrong nine times out of ten.
-
-- Outsized returns comes from bettin against, convectional wisdom, and conventional wisdom is usually right, given a 10% chance of a 100x payoff, you should take that bet every time, but your still, going to be wrong nine times out of ten.

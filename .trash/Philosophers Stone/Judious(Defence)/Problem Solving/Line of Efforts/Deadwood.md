@@ -1,1 +1,0 @@
-Burn all the parts of you that does not, serve you let it all burn like deadwood, a funeral that can lead to the emergence the fresh new

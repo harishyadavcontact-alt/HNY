@@ -1,3 +1,0 @@
-Most answers to the contrarian question are different ways of seeing the present, good answers are as close as we can come to looking into the future,
-
-future = set of all moments yet to come, but what makes the future distinctive and important isnot that it hasnot happend yet, but rather that it ill be a time when the world looks different frm today, most answrs tot he contrarian question are different ways of seeing the present, good answers, are as close as we can come to looking into the future.

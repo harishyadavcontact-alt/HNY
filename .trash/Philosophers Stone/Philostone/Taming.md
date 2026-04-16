@@ -1,1 +1,0 @@
-Every beast stands tall as Wild and feral, yet by will and leasons, he will be domesticated, not elimination but domestication.[[Psychological Heuristics]].

@@ -1,1 +1,0 @@
-what is offically own or owe

@@ -1,1 +1,0 @@
-But popular culture has an awareness of its equivalent, revealed in the expression “it builds character.” So do the ancient Mediterranean classics, along with grandmothers.

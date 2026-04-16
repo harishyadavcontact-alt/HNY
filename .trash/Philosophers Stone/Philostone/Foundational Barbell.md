@@ -1,3 +1,0 @@
-- Foundational Barbell is 
-	- Defense: High stakes Low Risk
-	- Offence: Low Stakes High Risk
